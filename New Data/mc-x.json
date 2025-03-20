@@ -1,0 +1,1142 @@
+{
+    "data": [
+        {
+            "Data": {
+                "Description": "x and y chromosomal anomaly",
+                "TitleCaseName": "X and Y Chromosomal Anomaly",
+                "Slug": "x_and_y_chromosomal_anomaly"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x chromosome number anomaly",
+                "TitleCaseName": "X Chromosome Number Anomaly",
+                "Slug": "x_chromosome_number_anomaly"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x chromosome number anomaly with female phenotype",
+                "TitleCaseName": "X Chromosome Number Anomaly with Female Phenotype",
+                "Slug": "x_chromosome_number_anomaly_with_female_phenotype"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x chromosome number anomaly with male phenotype",
+                "TitleCaseName": "X Chromosome Number Anomaly with Male Phenotype",
+                "Slug": "x_chromosome_number_anomaly_with_male_phenotype"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x inactivation, familial skewed, 1",
+                "TitleCaseName": "X Inactivation, Familial Skewed, 1",
+                "Slug": "x_inactivation_familial_skewed_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x inactivation, familial skewed, 2",
+                "TitleCaseName": "X Inactivation, Familial Skewed, 2",
+                "Slug": "x_inactivation_familial_skewed_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x small rings",
+                "TitleCaseName": "X Small Rings",
+                "Slug": "x_small_rings"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthinuria",
+                "TitleCaseName": "Xanthinuria",
+                "Slug": "xanthinuria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthinuria, type i",
+                "TitleCaseName": "Xanthinuria, Type I",
+                "Slug": "xanthinuria_type_i"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthinuria, type ii",
+                "TitleCaseName": "Xanthinuria, Type Ii",
+                "Slug": "xanthinuria_type_ii"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthogranulomatous cholecystitis",
+                "TitleCaseName": "Xanthogranulomatous Cholecystitis",
+                "Slug": "xanthogranulomatous_cholecystitis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthogranulomatous pyelonephritis",
+                "TitleCaseName": "Xanthogranulomatous Pyelonephritis",
+                "Slug": "xanthogranulomatous_pyelonephritis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthoma disseminatum",
+                "TitleCaseName": "Xanthoma Disseminatum",
+                "Slug": "xanthoma_disseminatum"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xanthomatosis",
+                "TitleCaseName": "Xanthomatosis",
+                "Slug": "xanthomatosis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma of eyelid",
+                "TitleCaseName": "Xeroderma of Eyelid",
+                "Slug": "xeroderma_of_eyelid"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group b",
+                "TitleCaseName": "Xeroderma Pigmentosum Group B",
+                "Slug": "xeroderma_pigmentosum_group_b_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group c",
+                "TitleCaseName": "Xeroderma Pigmentosum Group C",
+                "Slug": "xeroderma_pigmentosum_group_c_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group d",
+                "TitleCaseName": "Xeroderma Pigmentosum Group D",
+                "Slug": "xeroderma_pigmentosum_group_d_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group e",
+                "TitleCaseName": "Xeroderma Pigmentosum Group E",
+                "Slug": "xeroderma_pigmentosum_group_e"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group f",
+                "TitleCaseName": "Xeroderma Pigmentosum Group F",
+                "Slug": "xeroderma_pigmentosum_group_f_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum group g",
+                "TitleCaseName": "Xeroderma Pigmentosum Group G",
+                "Slug": "xeroderma_pigmentosum_group_g_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, autosomal dominant, mild",
+                "TitleCaseName": "Xeroderma Pigmentosum, Autosomal Dominant, Mild",
+                "Slug": "xeroderma_pigmentosum_autosomal_dominant_mild"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group a",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group a",
+                "Slug": "xeroderma_pigmentosum_complementation_group_a"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group b",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group B",
+                "Slug": "xeroderma_pigmentosum_complementation_group_b"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group c",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group C",
+                "Slug": "xeroderma_pigmentosum_complementation_group_c"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group d",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group D",
+                "Slug": "xeroderma_pigmentosum_complementation_group_d"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group e",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group E",
+                "Slug": "xeroderma_pigmentosum_complementation_group_e"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group f",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group F",
+                "Slug": "xeroderma_pigmentosum_complementation_group_f"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, complementation group g",
+                "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group G",
+                "Slug": "xeroderma_pigmentosum_complementation_group_g"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum, variant type",
+                "TitleCaseName": "Xeroderma Pigmentosum, Variant Type",
+                "Slug": "xeroderma_pigmentosum_variant_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xeroderma pigmentosum-cockayne syndrome complex",
+                "TitleCaseName": "Xeroderma Pigmentosum-Cockayne Syndrome Complex",
+                "Slug": "xeroderma_pigmentosum_cockayne_syndrome_complex"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xerophthalmia",
+                "TitleCaseName": "Xerophthalmia",
+                "Slug": "xerophthalmia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xerosis and growth failure with immune and pulmonary dysfunction syndrome",
+                "TitleCaseName": "Xerosis and Growth Failure with Immune and Pulmonary Dysfunction Syndrome",
+                "Slug": "xerosis_and_growth_failure_with_immune_and_pulmonary_dysfunction_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xfe progeroid syndrome",
+                "TitleCaseName": "Xfe Progeroid Syndrome",
+                "Slug": "xfe_progeroid_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xia-gibbs syndrome",
+                "TitleCaseName": "Xia-Gibbs Syndrome",
+                "Slug": "xia_gibbs_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked alport syndrome",
+                "TitleCaseName": "X-Linked Alport Syndrome",
+                "Slug": "x_linked_alport_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked alport syndrome-diffuse leiomyomatosis",
+                "TitleCaseName": "X-Linked Alport Syndrome-Diffuse Leiomyomatosis",
+                "Slug": "x_linked_alport_syndrome_diffuse_leiomyomatosis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked calvarial hyperostosis",
+                "TitleCaseName": "X-Linked Calvarial Hyperostosis",
+                "Slug": "x_linked_calvarial_hyperostosis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked cerebellar ataxia",
+                "TitleCaseName": "X-Linked Cerebellar Ataxia",
+                "Slug": "x_linked_cerebellar_ataxia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked cerebral adrenoleukodystrophy",
+                "TitleCaseName": "X-Linked Cerebral Adrenoleukodystrophy",
+                "Slug": "x_linked_cerebral_adrenoleukodystrophy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked charcot-marie-tooth disease",
+                "TitleCaseName": "X-Linked Charcot-Marie-Tooth Disease",
+                "Slug": "x_linked_charcot_marie_tooth_disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked chondrodysplasia punctata 1",
+                "TitleCaseName": "X-Linked Chondrodysplasia Punctata 1",
+                "Slug": "x_linked_chondrodysplasia_punctata_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked chondrodysplasia punctata 2",
+                "TitleCaseName": "X-Linked Chondrodysplasia Punctata 2",
+                "Slug": "x_linked_chondrodysplasia_punctata_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked chronic idiopathic intestinal pseudo-obstruction",
+                "TitleCaseName": "X-Linked Chronic Idiopathic Intestinal Pseudo-Obstruction",
+                "Slug": "x_linked_chronic_idiopathic_intestinal_pseudo_obstruction"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked complex spastic paraplegia",
+                "TitleCaseName": "X-Linked Complex Spastic Paraplegia",
+                "Slug": "x_linked_complex_spastic_paraplegia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked complicated spastic paraplegia type 1",
+                "TitleCaseName": "X-Linked Complicated Spastic Paraplegia Type 1",
+                "Slug": "x_linked_complicated_spastic_paraplegia_type_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked congenital bilateral absence of vas deferens",
+                "TitleCaseName": "X-Linked Congenital Bilateral Absence of Vas Deferens",
+                "Slug": "x_linked_congenital_bilateral_absence_of_vas_deferens"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked congenital generalized hypertrichosis",
+                "TitleCaseName": "X-Linked Congenital Generalized Hypertrichosis",
+                "Slug": "x_linked_congenital_generalized_hypertrichosis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked congenital retinoschisis",
+                "TitleCaseName": "X-Linked Congenital Retinoschisis",
+                "Slug": "x_linked_congenital_retinoschisis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked congenital stationary night blindness",
+                "TitleCaseName": "X-Linked Congenital Stationary Night Blindness",
+                "Slug": "x_linked_congenital_stationary_night_blindness"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked corneal dermoid",
+                "TitleCaseName": "X-Linked Corneal Dermoid",
+                "Slug": "x_linked_corneal_dermoid"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked creatine transporter deficiency",
+                "TitleCaseName": "X-Linked Creatine Transporter Deficiency",
+                "Slug": "x_linked_creatine_transporter_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked deafness 5",
+                "TitleCaseName": "X-Linked Deafness 5",
+                "Slug": "x_linked_deafness_5"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked ehlers-danlos syndrome",
+                "TitleCaseName": "X-Linked Ehlers-Danlos Syndrome",
+                "Slug": "x_linked_ehlers_danlos_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked emery-dreifuss muscular dystrophy",
+                "TitleCaseName": "X-Linked Emery-Dreifuss Muscular Dystrophy",
+                "Slug": "x_linked_emery_dreifuss_muscular_dystrophy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked epilepsy with variable learning disabilities and behavior disorders",
+                "TitleCaseName": "X-Linked Epilepsy with Variable Learning Disabilities and Behavior Disorders",
+                "Slug": "x_linked_epilepsy_with_variable_learning_disabilities_and_behavior_disorders"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked hereditary ataxia",
+                "TitleCaseName": "X-Linked Hereditary Ataxia",
+                "Slug": "x_linked_hereditary_ataxia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked hereditary sensory and autonomic neuropathy with deafness",
+                "TitleCaseName": "X-Linked Hereditary Sensory and Autonomic Neuropathy with Deafness",
+                "Slug": "x_linked_hereditary_sensory_and_autonomic_neuropathy_with_deafness"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked immunodeficiency 74",
+                "TitleCaseName": "X-Linked Immunodeficiency 74",
+                "Slug": "x_linked_immunodeficiency_74"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, abidi type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Abidi Type",
+                "Slug": "x_linked_intellectual_disability_abidi_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, cantagrel type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Cantagrel Type",
+                "Slug": "x_linked_intellectual_disability_cantagrel_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, cilliers type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Cilliers Type",
+                "Slug": "x_linked_intellectual_disability_cilliers_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, hedera type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Hedera Type",
+                "Slug": "x_linked_intellectual_disability_hedera_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, nascimento type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Nascimento Type",
+                "Slug": "x_linked_intellectual_disability_nascimento_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, pai type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Pai Type",
+                "Slug": "x_linked_intellectual_disability_pai_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, schimke type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Schimke Type",
+                "Slug": "x_linked_intellectual_disability_schimke_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, seemanova type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Seemanova Type",
+                "Slug": "x_linked_intellectual_disability_seemanova_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, shashi type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Shashi Type",
+                "Slug": "x_linked_intellectual_disability_shashi_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, shrimpton type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Shrimpton Type",
+                "Slug": "x_linked_intellectual_disability_shrimpton_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, siderius type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Siderius Type",
+                "Slug": "x_linked_intellectual_disability_siderius_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, snyder type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Snyder Type",
+                "Slug": "x_linked_intellectual_disability_snyder_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, stevenson type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Stevenson Type",
+                "Slug": "x_linked_intellectual_disability_stevenson_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability, stoll type",
+                "TitleCaseName": "X-Linked Intellectual Disability, Stoll Type",
+                "Slug": "x_linked_intellectual_disability_stoll_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-acromegaly-hyperactivity syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Acromegaly-Hyperactivity Syndrome",
+                "Slug": "x_linked_intellectual_disability_acromegaly_hyperactivity_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-ataxia-apraxia syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Ataxia-Apraxia Syndrome",
+                "Slug": "x_linked_intellectual_disability_ataxia_apraxia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-cardiomegaly-congestive heart failure syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Cardiomegaly-Congestive Heart Failure Syndrome",
+                "Slug": "x_linked_intellectual_disability_cardiomegaly_congestive_heart_failure_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-cerebellar hypoplasia syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Cerebellar Hypoplasia Syndrome",
+                "Slug": "x_linked_intellectual_disability_cerebellar_hypoplasia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-cerebellar hypoplasia-spondylo-epiphyseal dysplasia syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Cerebellar Hypoplasia-Spondylo-Epiphyseal Dysplasia Syndrome",
+                "Slug": "x_linked_intellectual_disability_cerebellar_hypoplasia_spondylo_epiphyseal_dysplasia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-craniofacioskeletal syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Craniofacioskeletal Syndrome",
+                "Slug": "x_linked_intellectual_disability_craniofacioskeletal_syndrome_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-cubitus valgus-dysmorphism syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Cubitus Valgus-Dysmorphism Syndrome",
+                "Slug": "x_linked_intellectual_disability_cubitus_valgus_dysmorphism_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-epilepsy syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Epilepsy Syndrome",
+                "Slug": "x_linked_intellectual_disability_epilepsy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-epilepsy-progressive joint contractures-dysmorphism syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Epilepsy-Progressive Joint Contractures-Dysmorphism Syndrome",
+                "Slug": "x_linked_intellectual_disability_epilepsy_progressive_joint_contractures_dysmorphism_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Global Development Delay-Facial Dysmorphism-Sacral Caudal Remnant Syndrome",
+                "Slug": "x_linked_intellectual_disability_global_development_delay_facial_dysmorphism_sacral_caudal_remnant_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-hypogammaglobulinemia-progressive neurological deterioration syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Hypogammaglobulinemia-Progressive Neurological Deterioration Syndrome",
+                "Slug": "x_linked_intellectual_disability_hypogammaglobulinemia_progressive_neurological_deterioration_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-hypogonadism-ichthyosis-obesity-short stature syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Hypogonadism-Ichthyosis-Obesity-Short Stature Syndrome",
+                "Slug": "x_linked_intellectual_disability_hypogonadism_ichthyosis_obesity_short_stature_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-hypotonia-movement disorder syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Hypotonia-Movement Disorder Syndrome",
+                "Slug": "x_linked_intellectual_disability_hypotonia_movement_disorder_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+                "TitleCaseName": "X-Linked Intellectual Disability-Limb Spasticity-Retinal Dystrophy-Arginine Vasopressin Deficiency",
+                "Slug": "x_linked_intellectual_disability_limb_spasticity_retinal_dystrophy_arginine_vasopressin_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Limb Spasticity-Retinal Dystrophy-Diabetes Insipidus Syndrome",
+                "Slug": "x_linked_intellectual_disability_limb_spasticity_retinal_dystrophy_diabetes_insipidus_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-macrocephaly-macroorchidism syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Macrocephaly-Macroorchidism Syndrome",
+                "Slug": "x_linked_intellectual_disability_macrocephaly_macroorchidism_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-plagiocephaly syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Plagiocephaly Syndrome",
+                "Slug": "x_linked_intellectual_disability_plagiocephaly_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-psychosis-macroorchidism syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Psychosis-Macroorchidism Syndrome",
+                "Slug": "x_linked_intellectual_disability_psychosis_macroorchidism_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-retinitis pigmentosa syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Retinitis Pigmentosa Syndrome",
+                "Slug": "x_linked_intellectual_disability_retinitis_pigmentosa_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-seizures-psoriasis syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Seizures-Psoriasis Syndrome",
+                "Slug": "x_linked_intellectual_disability_seizures_psoriasis_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked intellectual disability-short stature-overweight syndrome",
+                "TitleCaseName": "X-Linked Intellectual Disability-Short Stature-Overweight Syndrome",
+                "Slug": "x_linked_intellectual_disability_short_stature_overweight_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked keloid scarring-reduced joint mobility-increased optic cup-to-disc ratio syndrome",
+                "TitleCaseName": "X-Linked Keloid Scarring-Reduced Joint Mobility-Increased Optic Cup-to-Disc Ratio Syndrome",
+                "Slug": "x_linked_keloid_scarring_reduced_joint_mobility_increased_optic_cup_to_disc_ratio_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked lethal multiple pterygium syndrome",
+                "TitleCaseName": "X-Linked Lethal Multiple Pterygium Syndrome",
+                "Slug": "x_linked_lethal_multiple_pterygium_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked mendelian susceptibility to mycobacterial diseases",
+                "TitleCaseName": "X-Linked Mendelian Susceptibility to Mycobacterial Diseases",
+                "Slug": "x_linked_mendelian_susceptibility_to_mycobacterial_diseases"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked mental retardation gustavson type",
+                "TitleCaseName": "X-Linked Mental Retardation Gustavson Type",
+                "Slug": "x_linked_mental_retardation_gustavson_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked microcephaly-growth retardation-prognathism-cryptorchidism syndrome",
+                "TitleCaseName": "X-Linked Microcephaly-Growth Retardation-Prognathism-Cryptorchidism Syndrome",
+                "Slug": "x_linked_microcephaly_growth_retardation_prognathism_cryptorchidism_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked myotubular myopathy-abnormal genitalia syndrome",
+                "TitleCaseName": "X-Linked Myotubular Myopathy-Abnormal Genitalia Syndrome",
+                "Slug": "x_linked_myotubular_myopathy_abnormal_genitalia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked nephrogenic diabetes insipidus",
+                "TitleCaseName": "X-Linked Nephrogenic Diabetes Insipidus",
+                "Slug": "x_linked_nephrogenic_diabetes_insipidus"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked nephrolithiasis type i",
+                "TitleCaseName": "X-Linked Nephrolithiasis Type I",
+                "Slug": "x_linked_nephrolithiasis_type_i"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked neurodegenerative syndrome, bertini type",
+                "TitleCaseName": "X-Linked Neurodegenerative Syndrome, Bertini Type",
+                "Slug": "x_linked_neurodegenerative_syndrome_bertini_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked neurodegenerative syndrome, hamel type",
+                "TitleCaseName": "X-Linked Neurodegenerative Syndrome, Hamel Type",
+                "Slug": "x_linked_neurodegenerative_syndrome_hamel_type"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked nonsyndromic deafness",
+                "TitleCaseName": "X-Linked Nonsyndromic Deafness",
+                "Slug": "x_linked_nonsyndromic_deafness"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked osteoporosis with fractures",
+                "TitleCaseName": "X-Linked Osteoporosis with Fractures",
+                "Slug": "x_linked_osteoporosis_with_fractures"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked otopalatodigital spectrum disorders",
+                "TitleCaseName": "X-Linked Otopalatodigital Spectrum Disorders",
+                "Slug": "x_linked_otopalatodigital_spectrum_disorders"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked protoporphyria",
+                "TitleCaseName": "X-Linked Protoporphyria",
+                "Slug": "x_linked_protoporphyria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked pure spastic paraplegia",
+                "TitleCaseName": "X-Linked Pure Spastic Paraplegia",
+                "Slug": "x_linked_pure_spastic_paraplegia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked retinal dysplasia",
+                "TitleCaseName": "X-Linked Retinal Dysplasia",
+                "Slug": "x_linked_retinal_dysplasia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked retinitis pigmentosa and sinorespiratory infections",
+                "TitleCaseName": "X-Linked Retinitis Pigmentosa and Sinorespiratory Infections",
+                "Slug": "x_linked_retinitis_pigmentosa_and_sinorespiratory_infections"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked scapuloperoneal muscular dystrophy",
+                "TitleCaseName": "X-Linked Scapuloperoneal Muscular Dystrophy",
+                "Slug": "x_linked_scapuloperoneal_muscular_dystrophy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked sideroblastic anemia with ataxia",
+                "TitleCaseName": "X-Linked Sideroblastic Anemia with Ataxia",
+                "Slug": "x_linked_sideroblastic_anemia_with_ataxia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked spasticity-intellectual disability-epilepsy syndrome",
+                "TitleCaseName": "X-Linked Spasticity-Intellectual Disability-Epilepsy Syndrome",
+                "Slug": "x_linked_spasticity_intellectual_disability_epilepsy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "x-linked thrombocytopenia with normal platelets",
+                "TitleCaseName": "X-Linked Thrombocytopenia with Normal Platelets",
+                "Slug": "x_linked_thrombocytopenia_with_normal_platelets"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xp11.2 duplication",
+                "TitleCaseName": "Xp11.2 Duplication",
+                "Slug": "xp112_duplication"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xp22.13p22.2 duplication syndrome",
+                "TitleCaseName": "Xp22.13p22.2 Duplication Syndrome",
+                "Slug": "xp2213p222_duplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xp22.3 microdeletion syndrome",
+                "TitleCaseName": "Xp22.3 Microdeletion Syndrome",
+                "Slug": "xp223_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xq12-q13.3 duplication syndrome",
+                "TitleCaseName": "Xq12-Q13.3 Duplication Syndrome",
+                "Slug": "xq12_q133_duplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xq21 microdeletion syndrome",
+                "TitleCaseName": "Xq21 Microdeletion Syndrome",
+                "Slug": "xq21_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xq25 microduplication syndrome",
+                "TitleCaseName": "Xq25 Microduplication Syndrome",
+                "Slug": "xq25_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xq27.3q28 duplication syndrome",
+                "TitleCaseName": "Xq27.3q28 Duplication Syndrome",
+                "Slug": "xq273q28_duplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xq28 duplication syndrome, int22h1/int22h2 mediated",
+                "TitleCaseName": "Xq28 Duplication Syndrome, Int22h1/int22h2 Mediated",
+                "Slug": "xq28_duplication_syndrome_int22h1_int22h2_mediated"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xy type gonadal dysgenesis-associated anomalies syndrome",
+                "TitleCaseName": "Xy Type Gonadal Dysgenesis-Associated Anomalies Syndrome",
+                "Slug": "xy_type_gonadal_dysgenesis_associated_anomalies_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xylosidase deficiency",
+                "TitleCaseName": "Xylosidase Deficiency",
+                "Slug": "xylosidase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "xylt1-cdg",
+                "TitleCaseName": "Xylt1-Cdg",
+                "Slug": "xylt1_cdg"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        }
+    ],
+    "recordsTotal": 126,
+    "recordsFiltered": 126,
+    "searchMatches": 0,
+    "error": null
+}

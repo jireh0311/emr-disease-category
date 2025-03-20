@@ -1,0 +1,494 @@
+{
+    "data": [
+        {
+            "Data": {
+                "Description": "q fever",
+                "TitleCaseName": "Q Fever",
+                "Slug": "q_fever"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qazi markouizos syndrome",
+                "TitleCaseName": "Qazi Markouizos Syndrome",
+                "Slug": "qazi_markouizos_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qrich1-related intellectual disability-chondrodysplasia syndrome",
+                "TitleCaseName": "Qrich1-Related Intellectual Disability-Chondrodysplasia Syndrome",
+                "Slug": "qrich1_related_intellectual_disability_chondrodysplasia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qrsl1-related combined oxidative phosphorylation defect",
+                "TitleCaseName": "Qrsl1-Related Combined Oxidative Phosphorylation Defect",
+                "Slug": "qrsl1_related_combined_oxidative_phosphorylation_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qt interval, variation in",
+                "TitleCaseName": "Qt Interval, Variation in",
+                "Slug": "qt_interval_variation_in"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quadricuspid aortic valve",
+                "TitleCaseName": "Quadricuspid Aortic Valve",
+                "Slug": "quadricuspid_aortic_valve"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quadriplegia",
+                "TitleCaseName": "Quadriplegia",
+                "Slug": "quadriplegia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of alpha-actin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Actin",
+                "Slug": "qualitative_or_quantitative_defects_of_alpha_actin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of alphab-cristallin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Alphab-Cristallin",
+                "Slug": "qualitative_or_quantitative_defects_of_alphab_cristallin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of alpha-dystroglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Dystroglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_alpha_dystroglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of alpha-sarcoglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Sarcoglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_alpha_sarcoglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of beta-myosin heavy chain",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Beta-Myosin Heavy Chain",
+                "Slug": "qualitative_or_quantitative_defects_of_beta_myosin_heavy_chain"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of beta-sarcoglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Beta-Sarcoglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_beta_sarcoglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of calpain",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Calpain",
+                "Slug": "qualitative_or_quantitative_defects_of_calpain"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of caveolin-3",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Caveolin-3",
+                "Slug": "qualitative_or_quantitative_defects_of_caveolin_3"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of collagen 6",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Collagen 6",
+                "Slug": "qualitative_or_quantitative_defects_of_collagen_6"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of delta-sarcoglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Delta-Sarcoglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_delta_sarcoglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of desmin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Desmin",
+                "Slug": "qualitative_or_quantitative_defects_of_desmin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of dystrophin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Dystrophin",
+                "Slug": "qualitative_or_quantitative_defects_of_dystrophin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of emerin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Emerin",
+                "Slug": "qualitative_or_quantitative_defects_of_emerin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of filamin c",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Filamin C",
+                "Slug": "qualitative_or_quantitative_defects_of_filamin_c"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of fkrp",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Fkrp",
+                "Slug": "qualitative_or_quantitative_defects_of_fkrp"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of fukutin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Fukutin",
+                "Slug": "qualitative_or_quantitative_defects_of_fukutin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of gamma-sarcoglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Gamma-Sarcoglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_gamma_sarcoglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of glucosamine  -2-epimerase/n-acetylmannosamine kinase -",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Glucosamine  -2-Epimerase/n-Acetylmannosamine Kinase -",
+                "Slug": "qualitative_or_quantitative_defects_of_glucosamine_2_epimerase_n_acetylmannosamine_kinase_"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of integrin alpha-7",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Integrin Alpha-7",
+                "Slug": "qualitative_or_quantitative_defects_of_integrin_alpha_7"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of myofibrillar proteins",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Myofibrillar Proteins",
+                "Slug": "qualitative_or_quantitative_defects_of_myofibrillar_proteins"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of myotubularin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Myotubularin",
+                "Slug": "qualitative_or_quantitative_defects_of_myotubularin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of nebulin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Nebulin",
+                "Slug": "qualitative_or_quantitative_defects_of_nebulin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of perlecan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Perlecan",
+                "Slug": "qualitative_or_quantitative_defects_of_perlecan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of plectin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Plectin",
+                "Slug": "qualitative_or_quantitative_defects_of_plectin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein glycosyltransferase-like",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein Glycosyltransferase-Like",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_glycosyltransferase_like"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein involved in o-glycosylation of alpha-dystroglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein Involved in O-Glycosylation of Alpha-Dystroglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_involved_in_o_glycosylation_of_alpha_dystroglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein o-mannose beta1,2n-acetylglucosaminyltransferase",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannose Beta1,2n-Acetylglucosaminyltransferase",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannose_beta12n_acetylglucosaminyltransferase"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein o-mannosyltransferase 1",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannosyltransferase 1",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannosyltransferase_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein o-mannosyltransferase 2",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannosyltransferase 2",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannosyltransferase_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein serca1",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein Serca1",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_serca1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of protein zasp",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Protein Zasp",
+                "Slug": "qualitative_or_quantitative_defects_of_protein_zasp"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of sarcoglycan",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Sarcoglycan",
+                "Slug": "qualitative_or_quantitative_defects_of_sarcoglycan"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of selenoprotein n1",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Selenoprotein N1",
+                "Slug": "qualitative_or_quantitative_defects_of_selenoprotein_n1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of telethonin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Telethonin",
+                "Slug": "qualitative_or_quantitative_defects_of_telethonin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of titin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Titin",
+                "Slug": "qualitative_or_quantitative_defects_of_titin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of torsin-1a-interacting protein 1",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Torsin-1a-Interacting Protein 1",
+                "Slug": "qualitative_or_quantitative_defects_of_torsin_1a_interacting_protein_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of trim32",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Trim32",
+                "Slug": "qualitative_or_quantitative_defects_of_trim32"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of tropomyosin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Tropomyosin",
+                "Slug": "qualitative_or_quantitative_defects_of_tropomyosin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative defects of troponin",
+                "TitleCaseName": "Qualitative or Quantitative Defects of Troponin",
+                "Slug": "qualitative_or_quantitative_defects_of_troponin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative or quantitative protein defects in neuromuscular diseases",
+                "TitleCaseName": "Qualitative or Quantitative Protein Defects in Neuromuscular Diseases",
+                "Slug": "qualitative_or_quantitative_protein_defects_in_neuromuscular_diseases"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "qualitative platelet defect",
+                "TitleCaseName": "Qualitative Platelet Defect",
+                "Slug": "qualitative_platelet_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quantitative and/or qualitative congenital phagocyte defect",
+                "TitleCaseName": "Quantitative and/or Qualitative Congenital Phagocyte Defect",
+                "Slug": "quantitative_and_or_qualitative_congenital_phagocyte_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quebec platelet disorder",
+                "TitleCaseName": "Quebec Platelet Disorder",
+                "Slug": "quebec_platelet_disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "queensland tick typhus",
+                "TitleCaseName": "Queensland Tick Typhus",
+                "Slug": "queensland_tick_typhus"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "question mark ears, isolated",
+                "TitleCaseName": "Question Mark Ears, Isolated",
+                "Slug": "question_mark_ears_isolated"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quinidine allergy",
+                "TitleCaseName": "Quinidine Allergy",
+                "Slug": "quinidine_allergy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "quinquaud folliculitis decalvans",
+                "TitleCaseName": "Quinquaud Folliculitis Decalvans",
+                "Slug": "quinquaud_folliculitis_decalvans"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        }
+    ],
+    "recordsTotal": 54,
+    "recordsFiltered": 54,
+    "searchMatches": 0,
+    "error": null
+}

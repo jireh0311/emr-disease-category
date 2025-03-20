@@ -1,0 +1,188 @@
+{
+    "data": [
+        {
+            "Data": {
+                "Description": "y chromosome infertility",
+                "TitleCaseName": "Y Chromosome Infertility",
+                "Slug": "y_chromosome_infertility"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "y chromosome number anomaly",
+                "TitleCaseName": "Y Chromosome Number Anomaly",
+                "Slug": "y_chromosome_number_anomaly"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yao syndrome",
+                "TitleCaseName": "Yao Syndrome",
+                "Slug": "yao_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yap1-mamld1 fusion-positive supratentorial ependymoma",
+                "TitleCaseName": "Yap1-Mamld1 Fusion-Positive Supratentorial Ependymoma",
+                "Slug": "yap1_mamld1_fusion_positive_supratentorial_ependymoma"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yaws",
+                "TitleCaseName": "Yaws",
+                "Slug": "yaws"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yeast factor",
+                "TitleCaseName": "Yeast Factor",
+                "Slug": "yeast_factor"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yellow fever",
+                "TitleCaseName": "Yellow Fever",
+                "Slug": "yellow_fever"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yellow nail syndrome",
+                "TitleCaseName": "Yellow Nail Syndrome",
+                "Slug": "yellow_nail_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yemenite deaf-blind hypopigmentation syndrome",
+                "TitleCaseName": "Yemenite Deaf-Blind Hypopigmentation Syndrome",
+                "Slug": "yemenite_deaf_blind_hypopigmentation_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yersinia pseudotuberculosis infection",
+                "TitleCaseName": "Yersinia Pseudotuberculosis Infection",
+                "Slug": "yersinia_pseudotuberculosis_infection"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yif1b-related neurodevelopmental disorder",
+                "TitleCaseName": "Yif1b-Related Neurodevelopmental Disorder",
+                "Slug": "yif1b_related_neurodevelopmental_disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "y-linked deafness",
+                "TitleCaseName": "Y-Linked Deafness",
+                "Slug": "y_linked_deafness"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yolk sac tumor of central nervous system",
+                "TitleCaseName": "Yolk Sac Tumor of Central Nervous System",
+                "Slug": "yolk_sac_tumor_of_central_nervous_system"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yoon-bellen neurodevelopmental syndrome",
+                "TitleCaseName": "Yoon-Bellen Neurodevelopmental Syndrome",
+                "Slug": "yoon_bellen_neurodevelopmental_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "you-hoover-fong syndrome",
+                "TitleCaseName": "You-Hoover-Fong Syndrome",
+                "Slug": "you_hoover_fong_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "young syndrome",
+                "TitleCaseName": "Young Syndrome",
+                "Slug": "young_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yt blood group antigen",
+                "TitleCaseName": "Yt Blood Group Antigen",
+                "Slug": "yt_blood_group_antigen"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yuan-harel-lupski syndrome",
+                "TitleCaseName": "Yuan-Harel-Lupski Syndrome",
+                "Slug": "yuan_harel_lupski_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yuksel-vogel-bauer syndrome",
+                "TitleCaseName": "Yuksel-Vogel-Bauer Syndrome",
+                "Slug": "yuksel_vogel_bauer_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "yunis-varon syndrome",
+                "TitleCaseName": "Yunis-Varon Syndrome",
+                "Slug": "yunis_varon_syndrome_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        }
+    ],
+    "recordsTotal": 20,
+    "recordsFiltered": 20,
+    "searchMatches": 0,
+    "error": null
+}

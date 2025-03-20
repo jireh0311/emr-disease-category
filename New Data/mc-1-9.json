@@ -1,0 +1,1628 @@
+{
+    "data": [
+        {
+            "Data": {
+                "Description": "1,4-phenylenediamine allergic contact dermatitis",
+                "TitleCaseName": "1,4-Phenylenediamine Allergic Contact Dermatitis",
+                "Slug": "14_phenylenediamine_allergic_contact_dermatitis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "10q22.3q23.3 microdeletion syndrome",
+                "TitleCaseName": "10q22.3q23.3 Microdeletion Syndrome",
+                "Slug": "10q223q233_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "10q22.3q23.3 microduplication syndrome",
+                "TitleCaseName": "10q22.3q23.3 Microduplication Syndrome",
+                "Slug": "10q223q233_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "11p15.4 microduplication syndrome",
+                "TitleCaseName": "11p15.4 Microduplication Syndrome",
+                "Slug": "11p154_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "11q22.2q22.3 microdeletion syndrome",
+                "TitleCaseName": "11q22.2q22.3 Microdeletion Syndrome",
+                "Slug": "11q222q223_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "12q14 microdeletion syndrome",
+                "TitleCaseName": "12q14 Microdeletion Syndrome",
+                "Slug": "12q14_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "12q15q21.1 microdeletion syndrome",
+                "TitleCaseName": "12q15q21.1 Microdeletion Syndrome",
+                "Slug": "12q15q211_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "13q12.3 microdeletion syndrome",
+                "TitleCaseName": "13q12.3 Microdeletion Syndrome",
+                "Slug": "13q123_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "14q11.2 microduplication syndrome",
+                "TitleCaseName": "14q11.2 Microduplication Syndrome",
+                "Slug": "14q112_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "14q22q23 microdeletion syndrome",
+                "TitleCaseName": "14q22q23 Microdeletion Syndrome",
+                "Slug": "14q22q23_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "14q24.1q24.3 microdeletion syndrome",
+                "TitleCaseName": "14q24.1q24.3 Microdeletion Syndrome",
+                "Slug": "14q241q243_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "14q32 duplication syndrome",
+                "TitleCaseName": "14q32 Duplication Syndrome",
+                "Slug": "14q32_duplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "15q overgrowth syndrome",
+                "TitleCaseName": "15q Overgrowth Syndrome",
+                "Slug": "15q_overgrowth_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "15q11q13 microduplication syndrome",
+                "TitleCaseName": "15q11q13 Microduplication Syndrome",
+                "Slug": "15q11q13_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "15q13.3 microduplication syndrome",
+                "TitleCaseName": "15q13.3 Microduplication Syndrome",
+                "Slug": "15q133_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "15q13.3 recurrent deletion",
+                "TitleCaseName": "15q13.3 Recurrent Deletion",
+                "Slug": "15q133_recurrent_deletion"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p11.2 deletion syndrome",
+                "TitleCaseName": "16p11.2 Deletion Syndrome",
+                "Slug": "16p112_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p11.2 duplication",
+                "TitleCaseName": "16p11.2 Duplication",
+                "Slug": "16p112_duplication"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p11.2 recurrent deletion",
+                "TitleCaseName": "16p11.2 Recurrent Deletion",
+                "Slug": "16p112_recurrent_deletion"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p11.2p12.2 microduplication syndrome",
+                "TitleCaseName": "16p11.2p12.2 Microduplication Syndrome",
+                "Slug": "16p112p122_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p12.1p12.3 triplication syndrome",
+                "TitleCaseName": "16p12.1p12.3 Triplication Syndrome",
+                "Slug": "16p121p123_triplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p12.2 recurrent deletion",
+                "TitleCaseName": "16p12.2 Recurrent Deletion",
+                "Slug": "16p122_recurrent_deletion"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p13.11 microdeletion syndrome",
+                "TitleCaseName": "16p13.11 Microdeletion Syndrome",
+                "Slug": "16p1311_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16p13.11 microduplication syndrome",
+                "TitleCaseName": "16p13.11 Microduplication Syndrome",
+                "Slug": "16p1311_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16q24.1 microdeletion syndrome",
+                "TitleCaseName": "16q24.1 Microdeletion Syndrome",
+                "Slug": "16q241_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "16q24.3 microdeletion syndrome",
+                "TitleCaseName": "16q24.3 Microdeletion Syndrome",
+                "Slug": "16q243_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17 alpha-hydroxylase/17,20-lyase deficiency",
+                "TitleCaseName": "17 Alpha-Hydroxylase/17,20-Lyase Deficiency",
+                "Slug": "17_alpha_hydroxylase_1720_lyase_deficiency_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17-beta hydroxysteroid dehydrogenase iii deficiency",
+                "TitleCaseName": "17-Beta Hydroxysteroid Dehydrogenase Iii Deficiency",
+                "Slug": "17_beta_hydroxysteroid_dehydrogenase_iii_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17q11.2 microduplication syndrome",
+                "TitleCaseName": "17q11.2 Microduplication Syndrome",
+                "Slug": "17q112_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17q12 recurrent deletion syndrome",
+                "TitleCaseName": "17q12 Recurrent Deletion Syndrome",
+                "Slug": "17q12_recurrent_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17q12 recurrent duplication",
+                "TitleCaseName": "17q12 Recurrent Duplication",
+                "Slug": "17q12_recurrent_duplication"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "17q24.2 microdeletion syndrome",
+                "TitleCaseName": "17q24.2 Microdeletion Syndrome",
+                "Slug": "17q242_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "18p deletion syndrome",
+                "TitleCaseName": "18p Deletion Syndrome",
+                "Slug": "18p_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "19p13.12 microdeletion syndrome",
+                "TitleCaseName": "19p13.12 Microdeletion Syndrome",
+                "Slug": "19p1312_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "19p13.13 microdeletion syndrome",
+                "TitleCaseName": "19p13.13 Microdeletion Syndrome",
+                "Slug": "19p1313_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "19p13.3 microduplication syndrome",
+                "TitleCaseName": "19p13.3 Microduplication Syndrome",
+                "Slug": "19p133_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "1-chloro-2,4-dinitrobenzene allergic contact dermatitis",
+                "TitleCaseName": "1-Chloro-2,4-Dinitrobenzene Allergic Contact Dermatitis",
+                "Slug": "1_chloro_24_dinitrobenzene_allergic_contact_dermatitis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "1p21.3 microdeletion syndrome",
+                "TitleCaseName": "1p21.3 Microdeletion Syndrome",
+                "Slug": "1p213_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "1p35.2 microdeletion syndrome",
+                "TitleCaseName": "1p35.2 Microdeletion Syndrome",
+                "Slug": "1p352_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "1q21.1 recurrent deletion",
+                "TitleCaseName": "1q21.1 Recurrent Deletion",
+                "Slug": "1q211_recurrent_deletion"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "1q44 microdeletion syndrome",
+                "TitleCaseName": "1q44 Microdeletion Syndrome",
+                "Slug": "1q44_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2,4-dienoyl-coa reductase deficiency",
+                "TitleCaseName": "2,4-Dienoyl-Coa Reductase Deficiency",
+                "Slug": "24_dienoyl_coa_reductase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2,4-dinitrophenyl allergic contact dermatitis",
+                "TitleCaseName": "2,4-Dinitrophenyl Allergic Contact Dermatitis",
+                "Slug": "24_dinitrophenyl_allergic_contact_dermatitis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "20p12.3 microdeletion syndrome",
+                "TitleCaseName": "20p12.3 Microdeletion Syndrome",
+                "Slug": "20p123_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "20p13 microdeletion syndrome",
+                "TitleCaseName": "20p13 Microdeletion Syndrome",
+                "Slug": "20p13_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "20q11.2 microdeletion syndrome",
+                "TitleCaseName": "20q11.2 Microdeletion Syndrome",
+                "Slug": "20q112_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "20q11.2 microduplication syndrome",
+                "TitleCaseName": "20q11.2 Microduplication Syndrome",
+                "Slug": "20q112_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "20q13.33 microdeletion syndrome",
+                "TitleCaseName": "20q13.33 Microdeletion Syndrome",
+                "Slug": "20q1333_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "21-hydroxylase-deficient congenital adrenal hyperplasia",
+                "TitleCaseName": "21-Hydroxylase-Deficient Congenital Adrenal Hyperplasia",
+                "Slug": "21_hydroxylase_deficient_congenital_adrenal_hyperplasia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "21q22.11q22.12 microdeletion syndrome",
+                "TitleCaseName": "21q22.11q22.12 Microdeletion Syndrome",
+                "Slug": "21q2211q2212_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2-hydroxyglutaric aciduria",
+                "TitleCaseName": "2-Hydroxyglutaric Aciduria",
+                "Slug": "2_hydroxyglutaric_aciduria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2-methylacetoacetyl coa thiolase deficiency",
+                "TitleCaseName": "2-Methylacetoacetyl Coa Thiolase Deficiency",
+                "Slug": "2_methylacetoacetyl_coa_thiolase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2-methylbutyryl-coa dehydrogenase deficiency",
+                "TitleCaseName": "2-Methylbutyryl-Coa Dehydrogenase Deficiency",
+                "Slug": "2_methylbutyryl_coa_dehydrogenase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2p13.2 microdeletion syndrome",
+                "TitleCaseName": "2p13.2 Microdeletion Syndrome",
+                "Slug": "2p132_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2p21 microdeletion syndrome",
+                "TitleCaseName": "2p21 Microdeletion Syndrome",
+                "Slug": "2p21_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2p21 microdeletion syndrome without cystinuria",
+                "TitleCaseName": "2p21 Microdeletion Syndrome Without Cystinuria",
+                "Slug": "2p21_microdeletion_syndrome_without_cystinuria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2q23.1 microduplication syndrome",
+                "TitleCaseName": "2q23.1 Microduplication Syndrome",
+                "Slug": "2q231_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2q24 microdeletion syndrome",
+                "TitleCaseName": "2q24 Microdeletion Syndrome",
+                "Slug": "2q24_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "2q31.1 microdeletion syndrome",
+                "TitleCaseName": "2q31.1 Microdeletion Syndrome",
+                "Slug": "2q311_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-beta-hydroxysteroid dehydrogenase deficiency",
+                "TitleCaseName": "3-Beta-Hydroxysteroid Dehydrogenase Deficiency",
+                "Slug": "3_beta_hydroxysteroid_dehydrogenase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxy-3-methylglutaryl-coa lyase deficiency",
+                "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Lyase Deficiency",
+                "Slug": "3_hydroxy_3_methylglutaryl_coa_lyase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxy-3-methylglutaryl-coa synthase deficiency",
+                "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Synthase Deficiency",
+                "Slug": "3_hydroxy_3_methylglutaryl_coa_synthase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxy-3-methylglutaryl-coa synthase-2 deficiency",
+                "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Synthase-2 Deficiency",
+                "Slug": "3_hydroxy_3_methylglutaryl_coa_synthase_2_deficiency_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxyacyl-coa dehydrogenase deficiency",
+                "TitleCaseName": "3-Hydroxyacyl-Coa Dehydrogenase Deficiency",
+                "Slug": "3_hydroxyacyl_coa_dehydrogenase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxyisobutryl-coa hydrolase deficiency",
+                "TitleCaseName": "3-Hydroxyisobutryl-Coa Hydrolase Deficiency",
+                "Slug": "3_hydroxyisobutryl_coa_hydrolase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxyisobutyric aciduria",
+                "TitleCaseName": "3-Hydroxyisobutyric Aciduria",
+                "Slug": "3_hydroxyisobutyric_aciduria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-hydroxyisobutyryl-coa hydrolase deficiency",
+                "TitleCaseName": "3-Hydroxyisobutyryl-Coa Hydrolase Deficiency",
+                "Slug": "3_hydroxyisobutyryl_coa_hydrolase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3mc syndrome",
+                "TitleCaseName": "3mc Syndrome",
+                "Slug": "3mc_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3mc syndrome 1",
+                "TitleCaseName": "3mc Syndrome 1",
+                "Slug": "3mc_syndrome_1"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3mc syndrome 2",
+                "TitleCaseName": "3mc Syndrome 2",
+                "Slug": "3mc_syndrome_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3mc syndrome 3",
+                "TitleCaseName": "3mc Syndrome 3",
+                "Slug": "3mc_syndrome_3"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylcrotonyl-coa carboxylase 1 deficiency",
+                "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase 1 Deficiency",
+                "Slug": "3_methylcrotonyl_coa_carboxylase_1_deficiency_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylcrotonyl-coa carboxylase 2 deficiency",
+                "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase 2 Deficiency",
+                "Slug": "3_methylcrotonyl_coa_carboxylase_2_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylcrotonyl-coa carboxylase deficiency",
+                "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase Deficiency",
+                "Slug": "3_methylcrotonyl_coa_carboxylase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria",
+                "TitleCaseName": "3-Methylglutaconic Aciduria",
+                "Slug": "3_methylglutaconic_aciduria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia",
+                "TitleCaseName": "3-Methylglutaconic Aciduria with Cataracts, Neurologic Involvement and Neutropenia",
+                "Slug": "3_methylglutaconic_aciduria_with_cataracts_neurologic_involvement_and_neutropenia_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria with deafness, encephalopathy, and leigh-like syndrome",
+                "TitleCaseName": "3-Methylglutaconic Aciduria with Deafness, Encephalopathy, and Leigh-Like Syndrome",
+                "Slug": "3_methylglutaconic_aciduria_with_deafness_encephalopathy_and_leigh_like_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type i",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type I",
+                "Slug": "3_methylglutaconic_aciduria_type_i_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type iii",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Iii",
+                "Slug": "3_methylglutaconic_aciduria_type_iii"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type iv",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Iv",
+                "Slug": "3_methylglutaconic_aciduria_type_iv_3"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type ix",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Ix",
+                "Slug": "3_methylglutaconic_aciduria_type_ix"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type v",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type V",
+                "Slug": "3_methylglutaconic_aciduria_type_v_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type viia",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viia",
+                "Slug": "3_methylglutaconic_aciduria_type_viia"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type viib",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viib",
+                "Slug": "3_methylglutaconic_aciduria_type_viib"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria, type viii",
+                "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viii",
+                "Slug": "3_methylglutaconic_aciduria_type_viii"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3-methylglutaconic aciduria-neonatal cataract-neurologic involvement-congenital neutropenia syndrome",
+                "TitleCaseName": "3-Methylglutaconic Aciduria-Neonatal Cataract-Neurologic Involvement-Congenital Neutropenia Syndrome",
+                "Slug": "3_methylglutaconic_aciduria_neonatal_cataract_neurologic_involvement_congenital_neutropenia_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3p25.3 microdeletion syndrome",
+                "TitleCaseName": "3p25.3 Microdeletion Syndrome",
+                "Slug": "3p253_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3q26 microduplication syndrome",
+                "TitleCaseName": "3q26 Microduplication Syndrome",
+                "Slug": "3q26_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3q26q27 microdeletion syndrome",
+                "TitleCaseName": "3q26q27 Microdeletion Syndrome",
+                "Slug": "3q26q27_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "3q27.3 microdeletion syndrome",
+                "TitleCaseName": "3q27.3 Microdeletion Syndrome",
+                "Slug": "3q273_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "45,x/46,xy mixed gonadal dysgenesis",
+                "TitleCaseName": "45,x/46,xy Mixed Gonadal Dysgenesis",
+                "Slug": "45x_46xy_mixed_gonadal_dysgenesis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46 xx gonadal dysgenesis",
+                "TitleCaseName": "46 Xx Gonadal Dysgenesis",
+                "Slug": "46_xx_gonadal_dysgenesis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development",
+                "TitleCaseName": "46,xx Difference of Sex Development",
+                "Slug": "46xx_difference_of_sex_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by androgens excess",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Androgens Excess",
+                "Slug": "46xx_difference_of_sex_development_induced_by_androgens_excess"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by endogenous maternal-derived androgen",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Endogenous Maternal-Derived Androgen",
+                "Slug": "46xx_difference_of_sex_development_induced_by_endogenous_maternal_derived_androgen"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by exogenous maternal-derived androgen",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Exogenous Maternal-Derived Androgen",
+                "Slug": "46xx_difference_of_sex_development_induced_by_exogenous_maternal_derived_androgen"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by fetal androgens excess",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Fetal Androgens Excess",
+                "Slug": "46xx_difference_of_sex_development_induced_by_fetal_androgens_excess"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by fetoplacental androgens excess",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Fetoplacental Androgens Excess",
+                "Slug": "46xx_difference_of_sex_development_induced_by_fetoplacental_androgens_excess"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development induced by maternal-derived androgen",
+                "TitleCaseName": "46,xx Difference of Sex Development Induced by Maternal-Derived Androgen",
+                "Slug": "46xx_difference_of_sex_development_induced_by_maternal_derived_androgen"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx difference of sex development-anorectal anomalies syndrome",
+                "TitleCaseName": "46,xx Difference of Sex Development-Anorectal Anomalies Syndrome",
+                "Slug": "46xx_difference_of_sex_development_anorectal_anomalies_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx disorder of gonadal development",
+                "TitleCaseName": "46,xx Disorder of Gonadal Development",
+                "Slug": "46xx_disorder_of_gonadal_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx disorder of sex development-anorectal anomalies syndrome",
+                "TitleCaseName": "46,xx Disorder of Sex Development-Anorectal Anomalies Syndrome",
+                "Slug": "46xx_disorder_of_sex_development_anorectal_anomalies_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx disorder of sex development-skeletal anomalies syndrome",
+                "TitleCaseName": "46,xx Disorder of Sex Development-Skeletal Anomalies Syndrome",
+                "Slug": "46xx_disorder_of_sex_development_skeletal_anomalies_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx ovarian dysgenesis-short stature syndrome",
+                "TitleCaseName": "46,xx Ovarian Dysgenesis-Short Stature Syndrome",
+                "Slug": "46xx_ovarian_dysgenesis_short_stature_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx ovotesticular disorder of sex development",
+                "TitleCaseName": "46,xx Ovotesticular Disorder of Sex Development",
+                "Slug": "46xx_ovotesticular_disorder_of_sex_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal",
+                "TitleCaseName": "46,xx Sex Reversal",
+                "Slug": "46xx_sex_reversal"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal 1",
+                "TitleCaseName": "46,xx Sex Reversal 1",
+                "Slug": "46xx_sex_reversal_1_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal 2",
+                "TitleCaseName": "46,xx Sex Reversal 2",
+                "Slug": "46xx_sex_reversal_2_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal 3",
+                "TitleCaseName": "46,xx Sex Reversal 3",
+                "Slug": "46xx_sex_reversal_3_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal 4",
+                "TitleCaseName": "46,xx Sex Reversal 4",
+                "Slug": "46xx_sex_reversal_4"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal 5",
+                "TitleCaseName": "46,xx Sex Reversal 5",
+                "Slug": "46xx_sex_reversal_5"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs",
+                "TitleCaseName": "46,xx Sex Reversal with Dysgenesis of Kidneys, Adrenals, and Lungs",
+                "Slug": "46xx_sex_reversal_with_dysgenesis_of_kidneys_adrenals_and_lungs"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy complete gonadal dysgenesis",
+                "TitleCaseName": "46,xy Complete Gonadal Dysgenesis",
+                "Slug": "46xy_complete_gonadal_dysgenesis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to a cholesterol synthesis defect",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to a Cholesterol Synthesis Defect",
+                "Slug": "46xy_difference_of_sex_development_due_to_a_cholesterol_synthesis_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to a defect in testosterone metabolism by peripheral tissue",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to a Defect in Testosterone Metabolism by Peripheral Tissue",
+                "Slug": "46xy_difference_of_sex_development_due_to_a_defect_in_testosterone_metabolism_by_peripheral_tissue"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to a testosterone synthesis defect",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to a Testosterone Synthesis Defect",
+                "Slug": "46xy_difference_of_sex_development_due_to_a_testosterone_synthesis_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to adrenal and testicular steroidogenesis defect",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to Adrenal and Testicular Steroidogenesis Defect",
+                "Slug": "46xy_difference_of_sex_development_due_to_adrenal_and_testicular_steroidogenesis_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to impaired androgen production",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to Impaired Androgen Production",
+                "Slug": "46xy_difference_of_sex_development_due_to_impaired_androgen_production"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development due to testicular steroidogenesis defect",
+                "TitleCaseName": "46,xy Difference of Sex Development Due to Testicular Steroidogenesis Defect",
+                "Slug": "46xy_difference_of_sex_development_due_to_testicular_steroidogenesis_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development induced by maternal exposure to endocrine disruptors",
+                "TitleCaseName": "46,xy Difference of Sex Development Induced by Maternal Exposure to Endocrine Disruptors",
+                "Slug": "46xy_difference_of_sex_development_induced_by_maternal_exposure_to_endocrine_disruptors"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development of endocrine origin",
+                "TitleCaseName": "46,xy Difference of Sex Development of Endocrine Origin",
+                "Slug": "46xy_difference_of_sex_development_of_endocrine_origin"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sex development of gynecological interest",
+                "TitleCaseName": "46,xy Difference of Sex Development of Gynecological Interest",
+                "Slug": "46xy_difference_of_sex_development_of_gynecological_interest"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy difference of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect",
+                "TitleCaseName": "46,xy Difference of Sexual Development Due to Dihydrotestosterone Backdoor Pathway Biosynthesis Defect",
+                "Slug": "46xy_difference_of_sexual_development_due_to_dihydrotestosterone_backdoor_pathway_biosynthesis_defect"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy disorder of gonadal development",
+                "TitleCaseName": "46,xy Disorder of Gonadal Development",
+                "Slug": "46xy_disorder_of_gonadal_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy disorder of sex development",
+                "TitleCaseName": "46,xy Disorder of Sex Development",
+                "Slug": "46xy_disorder_of_sex_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy disorder of sex development-adrenal insufficiency due to cyp11a1 deficiency",
+                "TitleCaseName": "46,xy Disorder of Sex Development-Adrenal Insufficiency Due to Cyp11a1 Deficiency",
+                "Slug": "46xy_disorder_of_sex_development_adrenal_insufficiency_due_to_cyp11a1_deficiency_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy gonadal dysgenesis with minifascicular neuropathy",
+                "TitleCaseName": "46,xy Gonadal Dysgenesis with Minifascicular Neuropathy",
+                "Slug": "46xy_gonadal_dysgenesis_with_minifascicular_neuropathy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy gonadal dysgenesis-motor and sensory neuropathy syndrome",
+                "TitleCaseName": "46,xy Gonadal Dysgenesis-Motor and Sensory Neuropathy Syndrome",
+                "Slug": "46xy_gonadal_dysgenesis_motor_and_sensory_neuropathy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy ovotesticular difference of sex development",
+                "TitleCaseName": "46,xy Ovotesticular Difference of Sex Development",
+                "Slug": "46xy_ovotesticular_difference_of_sex_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy ovotesticular disorder of sex development",
+                "TitleCaseName": "46,xy Ovotesticular Disorder of Sex Development",
+                "Slug": "46xy_ovotesticular_disorder_of_sex_development"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy partial gonadal dysgenesis",
+                "TitleCaseName": "46,xy Partial Gonadal Dysgenesis",
+                "Slug": "46xy_partial_gonadal_dysgenesis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal",
+                "TitleCaseName": "46,xy Sex Reversal",
+                "Slug": "46xy_sex_reversal"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 1",
+                "TitleCaseName": "46,xy Sex Reversal 1",
+                "Slug": "46xy_sex_reversal_1_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 10",
+                "TitleCaseName": "46,xy Sex Reversal 10",
+                "Slug": "46xy_sex_reversal_10"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 11",
+                "TitleCaseName": "46,xy Sex Reversal 11",
+                "Slug": "46xy_sex_reversal_11"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 2",
+                "TitleCaseName": "46,xy Sex Reversal 2",
+                "Slug": "46xy_sex_reversal_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 3",
+                "TitleCaseName": "46,xy Sex Reversal 3",
+                "Slug": "46xy_sex_reversal_3_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 4",
+                "TitleCaseName": "46,xy Sex Reversal 4",
+                "Slug": "46xy_sex_reversal_4_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 5",
+                "TitleCaseName": "46,xy Sex Reversal 5",
+                "Slug": "46xy_sex_reversal_5_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 6",
+                "TitleCaseName": "46,xy Sex Reversal 6",
+                "Slug": "46xy_sex_reversal_6"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 7",
+                "TitleCaseName": "46,xy Sex Reversal 7",
+                "Slug": "46xy_sex_reversal_7_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 8",
+                "TitleCaseName": "46,xy Sex Reversal 8",
+                "Slug": "46xy_sex_reversal_8_2"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "46,xy sex reversal 9",
+                "TitleCaseName": "46,xy Sex Reversal 9",
+                "Slug": "46xy_sex_reversal_9"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "47,xyy syndrome",
+                "TitleCaseName": "47,xyy Syndrome",
+                "Slug": "47xyy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "48,xxxy syndrome",
+                "TitleCaseName": "48,xxxy Syndrome",
+                "Slug": "48xxxy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "48,xxyy syndrome",
+                "TitleCaseName": "48,xxyy Syndrome",
+                "Slug": "48xxyy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "48,xyyy syndrome",
+                "TitleCaseName": "48,xyyy Syndrome",
+                "Slug": "48xyyy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "49,xxxxy syndrome",
+                "TitleCaseName": "49,xxxxy Syndrome",
+                "Slug": "49xxxxy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "49,xxxyy syndrome",
+                "TitleCaseName": "49,xxxyy Syndrome",
+                "Slug": "49xxxyy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "49,xyyyy syndrome",
+                "TitleCaseName": "49,xyyyy Syndrome",
+                "Slug": "49xyyyy_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "4-hydroxyphenylacetic aciduria",
+                "TitleCaseName": "4-Hydroxyphenylacetic Aciduria",
+                "Slug": "4_hydroxyphenylacetic_aciduria"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "4p16.3 microduplication syndrome",
+                "TitleCaseName": "4p16.3 Microduplication Syndrome",
+                "Slug": "4p163_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "4q25 proximal deletion syndrome",
+                "TitleCaseName": "4q25 Proximal Deletion Syndrome",
+                "Slug": "4q25_proximal_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "4-tert-butylphenol allergic contact dermatitis",
+                "TitleCaseName": "4-Tert-Butylphenol Allergic Contact Dermatitis",
+                "Slug": "4_tert_butylphenol_allergic_contact_dermatitis"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "4-vinylcyclohexene dioxide respiratory allergy",
+                "TitleCaseName": "4-Vinylcyclohexene Dioxide Respiratory Allergy",
+                "Slug": "4_vinylcyclohexene_dioxide_respiratory_allergy"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5,10-methenyltetrahydrofolate synthetase deficiency",
+                "TitleCaseName": "5,10-Methenyltetrahydrofolate Synthetase Deficiency",
+                "Slug": "510_methenyltetrahydrofolate_synthetase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5-fluorouracil poisoning",
+                "TitleCaseName": "5-Fluorouracil Poisoning",
+                "Slug": "5_fluorouracil_poisoning"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5-nucleotidase syndrome",
+                "TitleCaseName": "5-Nucleotidase Syndrome",
+                "Slug": "5_nucleotidase_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5-oxoprolinase deficiency",
+                "TitleCaseName": "5-Oxoprolinase Deficiency",
+                "Slug": "5_oxoprolinase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5q deletion syndrome",
+                "TitleCaseName": "5q Deletion Syndrome",
+                "Slug": "5q_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5q14.3 microdeletion syndrome",
+                "TitleCaseName": "5q14.3 Microdeletion Syndrome",
+                "Slug": "5q143_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5q31.3 microdeletion syndrome",
+                "TitleCaseName": "5q31.3 Microdeletion Syndrome",
+                "Slug": "5q313_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "5q35 microduplication syndrome",
+                "TitleCaseName": "5q35 Microduplication Syndrome",
+                "Slug": "5q35_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "6p22 microdeletion syndrome",
+                "TitleCaseName": "6p22 Microdeletion Syndrome",
+                "Slug": "6p22_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "6-phosphogluconate dehydrogenase deficiency",
+                "TitleCaseName": "6-Phosphogluconate Dehydrogenase Deficiency",
+                "Slug": "6_phosphogluconate_dehydrogenase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "6-phosphogluconolactonase deficiency",
+                "TitleCaseName": "6-Phosphogluconolactonase Deficiency",
+                "Slug": "6_phosphogluconolactonase_deficiency"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "6q terminal deletion syndrome",
+                "TitleCaseName": "6q Terminal Deletion Syndrome",
+                "Slug": "6q_terminal_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "6q16 microdeletion syndrome",
+                "TitleCaseName": "6q16 Microdeletion Syndrome",
+                "Slug": "6q16_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "7p22.1 microduplication syndrome",
+                "TitleCaseName": "7p22.1 Microduplication Syndrome",
+                "Slug": "7p221_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "7q31 microdeletion syndrome",
+                "TitleCaseName": "7q31 Microdeletion Syndrome",
+                "Slug": "7q31_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8p inverted duplication/deletion syndrome",
+                "TitleCaseName": "8p Inverted Duplication/deletion Syndrome",
+                "Slug": "8p_inverted_duplication_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8p11 myeloproliferative syndrome",
+                "TitleCaseName": "8p11 Myeloproliferative Syndrome",
+                "Slug": "8p11_myeloproliferative_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8p11.2 deletion syndrome",
+                "TitleCaseName": "8p11.2 Deletion Syndrome",
+                "Slug": "8p112_deletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8p23.1 duplication syndrome",
+                "TitleCaseName": "8p23.1 Duplication Syndrome",
+                "Slug": "8p231_duplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8p23.1 microdeletion syndrome",
+                "TitleCaseName": "8p23.1 Microdeletion Syndrome",
+                "Slug": "8p231_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "8q12 microduplication syndrome",
+                "TitleCaseName": "8q12 Microduplication Syndrome",
+                "Slug": "8q12_microduplication_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "9p13 microdeletion syndrome",
+                "TitleCaseName": "9p13 Microdeletion Syndrome",
+                "Slug": "9p13_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "9q21.13 microdeletion syndrome",
+                "TitleCaseName": "9q21.13 Microdeletion Syndrome",
+                "Slug": "9q2113_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "9q31.1q31.3 microdeletion syndrome",
+                "TitleCaseName": "9q31.1q31.3 Microdeletion Syndrome",
+                "Slug": "9q311q313_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "9q33.3q34.11 microdeletion syndrome",
+                "TitleCaseName": "9q33.3q34.11 Microdeletion Syndrome",
+                "Slug": "9q333q3411_microdeletion_syndrome"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        }
+    ],
+    "recordsTotal": 180,
+    "recordsFiltered": 180,
+    "searchMatches": 0,
+    "error": null
+}
