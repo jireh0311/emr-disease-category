@@ -1,0 +1,2312 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 16409,
+        "Symbol": "WRD035",
+        "Description": "waardenburg syndrome",
+        "TitleCaseName": "Waardenburg Syndrome",
+        "Slug": "waardenburg_syndrome",
+        "MiFts": 61.340622,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1682,
+        "Symbol": "WRD030",
+        "Description": "waardenburg syndrome, type 1",
+        "TitleCaseName": "Waardenburg Syndrome, Type 1",
+        "Slug": "waardenburg_syndrome_type_1",
+        "MiFts": 56.943516,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1683,
+        "Symbol": "WRD032",
+        "Description": "waardenburg syndrome, type 2a",
+        "TitleCaseName": "Waardenburg Syndrome, Type 2a",
+        "Slug": "waardenburg_syndrome_type_2a_2",
+        "MiFts": 53.668873,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3891,
+        "Symbol": "WRD029",
+        "Description": "waardenburg syndrome, type 2b",
+        "TitleCaseName": "Waardenburg Syndrome, Type 2b",
+        "Slug": "waardenburg_syndrome_type_2b_2",
+        "MiFts": 27.37743,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4749,
+        "Symbol": "WRD026",
+        "Description": "waardenburg syndrome, type 2c",
+        "TitleCaseName": "Waardenburg Syndrome, Type 2c",
+        "Slug": "waardenburg_syndrome_type_2c",
+        "MiFts": 17.604668,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5761,
+        "Symbol": "WRD033",
+        "Description": "waardenburg syndrome, type 2e",
+        "TitleCaseName": "Waardenburg Syndrome, Type 2e",
+        "Slug": "waardenburg_syndrome_type_2e",
+        "MiFts": 56.88195,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9493,
+        "Symbol": "WRD034",
+        "Description": "waardenburg syndrome, type 2f",
+        "TitleCaseName": "Waardenburg Syndrome, Type 2f",
+        "Slug": "waardenburg_syndrome_type_2f",
+        "MiFts": 21.612597,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 878,
+        "Symbol": "WRD031",
+        "Description": "waardenburg syndrome, type 3",
+        "TitleCaseName": "Waardenburg Syndrome, Type 3",
+        "Slug": "waardenburg_syndrome_type_3_2",
+        "MiFts": 50.87424,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3188,
+        "Symbol": "WRD020",
+        "Description": "waardenburg syndrome, type 4a",
+        "TitleCaseName": "Waardenburg Syndrome, Type 4a",
+        "Slug": "waardenburg_syndrome_type_4a",
+        "MiFts": 54.948563,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6318,
+        "Symbol": "WRD019",
+        "Description": "waardenburg syndrome, type 4b",
+        "TitleCaseName": "Waardenburg Syndrome, Type 4b",
+        "Slug": "waardenburg_syndrome_type_4b",
+        "MiFts": 44.888184,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6319,
+        "Symbol": "WRD024",
+        "Description": "waardenburg syndrome, type 4c",
+        "TitleCaseName": "Waardenburg Syndrome, Type 4c",
+        "Slug": "waardenburg_syndrome_type_4c",
+        "MiFts": 50.114216,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17038,
+        "Symbol": "WCR002",
+        "Description": "wac-related intellectual disability",
+        "TitleCaseName": "Wac-Related Intellectual Disability",
+        "Slug": "wac_related_intellectual_disability",
+        "MiFts": 7.4135466,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19349,
+        "Symbol": "WGN008",
+        "Description": "wagner disease",
+        "TitleCaseName": "Wagner Disease",
+        "Slug": "wagner_disease",
+        "MiFts": 43.115025,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 757,
+        "Symbol": "WGN007",
+        "Description": "wagner vitreoretinopathy",
+        "TitleCaseName": "Wagner Vitreoretinopathy",
+        "Slug": "wagner_vitreoretinopathy",
+        "MiFts": 33.97071,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6003,
+        "Symbol": "WGR002",
+        "Description": "wagro syndrome",
+        "TitleCaseName": "Wagro Syndrome",
+        "Slug": "wagro_syndrome",
+        "MiFts": 36.208607,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7205,
+        "Symbol": "WHB001",
+        "Description": "wahab syndrome",
+        "TitleCaseName": "Wahab Syndrome",
+        "Slug": "wahab_syndrome",
+        "MiFts": 17.250027,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3756,
+        "Symbol": "WSM002",
+        "Description": "waisman syndrome",
+        "TitleCaseName": "Waisman Syndrome",
+        "Slug": "waisman_syndrome",
+        "MiFts": 38.109898,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16332,
+        "Symbol": "WLD001",
+        "Description": "waldeyer's ring cancer",
+        "TitleCaseName": "Waldeyer's Ring Cancer",
+        "Slug": "waldeyers_ring_cancer",
+        "MiFts": 6.647949,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10217,
+        "Symbol": "WLK001",
+        "Description": "walker-warburg syndrome",
+        "TitleCaseName": "Walker-Warburg Syndrome",
+        "Slug": "walker_warburg_syndrome",
+        "MiFts": 66.60735,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19350,
+        "Symbol": "WND002",
+        "Description": "wandering spleen",
+        "TitleCaseName": "Wandering Spleen",
+        "Slug": "wandering_spleen",
+        "MiFts": 15.45381,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3872,
+        "Symbol": "WRB002",
+        "Description": "warburg micro syndrome 1",
+        "TitleCaseName": "Warburg Micro Syndrome 1",
+        "Slug": "warburg_micro_syndrome_1",
+        "MiFts": 61.117546,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6769,
+        "Symbol": "WRB003",
+        "Description": "warburg micro syndrome 2",
+        "TitleCaseName": "Warburg Micro Syndrome 2",
+        "Slug": "warburg_micro_syndrome_2",
+        "MiFts": 44.0039,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6766,
+        "Symbol": "WRB004",
+        "Description": "warburg micro syndrome 3",
+        "TitleCaseName": "Warburg Micro Syndrome 3",
+        "Slug": "warburg_micro_syndrome_3",
+        "MiFts": 40.308144,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7437,
+        "Symbol": "WRB005",
+        "Description": "warburg micro syndrome 4",
+        "TitleCaseName": "Warburg Micro Syndrome 4",
+        "Slug": "warburg_micro_syndrome_4",
+        "MiFts": 41.631878,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8537,
+        "Symbol": "WRB006",
+        "Description": "warburg-cinotti syndrome",
+        "TitleCaseName": "Warburg-Cinotti Syndrome",
+        "Slug": "warburg_cinotti_syndrome",
+        "MiFts": 25.861809,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11142,
+        "Symbol": "WRF002",
+        "Description": "warfarin sensitivity",
+        "TitleCaseName": "Warfarin Sensitivity",
+        "Slug": "warfarin_sensitivity",
+        "MiFts": 41.598007,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3532,
+        "Symbol": "WRF006",
+        "Description": "warfarin sensitivity, x-linked",
+        "TitleCaseName": "Warfarin Sensitivity, X-Linked",
+        "Slug": "warfarin_sensitivity_x_linked",
+        "MiFts": 20.795492,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22691,
+        "Symbol": "WRK001",
+        "Description": "warkany syndrome 2",
+        "TitleCaseName": "Warkany Syndrome 2",
+        "Slug": "warkany_syndrome_2",
+        "MiFts": 0.70038474,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17039,
+        "Symbol": "WRS004",
+        "Description": "wars2 deficiency",
+        "TitleCaseName": "Wars2 Deficiency",
+        "Slug": "wars2_deficiency",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6370,
+        "Symbol": "WRS002",
+        "Description": "warsaw breakage syndrome",
+        "TitleCaseName": "Warsaw Breakage Syndrome",
+        "Slug": "warsaw_breakage_syndrome",
+        "MiFts": 53.446434,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17044,
+        "Symbol": "WRS003",
+        "Description": "warsaw syndrome",
+        "TitleCaseName": "Warsaw Syndrome",
+        "Slug": "warsaw_syndrome",
+        "MiFts": 9.965648,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19351,
+        "Symbol": "WRT007",
+        "Description": "warts-immunodeficiency-lymphedema-anogenital dysplasia syndrome",
+        "TitleCaseName": "Warts-Immunodeficiency-Lymphedema-Anogenital Dysplasia Syndrome",
+        "Slug": "warts_immunodeficiency_lymphedema_anogenital_dysplasia_syndrome",
+        "MiFts": 14.167956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21324,
+        "Symbol": "WRT005",
+        "Description": "warty dyskeratoma",
+        "TitleCaseName": "Warty Dyskeratoma",
+        "Slug": "warty_dyskeratoma",
+        "MiFts": 21.382647,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17040,
+        "Symbol": "WSR001",
+        "Description": "was-related disorders",
+        "TitleCaseName": "Was-Related Disorders",
+        "Slug": "was_related_disorders",
+        "MiFts": 7.8644934,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14981,
+        "Symbol": "WTR002",
+        "Description": "water-clear cell adenoma",
+        "TitleCaseName": "Water-Clear Cell Adenoma",
+        "Slug": "water_clear_cell_adenoma",
+        "MiFts": 20.59306,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16640,
+        "Symbol": "WTR001",
+        "Description": "waterhouse-friderichsen syndrome",
+        "TitleCaseName": "Waterhouse-Friderichsen Syndrome",
+        "Slug": "waterhouse_friderichsen_syndrome",
+        "MiFts": 36.836933,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1684,
+        "Symbol": "WTS001",
+        "Description": "watson syndrome",
+        "TitleCaseName": "Watson Syndrome",
+        "Slug": "watson_syndrome",
+        "MiFts": 44.71296,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17041,
+        "Symbol": "WDR002",
+        "Description": "wdr26-related intellectual disability",
+        "TitleCaseName": "Wdr26-Related Intellectual Disability",
+        "Slug": "wdr26_related_intellectual_disability",
+        "MiFts": 6.8868065,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17042,
+        "Symbol": "WDR003",
+        "Description": "wdr62 primary microcephaly",
+        "TitleCaseName": "Wdr62 Primary Microcephaly",
+        "Slug": "wdr62_primary_microcephaly",
+        "MiFts": 8.564878,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3189,
+        "Symbol": "WVR001",
+        "Description": "weaver syndrome",
+        "TitleCaseName": "Weaver Syndrome",
+        "Slug": "weaver_syndrome",
+        "MiFts": 62.947144,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7546,
+        "Symbol": "WBB001",
+        "Description": "webb-dattani syndrome",
+        "TitleCaseName": "Webb-Dattani Syndrome",
+        "Slug": "webb_dattani_syndrome",
+        "MiFts": 24.685293,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19352,
+        "Symbol": "WBR001",
+        "Description": "weber syndrome",
+        "TitleCaseName": "Weber Syndrome",
+        "Slug": "weber_syndrome",
+        "MiFts": 35.0075,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10183,
+        "Symbol": "WLL002",
+        "Description": "weill-marchesani syndrome",
+        "TitleCaseName": "Weill-Marchesani Syndrome",
+        "Slug": "weill_marchesani_syndrome",
+        "MiFts": 54.565136,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3190,
+        "Symbol": "WLL036",
+        "Description": "weill-marchesani syndrome 1",
+        "TitleCaseName": "Weill-Marchesani Syndrome 1",
+        "Slug": "weill_marchesani_syndrome_1",
+        "MiFts": 46.777668,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5066,
+        "Symbol": "WLL037",
+        "Description": "weill-marchesani syndrome 2",
+        "TitleCaseName": "Weill-Marchesani Syndrome 2",
+        "Slug": "weill_marchesani_syndrome_2",
+        "MiFts": 38.610214,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7035,
+        "Symbol": "WLL038",
+        "Description": "weill-marchesani syndrome 3",
+        "TitleCaseName": "Weill-Marchesani Syndrome 3",
+        "Slug": "weill_marchesani_syndrome_3",
+        "MiFts": 26.47667,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6291,
+        "Symbol": "WLL040",
+        "Description": "weill-marchesani syndrome 4",
+        "TitleCaseName": "Weill-Marchesani Syndrome 4",
+        "Slug": "weill_marchesani_syndrome_4",
+        "MiFts": 34.096516,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 202,
+        "Symbol": "WSM003",
+        "Description": "weismann-netter syndrome",
+        "TitleCaseName": "Weismann-Netter Syndrome",
+        "Slug": "weismann_netter_syndrome",
+        "MiFts": 23.64278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8790,
+        "Symbol": "WSS006",
+        "Description": "weiss-kruszka syndrome",
+        "TitleCaseName": "Weiss-Kruszka Syndrome",
+        "Slug": "weiss_kruszka_syndrome",
+        "MiFts": 33.631657,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4508,
+        "Symbol": "WLN001",
+        "Description": "welander distal myopathy",
+        "TitleCaseName": "Welander Distal Myopathy",
+        "Slug": "welander_distal_myopathy",
+        "MiFts": 40.808773,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20837,
+        "Symbol": "WLL022",
+        "Description": "well-differentiated fetal adenocarcinoma of the lung",
+        "TitleCaseName": "Well-Differentiated Fetal Adenocarcinoma of the Lung",
+        "Slug": "well_differentiated_fetal_adenocarcinoma_of_the_lung",
+        "MiFts": 16.07473,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15146,
+        "Symbol": "WLL039",
+        "Description": "well-differentiated liposarcoma",
+        "TitleCaseName": "Well-Differentiated Liposarcoma",
+        "Slug": "well_differentiated_liposarcoma",
+        "MiFts": 46.679676,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22437,
+        "Symbol": "WLL043",
+        "Description": "well-differentiated papillary mesothelial tumour of the peritoneum",
+        "TitleCaseName": "Well-Differentiated Papillary Mesothelial Tumour of the Peritoneum",
+        "Slug": "well_differentiated_papillary_mesothelial_tumour_of_the_peritoneum",
+        "MiFts": 1.4007695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22420,
+        "Symbol": "WLL042",
+        "Description": "well-differentiated papillary mesothelial tumour of the pleura",
+        "TitleCaseName": "Well-Differentiated Papillary Mesothelial Tumour of the Pleura",
+        "Slug": "well_differentiated_papillary_mesothelial_tumour_of_the_pleura",
+        "MiFts": 2.801539,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20102,
+        "Symbol": "WLL020",
+        "Description": "well-differentiated thymic neuroendocrine carcinoma",
+        "TitleCaseName": "Well-Differentiated Thymic Neuroendocrine Carcinoma",
+        "Slug": "well_differentiated_thymic_neuroendocrine_carcinoma",
+        "MiFts": 6.5289364,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19353,
+        "Symbol": "WLL006",
+        "Description": "wells syndrome",
+        "TitleCaseName": "Wells Syndrome",
+        "Slug": "wells_syndrome",
+        "MiFts": 32.543133,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3191,
+        "Symbol": "WRN001",
+        "Description": "werner syndrome",
+        "TitleCaseName": "Werner Syndrome",
+        "Slug": "werner_syndrome",
+        "MiFts": 72.96375,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13577,
+        "Symbol": "WRN003",
+        "Description": "wernicke encephalopathy",
+        "TitleCaseName": "Wernicke Encephalopathy",
+        "Slug": "wernicke_encephalopathy",
+        "MiFts": 43.1735,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3193,
+        "Symbol": "WRN002",
+        "Description": "wernicke-korsakoff syndrome",
+        "TitleCaseName": "Wernicke-Korsakoff Syndrome",
+        "Slug": "wernicke_korsakoff_syndrome",
+        "MiFts": 50.615856,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13568,
+        "Symbol": "WST004",
+        "Description": "west nile encephalitis",
+        "TitleCaseName": "West Nile Encephalitis",
+        "Slug": "west_nile_encephalitis",
+        "MiFts": 54.299793,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13569,
+        "Symbol": "WST003",
+        "Description": "west nile fever",
+        "TitleCaseName": "West Nile Fever",
+        "Slug": "west_nile_fever",
+        "MiFts": 43.835575,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5542,
+        "Symbol": "WST005",
+        "Description": "west nile virus",
+        "TitleCaseName": "West Nile Virus",
+        "Slug": "west_nile_virus",
+        "MiFts": 51.53165,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10219,
+        "Symbol": "WST001",
+        "Description": "west syndrome",
+        "TitleCaseName": "West Syndrome",
+        "Slug": "west_syndrome",
+        "MiFts": 63.831356,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12100,
+        "Symbol": "WST002",
+        "Description": "western equine encephalitis",
+        "TitleCaseName": "Western Equine Encephalitis",
+        "Slug": "western_equine_encephalitis",
+        "MiFts": 37.9882,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10872,
+        "Symbol": "WTB001",
+        "Description": "wet beriberi",
+        "TitleCaseName": "Wet Beriberi",
+        "Slug": "wet_beriberi",
+        "MiFts": 29.734331,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1685,
+        "Symbol": "WYR002",
+        "Description": "weyers acrofacial dysostosis",
+        "TitleCaseName": "Weyers Acrofacial Dysostosis",
+        "Slug": "weyers_acrofacial_dysostosis",
+        "MiFts": 59.351166,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4264,
+        "Symbol": "WYR003",
+        "Description": "weyers ulnar ray/oligodactyly syndrome",
+        "TitleCaseName": "Weyers Ulnar Ray/oligodactyly Syndrome",
+        "Slug": "weyers_ulnar_ray_oligodactyly_syndrome",
+        "MiFts": 16.281662,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17043,
+        "Symbol": "WFS003",
+        "Description": "wfs1 spectrum disorder",
+        "TitleCaseName": "Wfs1 Spectrum Disorder",
+        "Slug": "wfs1_spectrum_disorder",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14133,
+        "Symbol": "WHT017",
+        "Description": "wheat allergy",
+        "TitleCaseName": "Wheat Allergy",
+        "Slug": "wheat_allergy",
+        "MiFts": 34.25922,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1686,
+        "Symbol": "WHM002",
+        "Description": "whim syndrome 1",
+        "TitleCaseName": "Whim Syndrome 1",
+        "Slug": "whim_syndrome_1",
+        "MiFts": 63.449883,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9219,
+        "Symbol": "WHM003",
+        "Description": "whim syndrome 2",
+        "TitleCaseName": "Whim Syndrome 2",
+        "Slug": "whim_syndrome_2",
+        "MiFts": 20.893671,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16185,
+        "Symbol": "WHP001",
+        "Description": "whipple disease",
+        "TitleCaseName": "Whipple Disease",
+        "Slug": "whipple_disease",
+        "MiFts": 48.535084,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3192,
+        "Symbol": "WHS002",
+        "Description": "whistling face syndrome, recessive form",
+        "TitleCaseName": "Whistling Face Syndrome, Recessive Form",
+        "Slug": "whistling_face_syndrome_recessive_form",
+        "MiFts": 18.575003,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5807,
+        "Symbol": "WHT020",
+        "Description": "white blood cell count quantitative trait locus 1",
+        "TitleCaseName": "White Blood Cell Count Quantitative Trait Locus 1",
+        "Slug": "white_blood_cell_count_quantitative_trait_locus_1",
+        "MiFts": 13.872769,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20514,
+        "Symbol": "WHT012",
+        "Description": "white fibrous papulosis of the neck",
+        "TitleCaseName": "White Fibrous Papulosis of the Neck",
+        "Slug": "white_fibrous_papulosis_of_the_neck",
+        "MiFts": 10.850258,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3194,
+        "Symbol": "WHT005",
+        "Description": "white forelock with malformations",
+        "TitleCaseName": "White Forelock with Malformations",
+        "Slug": "white_forelock_with_malformations",
+        "MiFts": 18.27497,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19354,
+        "Symbol": "WHT018",
+        "Description": "white matter hypoplasia-corpus callosum agenesis-intellectual disability syndrome",
+        "TitleCaseName": "White Matter Hypoplasia-Corpus Callosum Agenesis-Intellectual Disability Syndrome",
+        "Slug": "white_matter_hypoplasia_corpus_callosum_agenesis_intellectual_disability_syndrome",
+        "MiFts": 16.71736,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13012,
+        "Symbol": "WHT003",
+        "Description": "white piedra",
+        "TitleCaseName": "White Piedra",
+        "Slug": "white_piedra",
+        "MiFts": 29.20018,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19355,
+        "Symbol": "WHT007",
+        "Description": "white platelet syndrome",
+        "TitleCaseName": "White Platelet Syndrome",
+        "Slug": "white_platelet_syndrome",
+        "MiFts": 12.881699,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10733,
+        "Symbol": "WHT016",
+        "Description": "white shrimp allergy",
+        "TitleCaseName": "White Shrimp Allergy",
+        "Slug": "white_shrimp_allergy",
+        "MiFts": 4.2023087,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10176,
+        "Symbol": "WHT023",
+        "Description": "white sponge nevus",
+        "TitleCaseName": "White Sponge Nevus",
+        "Slug": "white_sponge_nevus",
+        "MiFts": 43.2272,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1688,
+        "Symbol": "WHT013",
+        "Description": "white sponge nevus 1",
+        "TitleCaseName": "White Sponge Nevus 1",
+        "Slug": "white_sponge_nevus_1",
+        "MiFts": 31.411428,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7487,
+        "Symbol": "WHT015",
+        "Description": "white sponge nevus 2",
+        "TitleCaseName": "White Sponge Nevus 2",
+        "Slug": "white_sponge_nevus_2",
+        "MiFts": 25.904074,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9226,
+        "Symbol": "WHT021",
+        "Description": "white-kernohan syndrome",
+        "TitleCaseName": "White-Kernohan Syndrome",
+        "Slug": "white_kernohan_syndrome",
+        "MiFts": 24.195456,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7750,
+        "Symbol": "WHT019",
+        "Description": "white-sutton syndrome",
+        "TitleCaseName": "White-Sutton Syndrome",
+        "Slug": "white_sutton_syndrome",
+        "MiFts": 52.560562,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10125,
+        "Symbol": "WHT001",
+        "Description": "whitewater arroyo hemorrhagic fever",
+        "TitleCaseName": "Whitewater Arroyo Hemorrhagic Fever",
+        "Slug": "whitewater_arroyo_hemorrhagic_fever",
+        "MiFts": 4.9026933,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1689,
+        "Symbol": "WDW001",
+        "Description": "widow's peak",
+        "TitleCaseName": "Widow's Peak",
+        "Slug": "widows_peak",
+        "MiFts": 29.04554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3805,
+        "Symbol": "WCK001",
+        "Description": "wieacker-wolff syndrome",
+        "TitleCaseName": "Wieacker-Wolff Syndrome",
+        "Slug": "wieacker_wolff_syndrome",
+        "MiFts": 39.35706,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3526,
+        "Symbol": "WCK004",
+        "Description": "wieacker-wolff syndrome, female-restricted",
+        "TitleCaseName": "Wieacker-Wolff Syndrome, Female-Restricted",
+        "Slug": "wieacker_wolff_syndrome_female_restricted",
+        "MiFts": 26.92841,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19356,
+        "Symbol": "WDM002",
+        "Description": "wiedemann oldigs oppermann syndrome",
+        "TitleCaseName": "Wiedemann Oldigs Oppermann Syndrome",
+        "Slug": "wiedemann_oldigs_oppermann_syndrome",
+        "MiFts": 2.801539,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2909,
+        "Symbol": "WDM005",
+        "Description": "wiedemann-rautenstrauch syndrome",
+        "TitleCaseName": "Wiedemann-Rautenstrauch Syndrome",
+        "Slug": "wiedemann_rautenstrauch_syndrome",
+        "MiFts": 54.142662,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4560,
+        "Symbol": "WDM004",
+        "Description": "wiedemann-steiner syndrome",
+        "TitleCaseName": "Wiedemann-Steiner Syndrome",
+        "Slug": "wiedemann_steiner_syndrome",
+        "MiFts": 54.78239,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21741,
+        "Symbol": "WLD006",
+        "Description": "wild type abeta2m amyloidosis",
+        "TitleCaseName": "Wild Type Abeta2m Amyloidosis",
+        "Slug": "wild_type_abeta2m_amyloidosis",
+        "MiFts": 26.01635,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3806,
+        "Symbol": "WLD004",
+        "Description": "wildervanck syndrome",
+        "TitleCaseName": "Wildervanck Syndrome",
+        "Slug": "wildervanck_syndrome",
+        "MiFts": 27.073372,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11307,
+        "Symbol": "WLD008",
+        "Description": "wild-type amyloidosis",
+        "TitleCaseName": "Wild-Type Amyloidosis",
+        "Slug": "wild_type_amyloidosis",
+        "MiFts": 44.84092,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5398,
+        "Symbol": "WLL012",
+        "Description": "williams-beuren region duplication syndrome",
+        "TitleCaseName": "Williams-Beuren Region Duplication Syndrome",
+        "Slug": "williams_beuren_region_duplication_syndrome",
+        "MiFts": 45.785545,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1690,
+        "Symbol": "WLL001",
+        "Description": "williams-beuren syndrome",
+        "TitleCaseName": "Williams-Beuren Syndrome",
+        "Slug": "williams_beuren_syndrome",
+        "MiFts": 65.97789,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1900,
+        "Symbol": "WLL029",
+        "Description": "williams-campbell syndrome",
+        "TitleCaseName": "Williams-Campbell Syndrome",
+        "Slug": "williams_campbell_syndrome",
+        "MiFts": 28.534307,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1691,
+        "Symbol": "WLM013",
+        "Description": "wilms tumor 1",
+        "TitleCaseName": "Wilms Tumor 1",
+        "Slug": "wilms_tumor_1",
+        "MiFts": 74.491974,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1692,
+        "Symbol": "WLM005",
+        "Description": "wilms tumor 2",
+        "TitleCaseName": "Wilms Tumor 2",
+        "Slug": "wilms_tumor_2",
+        "MiFts": 26.744553,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1695,
+        "Symbol": "WLM015",
+        "Description": "wilms tumor 3",
+        "TitleCaseName": "Wilms Tumor 3",
+        "Slug": "wilms_tumor_3",
+        "MiFts": 18.365517,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4099,
+        "Symbol": "WLM017",
+        "Description": "wilms tumor 4",
+        "TitleCaseName": "Wilms Tumor 4",
+        "Slug": "wilms_tumor_4",
+        "MiFts": 19.148998,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4154,
+        "Symbol": "WLM018",
+        "Description": "wilms tumor 5",
+        "TitleCaseName": "Wilms Tumor 5",
+        "Slug": "wilms_tumor_5",
+        "MiFts": 65.61731,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7919,
+        "Symbol": "WLM011",
+        "Description": "wilms tumor 6",
+        "TitleCaseName": "Wilms Tumor 6",
+        "Slug": "wilms_tumor_6",
+        "MiFts": 29.862906,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17045,
+        "Symbol": "WLM012",
+        "Description": "wilms tumor predisposition",
+        "TitleCaseName": "Wilms Tumor Predisposition",
+        "Slug": "wilms_tumor_predisposition",
+        "MiFts": 6.9386353,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1693,
+        "Symbol": "WLM020",
+        "Description": "wilms tumor, aniridia, genitourinary anomalies, and impaired intellectual development syndrome",
+        "TitleCaseName": "Wilms Tumor, Aniridia, Genitourinary Anomalies, and Impaired Intellectual Development Syndrome",
+        "Slug": "wilms_tumor_aniridia_genitourinary_anomalies_and_impaired_intellectual_development_syndrome",
+        "MiFts": 58.782314,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3195,
+        "Symbol": "WLS001",
+        "Description": "wilson disease",
+        "TitleCaseName": "Wilson Disease",
+        "Slug": "wilson_disease",
+        "MiFts": 77.46928,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10790,
+        "Symbol": "WLS004",
+        "Description": "wilson-turner syndrome",
+        "TitleCaseName": "Wilson-Turner Syndrome",
+        "Slug": "wilson_turner_syndrome",
+        "MiFts": 37.72147,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3196,
+        "Symbol": "WNC001",
+        "Description": "winchester syndrome",
+        "TitleCaseName": "Winchester Syndrome",
+        "Slug": "winchester_syndrome",
+        "MiFts": 41.45606,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3503,
+        "Symbol": "WSK001",
+        "Description": "wiskott-aldrich syndrome",
+        "TitleCaseName": "Wiskott-Aldrich Syndrome",
+        "Slug": "wiskott_aldrich_syndrome",
+        "MiFts": 77.43236,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6909,
+        "Symbol": "WSK002",
+        "Description": "wiskott-aldrich syndrome 2",
+        "TitleCaseName": "Wiskott-Aldrich Syndrome 2",
+        "Slug": "wiskott_aldrich_syndrome_2",
+        "MiFts": 31.59998,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4001,
+        "Symbol": "WSK004",
+        "Description": "wiskott-aldrich syndrome, autosomal dominant",
+        "TitleCaseName": "Wiskott-Aldrich Syndrome, Autosomal Dominant",
+        "Slug": "wiskott_aldrich_syndrome_autosomal_dominant",
+        "MiFts": 12.757031,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13843,
+        "Symbol": "WSS007",
+        "Description": "wissler-fanconi syndrome",
+        "TitleCaseName": "Wissler-Fanconi Syndrome",
+        "Slug": "wissler_fanconi_syndrome",
+        "MiFts": 23.360756,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10449,
+        "Symbol": "WTH001",
+        "Description": "withdrawal disorder",
+        "TitleCaseName": "Withdrawal Disorder",
+        "Slug": "withdrawal_disorder",
+        "MiFts": 46.916546,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1594,
+        "Symbol": "WTK002",
+        "Description": "witkop syndrome",
+        "TitleCaseName": "Witkop Syndrome",
+        "Slug": "witkop_syndrome",
+        "MiFts": 48.624054,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6374,
+        "Symbol": "WTT002",
+        "Description": "witteveen-kolk syndrome",
+        "TitleCaseName": "Witteveen-Kolk Syndrome",
+        "Slug": "witteveen_kolk_syndrome",
+        "MiFts": 44.33983,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3197,
+        "Symbol": "WLF015",
+        "Description": "wolff syndrome",
+        "TitleCaseName": "Wolff Syndrome",
+        "Slug": "wolff_syndrome",
+        "MiFts": 18.009865,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15849,
+        "Symbol": "WLF005",
+        "Description": "wolffian adnexal neoplasm",
+        "TitleCaseName": "Wolffian Adnexal Neoplasm",
+        "Slug": "wolffian_adnexal_neoplasm",
+        "MiFts": 5.5378656,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14959,
+        "Symbol": "WLF006",
+        "Description": "wolffian duct adenocarcinoma",
+        "TitleCaseName": "Wolffian Duct Adenocarcinoma",
+        "Slug": "wolffian_duct_adenocarcinoma",
+        "MiFts": 26.422766,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13667,
+        "Symbol": "WLF003",
+        "Description": "wolffian duct adenoma",
+        "TitleCaseName": "Wolffian Duct Adenoma",
+        "Slug": "wolffian_duct_adenoma",
+        "MiFts": 24.117306,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1697,
+        "Symbol": "WLF001",
+        "Description": "wolff-parkinson-white syndrome",
+        "TitleCaseName": "Wolff-Parkinson-White Syndrome",
+        "Slug": "wolff_parkinson_white_syndrome",
+        "MiFts": 66.925446,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1696,
+        "Symbol": "WLF002",
+        "Description": "wolf-hirschhorn syndrome",
+        "TitleCaseName": "Wolf-Hirschhorn Syndrome",
+        "Slug": "wolf_hirschhorn_syndrome",
+        "MiFts": 59.842854,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12037,
+        "Symbol": "WLF004",
+        "Description": "wolfram syndrome",
+        "TitleCaseName": "Wolfram Syndrome",
+        "Slug": "wolfram_syndrome",
+        "MiFts": 60.353912,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2109,
+        "Symbol": "WLF013",
+        "Description": "wolfram syndrome 1",
+        "TitleCaseName": "Wolfram Syndrome 1",
+        "Slug": "wolfram_syndrome_1",
+        "MiFts": 62.418545,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4545,
+        "Symbol": "WLF009",
+        "Description": "wolfram syndrome 2",
+        "TitleCaseName": "Wolfram Syndrome 2",
+        "Slug": "wolfram_syndrome_2",
+        "MiFts": 49.61774,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3851,
+        "Symbol": "WLF014",
+        "Description": "wolfram syndrome, mitochondrial form",
+        "TitleCaseName": "Wolfram Syndrome, Mitochondrial Form",
+        "Slug": "wolfram_syndrome_mitochondrial_form",
+        "MiFts": 18.694338,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19357,
+        "Symbol": "WLF016",
+        "Description": "wolfram-like syndrome",
+        "TitleCaseName": "Wolfram-Like Syndrome",
+        "Slug": "wolfram_like_syndrome",
+        "MiFts": 33.651943,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6801,
+        "Symbol": "WLF011",
+        "Description": "wolfram-like syndrome, autosomal dominant",
+        "TitleCaseName": "Wolfram-Like Syndrome, Autosomal Dominant",
+        "Slug": "wolfram_like_syndrome_autosomal_dominant",
+        "MiFts": 31.594448,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9587,
+        "Symbol": "WLM001",
+        "Description": "wolman disease",
+        "TitleCaseName": "Wolman Disease",
+        "Slug": "wolman_disease",
+        "MiFts": 65.87414,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2424,
+        "Symbol": "WDH003",
+        "Description": "woodhouse-sakati syndrome",
+        "TitleCaseName": "Woodhouse-Sakati Syndrome",
+        "Slug": "woodhouse_sakati_syndrome_2",
+        "MiFts": 56.647392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7234,
+        "Symbol": "WDS002",
+        "Description": "woods syndrome",
+        "TitleCaseName": "Woods Syndrome",
+        "Slug": "woods_syndrome",
+        "MiFts": 9.224014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19358,
+        "Symbol": "WLL023",
+        "Description": "woolly hair nevus",
+        "TitleCaseName": "Woolly Hair Nevus",
+        "Slug": "woolly_hair_nevus",
+        "MiFts": 28.040995,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1698,
+        "Symbol": "WLL018",
+        "Description": "woolly hair, autosomal dominant",
+        "TitleCaseName": "Woolly Hair, Autosomal Dominant",
+        "Slug": "woolly_hair_autosomal_dominant",
+        "MiFts": 32.956684,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7905,
+        "Symbol": "WLL035",
+        "Description": "woolly hair, autosomal recessive 3",
+        "TitleCaseName": "Woolly Hair, Autosomal Recessive 3",
+        "Slug": "woolly_hair_autosomal_recessive_3_2",
+        "MiFts": 24.602032,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3200,
+        "Symbol": "WLL032",
+        "Description": "woolly hair, hypotrichosis, everted lower lip, and outstanding ears",
+        "TitleCaseName": "Woolly Hair, Hypotrichosis, Everted Lower Lip, and Outstanding Ears",
+        "Slug": "woolly_hair_hypotrichosis_everted_lower_lip_and_outstanding_ears_2",
+        "MiFts": 11.034483,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9722,
+        "Symbol": "WLL041",
+        "Description": "woolly hair-skin fragility syndrome",
+        "TitleCaseName": "Woolly Hair-Skin Fragility Syndrome",
+        "Slug": "woolly_hair_skin_fragility_syndrome",
+        "MiFts": 31.728432,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19359,
+        "Symbol": "WRM005",
+        "Description": "wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia",
+        "TitleCaseName": "Wormian Bone-Multiple Fractures-Dentinogenesis Imperfecta-Skeletal Dysplasia",
+        "Slug": "wormian_bone_multiple_fractures_dentinogenesis_imperfecta_skeletal_dysplasia",
+        "MiFts": 14.48236,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1699,
+        "Symbol": "WRN006",
+        "Description": "woronets trait",
+        "TitleCaseName": "Woronets Trait",
+        "Slug": "woronets_trait",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10164,
+        "Symbol": "WND001",
+        "Description": "wound botulism",
+        "TitleCaseName": "Wound Botulism",
+        "Slug": "wound_botulism",
+        "MiFts": 40.61979,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19360,
+        "Symbol": "WND005",
+        "Description": "wound myiasis",
+        "TitleCaseName": "Wound Myiasis",
+        "Slug": "wound_myiasis",
+        "MiFts": 15.969969,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3201,
+        "Symbol": "WRN004",
+        "Description": "wrinkly skin syndrome",
+        "TitleCaseName": "Wrinkly Skin Syndrome",
+        "Slug": "wrinkly_skin_syndrome",
+        "MiFts": 49.97447,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10482,
+        "Symbol": "WRT002",
+        "Description": "writing disorder",
+        "TitleCaseName": "Writing Disorder",
+        "Slug": "writing_disorder",
+        "MiFts": 31.89247,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1700,
+        "Symbol": "WTL002",
+        "Description": "wt limb-blood syndrome",
+        "TitleCaseName": "Wt Limb-Blood Syndrome",
+        "Slug": "wt_limb_blood_syndrome_2",
+        "MiFts": 15.765503,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19361,
+        "Symbol": "WYB002",
+        "Description": "wyburn-mason syndrome",
+        "TitleCaseName": "Wyburn-Mason Syndrome",
+        "Slug": "wyburn_mason_syndrome",
+        "MiFts": 28.134035,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 144,
+  "recordsFiltered": 144,
+  "searchMatches": 0,
+  "error": null
+}

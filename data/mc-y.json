@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 17051,
+        "Symbol": "YCH001",
+        "Description": "y chromosome infertility",
+        "TitleCaseName": "Y Chromosome Infertility",
+        "Slug": "y_chromosome_infertility",
+        "MiFts": 14.147543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20087,
+        "Symbol": "YCH005",
+        "Description": "y chromosome number anomaly",
+        "TitleCaseName": "Y Chromosome Number Anomaly",
+        "Slug": "y_chromosome_number_anomaly",
+        "MiFts": 7.9790053,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8158,
+        "Symbol": "YSY001",
+        "Description": "yao syndrome",
+        "TitleCaseName": "Yao Syndrome",
+        "Slug": "yao_syndrome",
+        "MiFts": 34.614708,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11276,
+        "Symbol": "YP1001",
+        "Description": "yap1-mamld1 fusion-positive supratentorial ependymoma",
+        "TitleCaseName": "Yap1-Mamld1 Fusion-Positive Supratentorial Ependymoma",
+        "Slug": "yap1_mamld1_fusion_positive_supratentorial_ependymoma",
+        "MiFts": 3.5019238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11958,
+        "Symbol": "YWS001",
+        "Description": "yaws",
+        "TitleCaseName": "Yaws",
+        "Slug": "yaws",
+        "MiFts": 36.021587,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1703,
+        "Symbol": "YST001",
+        "Description": "yeast factor",
+        "TitleCaseName": "Yeast Factor",
+        "Slug": "yeast_factor",
+        "MiFts": 8.014463,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16551,
+        "Symbol": "YLL002",
+        "Description": "yellow fever",
+        "TitleCaseName": "Yellow Fever",
+        "Slug": "yellow_fever",
+        "MiFts": 62.5185,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 937,
+        "Symbol": "YLL001",
+        "Description": "yellow nail syndrome",
+        "TitleCaseName": "Yellow Nail Syndrome",
+        "Slug": "yellow_nail_syndrome",
+        "MiFts": 43.16153,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4176,
+        "Symbol": "YMN001",
+        "Description": "yemenite deaf-blind hypopigmentation syndrome",
+        "TitleCaseName": "Yemenite Deaf-Blind Hypopigmentation Syndrome",
+        "Slug": "yemenite_deaf_blind_hypopigmentation_syndrome",
+        "MiFts": 29.979868,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22578,
+        "Symbol": "YRS004",
+        "Description": "yersinia pseudotuberculosis infection",
+        "TitleCaseName": "Yersinia Pseudotuberculosis Infection",
+        "Slug": "yersinia_pseudotuberculosis_infection",
+        "MiFts": 12.886948,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17052,
+        "Symbol": "YF1001",
+        "Description": "yif1b-related neurodevelopmental disorder",
+        "TitleCaseName": "Yif1b-Related Neurodevelopmental Disorder",
+        "Slug": "yif1b_related_neurodevelopmental_disorder",
+        "MiFts": 6.303463,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 24
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11702,
+        "Symbol": "YLN003",
+        "Description": "y-linked deafness",
+        "TitleCaseName": "Y-Linked Deafness",
+        "Slug": "y_linked_deafness",
+        "MiFts": 22.071928,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19983,
+        "Symbol": "YLK002",
+        "Description": "yolk sac tumor of central nervous system",
+        "TitleCaseName": "Yolk Sac Tumor of Central Nervous System",
+        "Slug": "yolk_sac_tumor_of_central_nervous_system",
+        "MiFts": 13.332645,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9370,
+        "Symbol": "YNB001",
+        "Description": "yoon-bellen neurodevelopmental syndrome",
+        "TitleCaseName": "Yoon-Bellen Neurodevelopmental Syndrome",
+        "Slug": "yoon_bellen_neurodevelopmental_syndrome",
+        "MiFts": 30.441603,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7988,
+        "Symbol": "YHV001",
+        "Description": "you-hoover-fong syndrome",
+        "TitleCaseName": "You-Hoover-Fong Syndrome",
+        "Slug": "you_hoover_fong_syndrome",
+        "MiFts": 33.719334,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3213,
+        "Symbol": "YNG002",
+        "Description": "young syndrome",
+        "TitleCaseName": "Young Syndrome",
+        "Slug": "young_syndrome",
+        "MiFts": 25.823195,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 195,
+        "Symbol": "YTB001",
+        "Description": "yt blood group antigen",
+        "TitleCaseName": "Yt Blood Group Antigen",
+        "Slug": "yt_blood_group_antigen",
+        "MiFts": 12.025554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7864,
+        "Symbol": "YNH001",
+        "Description": "yuan-harel-lupski syndrome",
+        "TitleCaseName": "Yuan-Harel-Lupski Syndrome",
+        "Slug": "yuan_harel_lupski_syndrome",
+        "MiFts": 28.432907,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9842,
+        "Symbol": "YKS001",
+        "Description": "yuksel-vogel-bauer syndrome",
+        "TitleCaseName": "Yuksel-Vogel-Bauer Syndrome",
+        "Slug": "yuksel_vogel_bauer_syndrome",
+        "MiFts": 19.497879,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2003,
+        "Symbol": "YNS002",
+        "Description": "yunis-varon syndrome",
+        "TitleCaseName": "Yunis-Varon Syndrome",
+        "Slug": "yunis_varon_syndrome_2",
+        "MiFts": 55.50879,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 20,
+  "recordsFiltered": 20,
+  "searchMatches": 0,
+  "error": null
+}

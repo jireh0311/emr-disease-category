@@ -1,0 +1,872 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 12181,
+        "Symbol": "QFV001",
+        "Description": "q fever",
+        "TitleCaseName": "Q Fever",
+        "Slug": "q_fever",
+        "MiFts": 62.546158,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10303,
+        "Symbol": "QZM001",
+        "Description": "qazi markouizos syndrome",
+        "TitleCaseName": "Qazi Markouizos Syndrome",
+        "Slug": "qazi_markouizos_syndrome",
+        "MiFts": 19.986353,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19021,
+        "Symbol": "QRC001",
+        "Description": "qrich1-related intellectual disability-chondrodysplasia syndrome",
+        "TitleCaseName": "Qrich1-Related Intellectual Disability-Chondrodysplasia Syndrome",
+        "Slug": "qrich1_related_intellectual_disability_chondrodysplasia_syndrome",
+        "MiFts": 7.9297056,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19022,
+        "Symbol": "QRS001",
+        "Description": "qrsl1-related combined oxidative phosphorylation defect",
+        "TitleCaseName": "Qrsl1-Related Combined Oxidative Phosphorylation Defect",
+        "Slug": "qrsl1_related_combined_oxidative_phosphorylation_defect",
+        "MiFts": 10.149873,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5475,
+        "Symbol": "QTN001",
+        "Description": "qt interval, variation in",
+        "TitleCaseName": "Qt Interval, Variation in",
+        "Slug": "qt_interval_variation_in",
+        "MiFts": 13.73397,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21472,
+        "Symbol": "QDR002",
+        "Description": "quadricuspid aortic valve",
+        "TitleCaseName": "Quadricuspid Aortic Valve",
+        "Slug": "quadricuspid_aortic_valve",
+        "MiFts": 16.857464,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12703,
+        "Symbol": "QDR001",
+        "Description": "quadriplegia",
+        "TitleCaseName": "Quadriplegia",
+        "Slug": "quadriplegia",
+        "MiFts": 44.95269,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20374,
+        "Symbol": "QLT035",
+        "Description": "qualitative or quantitative defects of alpha-actin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Actin",
+        "Slug": "qualitative_or_quantitative_defects_of_alpha_actin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20367,
+        "Symbol": "QLT028",
+        "Description": "qualitative or quantitative defects of alphab-cristallin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Alphab-Cristallin",
+        "Slug": "qualitative_or_quantitative_defects_of_alphab_cristallin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20680,
+        "Symbol": "QLT041",
+        "Description": "qualitative or quantitative defects of alpha-dystroglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Dystroglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_alpha_dystroglycan",
+        "MiFts": 35.230003,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20326,
+        "Symbol": "QLT012",
+        "Description": "qualitative or quantitative defects of alpha-sarcoglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Alpha-Sarcoglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_alpha_sarcoglycan",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20361,
+        "Symbol": "QLT021",
+        "Description": "qualitative or quantitative defects of beta-myosin heavy chain",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Beta-Myosin Heavy Chain",
+        "Slug": "qualitative_or_quantitative_defects_of_beta_myosin_heavy_chain",
+        "MiFts": 9.449489,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20327,
+        "Symbol": "QLT013",
+        "Description": "qualitative or quantitative defects of beta-sarcoglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Beta-Sarcoglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_beta_sarcoglycan",
+        "MiFts": 16.448587,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20359,
+        "Symbol": "QLT019",
+        "Description": "qualitative or quantitative defects of calpain",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Calpain",
+        "Slug": "qualitative_or_quantitative_defects_of_calpain",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20323,
+        "Symbol": "QLT009",
+        "Description": "qualitative or quantitative defects of caveolin-3",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Caveolin-3",
+        "Slug": "qualitative_or_quantitative_defects_of_caveolin_3",
+        "MiFts": 20.365616,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20318,
+        "Symbol": "QLT003",
+        "Description": "qualitative or quantitative defects of collagen 6",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Collagen 6",
+        "Slug": "qualitative_or_quantitative_defects_of_collagen_6",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20322,
+        "Symbol": "QLT007",
+        "Description": "qualitative or quantitative defects of delta-sarcoglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Delta-Sarcoglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_delta_sarcoglycan",
+        "MiFts": 11.43005,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20368,
+        "Symbol": "QLT029",
+        "Description": "qualitative or quantitative defects of desmin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Desmin",
+        "Slug": "qualitative_or_quantitative_defects_of_desmin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20317,
+        "Symbol": "QLT002",
+        "Description": "qualitative or quantitative defects of dystrophin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Dystrophin",
+        "Slug": "qualitative_or_quantitative_defects_of_dystrophin",
+        "MiFts": 31.325922,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20362,
+        "Symbol": "QLT022",
+        "Description": "qualitative or quantitative defects of emerin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Emerin",
+        "Slug": "qualitative_or_quantitative_defects_of_emerin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20370,
+        "Symbol": "QLT031",
+        "Description": "qualitative or quantitative defects of filamin c",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Filamin C",
+        "Slug": "qualitative_or_quantitative_defects_of_filamin_c",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20355,
+        "Symbol": "QLT015",
+        "Description": "qualitative or quantitative defects of fkrp",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Fkrp",
+        "Slug": "qualitative_or_quantitative_defects_of_fkrp",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20353,
+        "Symbol": "QLT014",
+        "Description": "qualitative or quantitative defects of fukutin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Fukutin",
+        "Slug": "qualitative_or_quantitative_defects_of_fukutin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20321,
+        "Symbol": "QLT006",
+        "Description": "qualitative or quantitative defects of gamma-sarcoglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Gamma-Sarcoglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_gamma_sarcoglycan",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20366,
+        "Symbol": "QLT026",
+        "Description": "qualitative or quantitative defects of glucosamine  -2-epimerase/n-acetylmannosamine kinase -",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Glucosamine  -2-Epimerase/n-Acetylmannosamine Kinase -",
+        "Slug": "qualitative_or_quantitative_defects_of_glucosamine_2_epimerase_n_acetylmannosamine_kinase_",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20320,
+        "Symbol": "QLT005",
+        "Description": "qualitative or quantitative defects of integrin alpha-7",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Integrin Alpha-7",
+        "Slug": "qualitative_or_quantitative_defects_of_integrin_alpha_7",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20381,
+        "Symbol": "QLT039",
+        "Description": "qualitative or quantitative defects of myofibrillar proteins",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Myofibrillar Proteins",
+        "Slug": "qualitative_or_quantitative_defects_of_myofibrillar_proteins",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20357,
+        "Symbol": "QLT017",
+        "Description": "qualitative or quantitative defects of myotubularin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Myotubularin",
+        "Slug": "qualitative_or_quantitative_defects_of_myotubularin",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20373,
+        "Symbol": "QLT034",
+        "Description": "qualitative or quantitative defects of nebulin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Nebulin",
+        "Slug": "qualitative_or_quantitative_defects_of_nebulin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20360,
+        "Symbol": "QLT020",
+        "Description": "qualitative or quantitative defects of perlecan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Perlecan",
+        "Slug": "qualitative_or_quantitative_defects_of_perlecan",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20364,
+        "Symbol": "QLT024",
+        "Description": "qualitative or quantitative defects of plectin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Plectin",
+        "Slug": "qualitative_or_quantitative_defects_of_plectin",
+        "MiFts": 4.612007,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20380,
+        "Symbol": "QLT038",
+        "Description": "qualitative or quantitative defects of protein glycosyltransferase-like",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein Glycosyltransferase-Like",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_glycosyltransferase_like",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20356,
+        "Symbol": "QLT016",
+        "Description": "qualitative or quantitative defects of protein involved in o-glycosylation of alpha-dystroglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein Involved in O-Glycosylation of Alpha-Dystroglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_involved_in_o_glycosylation_of_alpha_dystroglycan",
+        "MiFts": 8.67939,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20377,
+        "Symbol": "QLT036",
+        "Description": "qualitative or quantitative defects of protein o-mannose beta1,2n-acetylglucosaminyltransferase",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannose Beta1,2n-Acetylglucosaminyltransferase",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannose_beta12n_acetylglucosaminyltransferase",
+        "MiFts": 3.211238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20379,
+        "Symbol": "QLT037",
+        "Description": "qualitative or quantitative defects of protein o-mannosyltransferase 1",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannosyltransferase 1",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannosyltransferase_1",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20382,
+        "Symbol": "QLT040",
+        "Description": "qualitative or quantitative defects of protein o-mannosyltransferase 2",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein O-Mannosyltransferase 2",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_o_mannosyltransferase_2",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20365,
+        "Symbol": "QLT025",
+        "Description": "qualitative or quantitative defects of protein serca1",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein Serca1",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_serca1",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20369,
+        "Symbol": "QLT030",
+        "Description": "qualitative or quantitative defects of protein zasp",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Protein Zasp",
+        "Slug": "qualitative_or_quantitative_defects_of_protein_zasp",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20325,
+        "Symbol": "QLT011",
+        "Description": "qualitative or quantitative defects of sarcoglycan",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Sarcoglycan",
+        "Slug": "qualitative_or_quantitative_defects_of_sarcoglycan",
+        "MiFts": 25.069757,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20363,
+        "Symbol": "QLT023",
+        "Description": "qualitative or quantitative defects of selenoprotein n1",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Selenoprotein N1",
+        "Slug": "qualitative_or_quantitative_defects_of_selenoprotein_n1",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20371,
+        "Symbol": "QLT032",
+        "Description": "qualitative or quantitative defects of telethonin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Telethonin",
+        "Slug": "qualitative_or_quantitative_defects_of_telethonin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20372,
+        "Symbol": "QLT033",
+        "Description": "qualitative or quantitative defects of titin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Titin",
+        "Slug": "qualitative_or_quantitative_defects_of_titin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21177,
+        "Symbol": "QLT044",
+        "Description": "qualitative or quantitative defects of torsin-1a-interacting protein 1",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Torsin-1a-Interacting Protein 1",
+        "Slug": "qualitative_or_quantitative_defects_of_torsin_1a_interacting_protein_1",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20358,
+        "Symbol": "QLT018",
+        "Description": "qualitative or quantitative defects of trim32",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Trim32",
+        "Slug": "qualitative_or_quantitative_defects_of_trim32",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20798,
+        "Symbol": "QLT043",
+        "Description": "qualitative or quantitative defects of tropomyosin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Tropomyosin",
+        "Slug": "qualitative_or_quantitative_defects_of_tropomyosin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20797,
+        "Symbol": "QLT042",
+        "Description": "qualitative or quantitative defects of troponin",
+        "TitleCaseName": "Qualitative or Quantitative Defects of Troponin",
+        "Slug": "qualitative_or_quantitative_defects_of_troponin",
+        "MiFts": 2.510853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20324,
+        "Symbol": "QLT010",
+        "Description": "qualitative or quantitative protein defects in neuromuscular diseases",
+        "TitleCaseName": "Qualitative or Quantitative Protein Defects in Neuromuscular Diseases",
+        "Slug": "qualitative_or_quantitative_protein_defects_in_neuromuscular_diseases",
+        "MiFts": 3.211238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12190,
+        "Symbol": "QLT001",
+        "Description": "qualitative platelet defect",
+        "TitleCaseName": "Qualitative Platelet Defect",
+        "Slug": "qualitative_platelet_defect",
+        "MiFts": 45.61765,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22317,
+        "Symbol": "QNT001",
+        "Description": "quantitative and/or qualitative congenital phagocyte defect",
+        "TitleCaseName": "Quantitative and/or Qualitative Congenital Phagocyte Defect",
+        "Slug": "quantitative_and_or_qualitative_congenital_phagocyte_defect",
+        "MiFts": 3.211238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4179,
+        "Symbol": "QBC001",
+        "Description": "quebec platelet disorder",
+        "TitleCaseName": "Quebec Platelet Disorder",
+        "Slug": "quebec_platelet_disorder",
+        "MiFts": 43.06997,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12075,
+        "Symbol": "QNS001",
+        "Description": "queensland tick typhus",
+        "TitleCaseName": "Queensland Tick Typhus",
+        "Slug": "queensland_tick_typhus",
+        "MiFts": 23.069658,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6119,
+        "Symbol": "QST001",
+        "Description": "question mark ears, isolated",
+        "TitleCaseName": "Question Mark Ears, Isolated",
+        "Slug": "question_mark_ears_isolated",
+        "MiFts": 28.816334,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10028,
+        "Symbol": "QND001",
+        "Description": "quinidine allergy",
+        "TitleCaseName": "Quinidine Allergy",
+        "Slug": "quinidine_allergy",
+        "MiFts": 7.4135466,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19023,
+        "Symbol": "QNQ002",
+        "Description": "quinquaud folliculitis decalvans",
+        "TitleCaseName": "Quinquaud Folliculitis Decalvans",
+        "Slug": "quinquaud_folliculitis_decalvans",
+        "MiFts": 12.300327,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 54,
+  "recordsFiltered": 54,
+  "searchMatches": 0,
+  "error": null
+}

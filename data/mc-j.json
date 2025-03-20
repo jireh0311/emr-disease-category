@@ -1,0 +1,1752 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 8431,
+        "Symbol": "JBR046",
+        "Description": "jaberi-elahi syndrome",
+        "TitleCaseName": "Jaberi-Elahi Syndrome",
+        "Slug": "jaberi_elahi_syndrome",
+        "MiFts": 26.039114,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12764,
+        "Symbol": "JCC001",
+        "Description": "jaccoud's syndrome",
+        "TitleCaseName": "Jaccoud's Syndrome",
+        "Slug": "jaccouds_syndrome",
+        "MiFts": 11.498814,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 397,
+        "Symbol": "JCK001",
+        "Description": "jackson-weiss syndrome",
+        "TitleCaseName": "Jackson-Weiss Syndrome",
+        "Slug": "jackson_weiss_syndrome",
+        "MiFts": 58.97747,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 854,
+        "Symbol": "JCB001",
+        "Description": "jacobsen syndrome",
+        "TitleCaseName": "Jacobsen Syndrome",
+        "Slug": "jacobsen_syndrome",
+        "MiFts": 43.492233,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2013,
+        "Symbol": "JLL001",
+        "Description": "jalili syndrome",
+        "TitleCaseName": "Jalili Syndrome",
+        "Slug": "jalili_syndrome",
+        "MiFts": 50.330185,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8201,
+        "Symbol": "JNS007",
+        "Description": "jansen-de vries syndrome",
+        "TitleCaseName": "Jansen-De Vries Syndrome",
+        "Slug": "jansen_de_vries_syndrome",
+        "MiFts": 27.705084,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10454,
+        "Symbol": "JNS001",
+        "Description": "janus kinase-3 deficiency",
+        "TitleCaseName": "Janus Kinase-3 Deficiency",
+        "Slug": "janus_kinase_3_deficiency",
+        "MiFts": 20.742577,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12101,
+        "Symbol": "JPN002",
+        "Description": "japanese encephalitis",
+        "TitleCaseName": "Japanese Encephalitis",
+        "Slug": "japanese_encephalitis",
+        "MiFts": 55.2889,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10079,
+        "Symbol": "JPN001",
+        "Description": "japanese spotted fever",
+        "TitleCaseName": "Japanese Spotted Fever",
+        "Slug": "japanese_spotted_fever",
+        "MiFts": 28.610601,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3684,
+        "Symbol": "JND003",
+        "Description": "jaundice, familial obstructive, of infancy",
+        "TitleCaseName": "Jaundice, Familial Obstructive, of Infancy",
+        "Slug": "jaundice_familial_obstructive_of_infancy",
+        "MiFts": 7.4547944,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13387,
+        "Symbol": "JWC001",
+        "Description": "jaw cancer",
+        "TitleCaseName": "Jaw Cancer",
+        "Slug": "jaw_cancer",
+        "MiFts": 20.92567,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2625,
+        "Symbol": "JWD001",
+        "Description": "jawad syndrome",
+        "TitleCaseName": "Jawad Syndrome",
+        "Slug": "jawad_syndrome",
+        "MiFts": 41.62919,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9872,
+        "Symbol": "JFF002",
+        "Description": "jeffries-lakhani neurodevelopmental syndrome",
+        "TitleCaseName": "Jeffries-Lakhani Neurodevelopmental Syndrome",
+        "Slug": "jeffries_lakhani_neurodevelopmental_syndrome",
+        "MiFts": 22.458452,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10418,
+        "Symbol": "JJN007",
+        "Description": "jejunal adenocarcinoma",
+        "TitleCaseName": "Jejunal Adenocarcinoma",
+        "Slug": "jejunal_adenocarcinoma",
+        "MiFts": 30.915762,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2480,
+        "Symbol": "JJN004",
+        "Description": "jejunal atresia",
+        "TitleCaseName": "Jejunal Atresia",
+        "Slug": "jejunal_atresia",
+        "MiFts": 36.058746,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4290,
+        "Symbol": "JJN005",
+        "Description": "jejunal atresia with renal adysplasia",
+        "TitleCaseName": "Jejunal Atresia with Renal Adysplasia",
+        "Slug": "jejunal_atresia_with_renal_adysplasia",
+        "MiFts": 4.612007,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12892,
+        "Symbol": "JJN003",
+        "Description": "jejunal cancer",
+        "TitleCaseName": "Jejunal Cancer",
+        "Slug": "jejunal_cancer",
+        "MiFts": 34.38212,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13931,
+        "Symbol": "JJN002",
+        "Description": "jejunal neoplasm",
+        "TitleCaseName": "Jejunal Neoplasm",
+        "Slug": "jejunal_neoplasm",
+        "MiFts": 25.367123,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22446,
+        "Symbol": "JJN009",
+        "Description": "jejunal neuroendocrine tumor",
+        "TitleCaseName": "Jejunal Neuroendocrine Tumor",
+        "Slug": "jejunal_neuroendocrine_tumor",
+        "MiFts": 10.666033,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13930,
+        "Symbol": "JJN001",
+        "Description": "jejunal somatostatinoma",
+        "TitleCaseName": "Jejunal Somatostatinoma",
+        "Slug": "jejunal_somatostatinoma",
+        "MiFts": 19.304174,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10585,
+        "Symbol": "JJN008",
+        "Description": "jejunoileitis",
+        "TitleCaseName": "Jejunoileitis",
+        "Slug": "jejunoileitis",
+        "MiFts": 30.05714,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2084,
+        "Symbol": "JRV004",
+        "Description": "jervell and lange-nielsen syndrome 1",
+        "TitleCaseName": "Jervell and Lange-Nielsen Syndrome 1",
+        "Slug": "jervell_and_lange_nielsen_syndrome_1",
+        "MiFts": 47.0159,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5954,
+        "Symbol": "JRV002",
+        "Description": "jervell and lange-nielsen syndrome 2",
+        "TitleCaseName": "Jervell and Lange-Nielsen Syndrome 2",
+        "Slug": "jervell_and_lange_nielsen_syndrome_2",
+        "MiFts": 34.66292,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13763,
+        "Symbol": "JRV001",
+        "Description": "jervell-lange nielsen syndrome",
+        "TitleCaseName": "Jervell-Lange Nielsen Syndrome",
+        "Slug": "jervell_lange_nielsen_syndrome",
+        "MiFts": 56.298656,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18392,
+        "Symbol": "JSS002",
+        "Description": "jessner lymphocytic infiltration of the skin",
+        "TitleCaseName": "Jessner Lymphocytic Infiltration of the Skin",
+        "Slug": "jessner_lymphocytic_infiltration_of_the_skin",
+        "MiFts": 17.5248,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18393,
+        "Symbol": "JNS004",
+        "Description": "jeune syndrome situs inversus",
+        "TitleCaseName": "Jeune Syndrome Situs Inversus",
+        "Slug": "jeune_syndrome_situs_inversus",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15776,
+        "Symbol": "JWT001",
+        "Description": "jewett-marshall bladder cancer",
+        "TitleCaseName": "Jewett-Marshall Bladder Cancer",
+        "Slug": "jewett_marshall_bladder_cancer",
+        "MiFts": 5.7220907,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2483,
+        "Symbol": "JHN001",
+        "Description": "johanson-blizzard syndrome",
+        "TitleCaseName": "Johanson-Blizzard Syndrome",
+        "Slug": "johanson_blizzard_syndrome",
+        "MiFts": 52.519054,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 853,
+        "Symbol": "JHN004",
+        "Description": "johnson neuroectodermal syndrome",
+        "TitleCaseName": "Johnson Neuroectodermal Syndrome",
+        "Slug": "johnson_neuroectodermal_syndrome",
+        "MiFts": 26.20869,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9629,
+        "Symbol": "JNT006",
+        "Description": "joint contractures, osteochondromas, and b-cell lymphoma",
+        "TitleCaseName": "Joint Contractures, Osteochondromas, and B-Cell Lymphoma",
+        "Slug": "joint_contractures_osteochondromas_and_b_cell_lymphoma",
+        "MiFts": 21.776524,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 858,
+        "Symbol": "JNT001",
+        "Description": "joint laxity, familial",
+        "TitleCaseName": "Joint Laxity, Familial",
+        "Slug": "joint_laxity_familial",
+        "MiFts": 23.096537,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8275,
+        "Symbol": "JNT004",
+        "Description": "joint laxity, short stature, and myopia",
+        "TitleCaseName": "Joint Laxity, Short Stature, and Myopia",
+        "Slug": "joint_laxity_short_stature_and_myopia",
+        "MiFts": 19.98319,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18394,
+        "Symbol": "JNS005",
+        "Description": "jones hersh yusk syndrome",
+        "TitleCaseName": "Jones Hersh Yusk Syndrome",
+        "Slug": "jones_hersh_yusk_syndrome",
+        "MiFts": 4.9026933,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1954,
+        "Symbol": "JBR020",
+        "Description": "joubert syndrome 1",
+        "TitleCaseName": "Joubert Syndrome 1",
+        "Slug": "joubert_syndrome_1_2",
+        "MiFts": 75.48707,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3414,
+        "Symbol": "JBR016",
+        "Description": "joubert syndrome 10",
+        "TitleCaseName": "Joubert Syndrome 10",
+        "Slug": "joubert_syndrome_10",
+        "MiFts": 49.762924,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6736,
+        "Symbol": "JBR028",
+        "Description": "joubert syndrome 13",
+        "TitleCaseName": "Joubert Syndrome 13",
+        "Slug": "joubert_syndrome_13",
+        "MiFts": 43.984104,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6874,
+        "Symbol": "JBR024",
+        "Description": "joubert syndrome 14",
+        "TitleCaseName": "Joubert Syndrome 14",
+        "Slug": "joubert_syndrome_14",
+        "MiFts": 48.79879,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6892,
+        "Symbol": "JBR026",
+        "Description": "joubert syndrome 15",
+        "TitleCaseName": "Joubert Syndrome 15",
+        "Slug": "joubert_syndrome_15",
+        "MiFts": 45.64367,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6893,
+        "Symbol": "JBR027",
+        "Description": "joubert syndrome 16",
+        "TitleCaseName": "Joubert Syndrome 16",
+        "Slug": "joubert_syndrome_16",
+        "MiFts": 30.177841,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6953,
+        "Symbol": "JBR025",
+        "Description": "joubert syndrome 17",
+        "TitleCaseName": "Joubert Syndrome 17",
+        "Slug": "joubert_syndrome_17",
+        "MiFts": 44.32852,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7032,
+        "Symbol": "JBR021",
+        "Description": "joubert syndrome 18",
+        "TitleCaseName": "Joubert Syndrome 18",
+        "Slug": "joubert_syndrome_18",
+        "MiFts": 46.85729,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5016,
+        "Symbol": "JBR004",
+        "Description": "joubert syndrome 2",
+        "TitleCaseName": "Joubert Syndrome 2",
+        "Slug": "joubert_syndrome_2",
+        "MiFts": 53.373936,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7129,
+        "Symbol": "JBR022",
+        "Description": "joubert syndrome 20",
+        "TitleCaseName": "Joubert Syndrome 20",
+        "Slug": "joubert_syndrome_20",
+        "MiFts": 39.34284,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7429,
+        "Symbol": "JBR031",
+        "Description": "joubert syndrome 21",
+        "TitleCaseName": "Joubert Syndrome 21",
+        "Slug": "joubert_syndrome_21",
+        "MiFts": 50.07689,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7438,
+        "Symbol": "JBR030",
+        "Description": "joubert syndrome 22",
+        "TitleCaseName": "Joubert Syndrome 22",
+        "Slug": "joubert_syndrome_22",
+        "MiFts": 42.456383,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7806,
+        "Symbol": "JBR042",
+        "Description": "joubert syndrome 23",
+        "TitleCaseName": "Joubert Syndrome 23",
+        "Slug": "joubert_syndrome_23",
+        "MiFts": 47.136097,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7865,
+        "Symbol": "JBR035",
+        "Description": "joubert syndrome 24",
+        "TitleCaseName": "Joubert Syndrome 24",
+        "Slug": "joubert_syndrome_24",
+        "MiFts": 45.22793,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7910,
+        "Symbol": "JBR036",
+        "Description": "joubert syndrome 25",
+        "TitleCaseName": "Joubert Syndrome 25",
+        "Slug": "joubert_syndrome_25",
+        "MiFts": 44.018818,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7911,
+        "Symbol": "JBR037",
+        "Description": "joubert syndrome 26",
+        "TitleCaseName": "Joubert Syndrome 26",
+        "Slug": "joubert_syndrome_26",
+        "MiFts": 36.84093,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8066,
+        "Symbol": "JBR038",
+        "Description": "joubert syndrome 27",
+        "TitleCaseName": "Joubert Syndrome 27",
+        "Slug": "joubert_syndrome_27",
+        "MiFts": 41.089664,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8067,
+        "Symbol": "JBR039",
+        "Description": "joubert syndrome 28",
+        "TitleCaseName": "Joubert Syndrome 28",
+        "Slug": "joubert_syndrome_28",
+        "MiFts": 32.725502,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11036,
+        "Symbol": "JBR055",
+        "Description": "joubert syndrome 29",
+        "TitleCaseName": "Joubert Syndrome 29",
+        "Slug": "joubert_syndrome_29",
+        "MiFts": 22.823982,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5133,
+        "Symbol": "JBR041",
+        "Description": "joubert syndrome 3",
+        "TitleCaseName": "Joubert Syndrome 3",
+        "Slug": "joubert_syndrome_3_2",
+        "MiFts": 53.90902,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8260,
+        "Symbol": "JBR040",
+        "Description": "joubert syndrome 30",
+        "TitleCaseName": "Joubert Syndrome 30",
+        "Slug": "joubert_syndrome_30",
+        "MiFts": 33.58489,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8319,
+        "Symbol": "JBR044",
+        "Description": "joubert syndrome 31",
+        "TitleCaseName": "Joubert Syndrome 31",
+        "Slug": "joubert_syndrome_31",
+        "MiFts": 25.934462,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8317,
+        "Symbol": "JBR043",
+        "Description": "joubert syndrome 32",
+        "TitleCaseName": "Joubert Syndrome 32",
+        "Slug": "joubert_syndrome_32",
+        "MiFts": 47.871185,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8323,
+        "Symbol": "JBR045",
+        "Description": "joubert syndrome 33",
+        "TitleCaseName": "Joubert Syndrome 33",
+        "Slug": "joubert_syndrome_33",
+        "MiFts": 37.322254,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8528,
+        "Symbol": "JBR047",
+        "Description": "joubert syndrome 35",
+        "TitleCaseName": "Joubert Syndrome 35",
+        "Slug": "joubert_syndrome_35",
+        "MiFts": 24.292248,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8856,
+        "Symbol": "JBR048",
+        "Description": "joubert syndrome 36",
+        "TitleCaseName": "Joubert Syndrome 36",
+        "Slug": "joubert_syndrome_36",
+        "MiFts": 26.664467,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9103,
+        "Symbol": "JBR049",
+        "Description": "joubert syndrome 37",
+        "TitleCaseName": "Joubert Syndrome 37",
+        "Slug": "joubert_syndrome_37",
+        "MiFts": 26.960247,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9253,
+        "Symbol": "JBR050",
+        "Description": "joubert syndrome 38",
+        "TitleCaseName": "Joubert Syndrome 38",
+        "Slug": "joubert_syndrome_38",
+        "MiFts": 24.533148,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9299,
+        "Symbol": "JBR051",
+        "Description": "joubert syndrome 39",
+        "TitleCaseName": "Joubert Syndrome 39",
+        "Slug": "joubert_syndrome_39",
+        "MiFts": 23.412806,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5362,
+        "Symbol": "JBR018",
+        "Description": "joubert syndrome 4",
+        "TitleCaseName": "Joubert Syndrome 4",
+        "Slug": "joubert_syndrome_4",
+        "MiFts": 36.24921,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9307,
+        "Symbol": "JBR052",
+        "Description": "joubert syndrome 40",
+        "TitleCaseName": "Joubert Syndrome 40",
+        "Slug": "joubert_syndrome_40",
+        "MiFts": 22.657331,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5490,
+        "Symbol": "JBR012",
+        "Description": "joubert syndrome 5",
+        "TitleCaseName": "Joubert Syndrome 5",
+        "Slug": "joubert_syndrome_5",
+        "MiFts": 52.949825,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5598,
+        "Symbol": "JBR015",
+        "Description": "joubert syndrome 6",
+        "TitleCaseName": "Joubert Syndrome 6",
+        "Slug": "joubert_syndrome_6",
+        "MiFts": 44.612278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5757,
+        "Symbol": "JBR011",
+        "Description": "joubert syndrome 7",
+        "TitleCaseName": "Joubert Syndrome 7",
+        "Slug": "joubert_syndrome_7",
+        "MiFts": 43.02017,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5938,
+        "Symbol": "JBR013",
+        "Description": "joubert syndrome 8",
+        "TitleCaseName": "Joubert Syndrome 8",
+        "Slug": "joubert_syndrome_8",
+        "MiFts": 43.754814,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5932,
+        "Symbol": "JBR014",
+        "Description": "joubert syndrome 9",
+        "TitleCaseName": "Joubert Syndrome 9",
+        "Slug": "joubert_syndrome_9",
+        "MiFts": 50.62704,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 34
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18395,
+        "Symbol": "JBR032",
+        "Description": "joubert syndrome with jeune asphyxiating thoracic dystrophy",
+        "TitleCaseName": "Joubert Syndrome with Jeune Asphyxiating Thoracic Dystrophy",
+        "Slug": "joubert_syndrome_with_jeune_asphyxiating_thoracic_dystrophy",
+        "MiFts": 31.213242,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18396,
+        "Symbol": "JBR053",
+        "Description": "joubert syndrome with ocular defect",
+        "TitleCaseName": "Joubert Syndrome with Ocular Defect",
+        "Slug": "joubert_syndrome_with_ocular_defect",
+        "MiFts": 42.530815,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18397,
+        "Symbol": "JBR054",
+        "Description": "joubert syndrome with renal defect",
+        "TitleCaseName": "Joubert Syndrome with Renal Defect",
+        "Slug": "joubert_syndrome_with_renal_defect",
+        "MiFts": 42.69549,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2000,
+        "Symbol": "JBR008",
+        "Description": "juberg-hayward syndrome",
+        "TitleCaseName": "Juberg-Hayward Syndrome",
+        "Slug": "juberg_hayward_syndrome",
+        "MiFts": 29.767094,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18398,
+        "Symbol": "JDG001",
+        "Description": "judge misch wright syndrome",
+        "TitleCaseName": "Judge Misch Wright Syndrome",
+        "Slug": "judge_misch_wright_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15347,
+        "Symbol": "JGL001",
+        "Description": "jugular foramen meningioma",
+        "TitleCaseName": "Jugular Foramen Meningioma",
+        "Slug": "jugular_foramen_meningioma",
+        "MiFts": 24.676363,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22372,
+        "Symbol": "JJN010",
+        "Description": "jujeno-ileal duplication",
+        "TitleCaseName": "Jujeno-Ileal Duplication",
+        "Slug": "jujeno_ileal_duplication",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2485,
+        "Symbol": "JMP002",
+        "Description": "jumping frenchmen of maine",
+        "TitleCaseName": "Jumping Frenchmen of Maine",
+        "Slug": "jumping_frenchmen_of_maine",
+        "MiFts": 15.024101,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13926,
+        "Symbol": "JNC001",
+        "Description": "junctional epidermolysis bullosa",
+        "TitleCaseName": "Junctional Epidermolysis Bullosa",
+        "Slug": "junctional_epidermolysis_bullosa",
+        "MiFts": 59.008957,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10767,
+        "Symbol": "JNC005",
+        "Description": "junctional epidermolysis bullosa non-herlitz type",
+        "TitleCaseName": "Junctional Epidermolysis Bullosa Non-Herlitz Type",
+        "Slug": "junctional_epidermolysis_bullosa_non_herlitz_type_2",
+        "MiFts": 45.803818,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18399,
+        "Symbol": "JNG002",
+        "Description": "jung syndrome",
+        "TitleCaseName": "Jung Syndrome",
+        "Slug": "jung_syndrome",
+        "MiFts": 15.465768,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10572,
+        "Symbol": "JVN007",
+        "Description": "juvenile absence epilepsy",
+        "TitleCaseName": "Juvenile Absence Epilepsy",
+        "Slug": "juvenile_absence_epilepsy",
+        "MiFts": 50.946278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18400,
+        "Symbol": "JVN050",
+        "Description": "juvenile amyotrophic lateral sclerosis",
+        "TitleCaseName": "Juvenile Amyotrophic Lateral Sclerosis",
+        "Slug": "juvenile_amyotrophic_lateral_sclerosis",
+        "MiFts": 42.178226,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 24
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10055,
+        "Symbol": "JVN059",
+        "Description": "juvenile ankylosing spondylitis",
+        "TitleCaseName": "Juvenile Ankylosing Spondylitis",
+        "Slug": "juvenile_ankylosing_spondylitis",
+        "MiFts": 25.601202,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8874,
+        "Symbol": "JVN061",
+        "Description": "juvenile arthritis",
+        "TitleCaseName": "Juvenile Arthritis",
+        "Slug": "juvenile_arthritis",
+        "MiFts": 44.460625,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18401,
+        "Symbol": "JVN048",
+        "Description": "juvenile cataract-microcornea-renal glucosuria syndrome",
+        "TitleCaseName": "Juvenile Cataract-Microcornea-Renal Glucosuria Syndrome",
+        "Slug": "juvenile_cataract_microcornea_renal_glucosuria_syndrome",
+        "MiFts": 19.22641,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16204,
+        "Symbol": "JVN011",
+        "Description": "juvenile dermatitis herpetiformis",
+        "TitleCaseName": "Juvenile Dermatitis Herpetiformis",
+        "Slug": "juvenile_dermatitis_herpetiformis",
+        "MiFts": 26.528425,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12051,
+        "Symbol": "JVN008",
+        "Description": "juvenile glaucoma",
+        "TitleCaseName": "Juvenile Glaucoma",
+        "Slug": "juvenile_glaucoma",
+        "MiFts": 56.915245,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18402,
+        "Symbol": "JVN015",
+        "Description": "juvenile huntington disease",
+        "TitleCaseName": "Juvenile Huntington Disease",
+        "Slug": "juvenile_huntington_disease",
+        "MiFts": 28.224705,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20598,
+        "Symbol": "JVN060",
+        "Description": "juvenile idiopathic inflammatory myopathy",
+        "TitleCaseName": "Juvenile Idiopathic Inflammatory Myopathy",
+        "Slug": "juvenile_idiopathic_inflammatory_myopathy",
+        "MiFts": 16.814524,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21069,
+        "Symbol": "JVN038",
+        "Description": "juvenile myasthenia gravis",
+        "TitleCaseName": "Juvenile Myasthenia Gravis",
+        "Slug": "juvenile_myasthenia_gravis",
+        "MiFts": 18.99698,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4965,
+        "Symbol": "JVN004",
+        "Description": "juvenile myelomonocytic leukemia",
+        "TitleCaseName": "Juvenile Myelomonocytic Leukemia",
+        "Slug": "juvenile_myelomonocytic_leukemia",
+        "MiFts": 73.1854,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20790,
+        "Symbol": "JVN033",
+        "Description": "juvenile nasopharyngeal angiofibroma",
+        "TitleCaseName": "Juvenile Nasopharyngeal Angiofibroma",
+        "Slug": "juvenile_nasopharyngeal_angiofibroma",
+        "MiFts": 32.513756,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22000,
+        "Symbol": "JVN041",
+        "Description": "juvenile nephronophthisis",
+        "TitleCaseName": "Juvenile Nephronophthisis",
+        "Slug": "juvenile_nephronophthisis",
+        "MiFts": 50.329826,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 17
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18403,
+        "Symbol": "JVN045",
+        "Description": "juvenile ossifying fibroma",
+        "TitleCaseName": "Juvenile Ossifying Fibroma",
+        "Slug": "juvenile_ossifying_fibroma",
+        "MiFts": 12.945783,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20597,
+        "Symbol": "JVN030",
+        "Description": "juvenile overlap myositis",
+        "TitleCaseName": "Juvenile Overlap Myositis",
+        "Slug": "juvenile_overlap_myositis",
+        "MiFts": 9.449489,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15597,
+        "Symbol": "JVN009",
+        "Description": "juvenile pilocytic astrocytoma",
+        "TitleCaseName": "Juvenile Pilocytic Astrocytoma",
+        "Slug": "juvenile_pilocytic_astrocytoma",
+        "MiFts": 31.989214,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18404,
+        "Symbol": "JVN046",
+        "Description": "juvenile polymyositis",
+        "TitleCaseName": "Juvenile Polymyositis",
+        "Slug": "juvenile_polymyositis",
+        "MiFts": 20.191412,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21405,
+        "Symbol": "JVN034",
+        "Description": "juvenile polyposis of infancy",
+        "TitleCaseName": "Juvenile Polyposis of Infancy",
+        "Slug": "juvenile_polyposis_of_infancy",
+        "MiFts": 31.639273,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1290,
+        "Symbol": "JVN014",
+        "Description": "juvenile polyposis syndrome",
+        "TitleCaseName": "Juvenile Polyposis Syndrome",
+        "Slug": "juvenile_polyposis_syndrome",
+        "MiFts": 69.32212,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1291,
+        "Symbol": "JVN012",
+        "Description": "juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome",
+        "TitleCaseName": "Juvenile Polyposis/hereditary Hemorrhagic Telangiectasia Syndrome",
+        "Slug": "juvenile_polyposis_hereditary_hemorrhagic_telangiectasia_syndrome",
+        "MiFts": 57.20251,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19467,
+        "Symbol": "JVN025",
+        "Description": "juvenile primary osteoporosis",
+        "TitleCaseName": "Juvenile Primary Osteoporosis",
+        "Slug": "juvenile_primary_osteoporosis",
+        "MiFts": 19.310078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15581,
+        "Symbol": "JVN010",
+        "Description": "juvenile rheumatoid arthritis",
+        "TitleCaseName": "Juvenile Rheumatoid Arthritis",
+        "Slug": "juvenile_rheumatoid_arthritis",
+        "MiFts": 63.60622,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18405,
+        "Symbol": "JVN019",
+        "Description": "juvenile temporal arteritis",
+        "TitleCaseName": "Juvenile Temporal Arteritis",
+        "Slug": "juvenile_temporal_arteritis",
+        "MiFts": 22.20652,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15317,
+        "Symbol": "JVN002",
+        "Description": "juvenile type testicular granulosa cell tumor",
+        "TitleCaseName": "Juvenile Type Testicular Granulosa Cell Tumor",
+        "Slug": "juvenile_type_testicular_granulosa_cell_tumor",
+        "MiFts": 35.90693,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14483,
+        "Symbol": "JVN003",
+        "Description": "juvenile xanthogranuloma",
+        "TitleCaseName": "Juvenile Xanthogranuloma",
+        "Slug": "juvenile_xanthogranuloma",
+        "MiFts": 48.196545,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10815,
+        "Symbol": "JVN058",
+        "Description": "juvenile-onset parkinson's disease",
+        "TitleCaseName": "Juvenile-Onset Parkinson's Disease",
+        "Slug": "juvenile_onset_parkinsons_disease",
+        "MiFts": 30.906908,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 28
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13661,
+        "Symbol": "JXT001",
+        "Description": "juxtacortical chondroma",
+        "TitleCaseName": "Juxtacortical Chondroma",
+        "Slug": "juxtacortical_chondroma",
+        "MiFts": 28.984877,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15255,
+        "Symbol": "JXT002",
+        "Description": "juxtacortical chondrosarcoma",
+        "TitleCaseName": "Juxtacortical Chondrosarcoma",
+        "Slug": "juxtacortical_chondrosarcoma",
+        "MiFts": 15.226211,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22044,
+        "Symbol": "JXT004",
+        "Description": "juxtaposition of the atrial appendages",
+        "TitleCaseName": "Juxtaposition of the Atrial Appendages",
+        "Slug": "juxtaposition_of_the_atrial_appendages",
+        "MiFts": 11.902586,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 109,
+  "recordsFiltered": 109,
+  "searchMatches": 0,
+  "error": null
+}

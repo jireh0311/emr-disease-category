@@ -1,0 +1,3208 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 859,
+        "Symbol": "KBK002",
+        "Description": "kabuki syndrome 1",
+        "TitleCaseName": "Kabuki Syndrome 1",
+        "Slug": "kabuki_syndrome_1",
+        "MiFts": 72.45279,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3448,
+        "Symbol": "KBK003",
+        "Description": "kabuki syndrome 2",
+        "TitleCaseName": "Kabuki Syndrome 2",
+        "Slug": "kabuki_syndrome_2",
+        "MiFts": 36.044064,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5028,
+        "Symbol": "KGM001",
+        "Description": "kagami-ogata syndrome",
+        "TitleCaseName": "Kagami-Ogata Syndrome",
+        "Slug": "kagami_ogata_syndrome",
+        "MiFts": 45.558403,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18406,
+        "Symbol": "KGM002",
+        "Description": "kagami-ogata syndrome due to paternal uniparental disomy of chromosome 14",
+        "TitleCaseName": "Kagami-Ogata Syndrome Due to Paternal Uniparental Disomy of Chromosome 14",
+        "Slug": "kagami_ogata_syndrome_due_to_paternal_uniparental_disomy_of_chromosome_14",
+        "MiFts": 25.562716,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6092,
+        "Symbol": "KHR001",
+        "Description": "kahrizi syndrome",
+        "TitleCaseName": "Kahrizi Syndrome",
+        "Slug": "kahrizi_syndrome",
+        "MiFts": 39.369278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5042,
+        "Symbol": "KLZ004",
+        "Description": "kala-azar 1",
+        "TitleCaseName": "Kala-Azar 1",
+        "Slug": "kala_azar_1",
+        "MiFts": 17.736572,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5721,
+        "Symbol": "KLZ002",
+        "Description": "kala-azar 2",
+        "TitleCaseName": "Kala-Azar 2",
+        "Slug": "kala_azar_2",
+        "MiFts": 10.956718,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5722,
+        "Symbol": "KLZ003",
+        "Description": "kala-azar 3",
+        "TitleCaseName": "Kala-Azar 3",
+        "Slug": "kala_azar_3",
+        "MiFts": 7.4135466,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7557,
+        "Symbol": "KLL010",
+        "Description": "kallikrein, decreased urinary activity of",
+        "TitleCaseName": "Kallikrein, Decreased Urinary Activity of",
+        "Slug": "kallikrein_decreased_urinary_activity_of",
+        "MiFts": 12.025554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14116,
+        "Symbol": "KLL001",
+        "Description": "kallmann syndrome",
+        "TitleCaseName": "Kallmann Syndrome",
+        "Slug": "kallmann_syndrome",
+        "MiFts": 62.659546,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3686,
+        "Symbol": "KLL015",
+        "Description": "kallmann syndrome with spastic paraplegia",
+        "TitleCaseName": "Kallmann Syndrome with Spastic Paraplegia",
+        "Slug": "kallmann_syndrome_with_spastic_paraplegia",
+        "MiFts": 11.406048,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18407,
+        "Symbol": "KLL013",
+        "Description": "kallmann syndrome-heart disease syndrome",
+        "TitleCaseName": "Kallmann Syndrome-Heart Disease Syndrome",
+        "Slug": "kallmann_syndrome_heart_disease_syndrome",
+        "MiFts": 15.31686,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5277,
+        "Symbol": "KNZ001",
+        "Description": "kanzaki disease",
+        "TitleCaseName": "Kanzaki Disease",
+        "Slug": "kanzaki_disease",
+        "MiFts": 51.39574,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11945,
+        "Symbol": "KLN003",
+        "Description": "kaolin pneumoconiosis",
+        "TitleCaseName": "Kaolin Pneumoconiosis",
+        "Slug": "kaolin_pneumoconiosis",
+        "MiFts": 12.701974,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 861,
+        "Symbol": "KPS004",
+        "Description": "kaposi sarcoma",
+        "TitleCaseName": "Kaposi Sarcoma",
+        "Slug": "kaposi_sarcoma",
+        "MiFts": 69.313194,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18408,
+        "Symbol": "KPS002",
+        "Description": "kaposiform hemangioendothelioma",
+        "TitleCaseName": "Kaposiform Hemangioendothelioma",
+        "Slug": "kaposiform_hemangioendothelioma",
+        "MiFts": 27.53248,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18409,
+        "Symbol": "KPS005",
+        "Description": "kaposiform lymphangiomatosis",
+        "TitleCaseName": "Kaposiform Lymphangiomatosis",
+        "Slug": "kaposiform_lymphangiomatosis",
+        "MiFts": 24.323002,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2487,
+        "Symbol": "KPR002",
+        "Description": "kapur-toriello syndrome",
+        "TitleCaseName": "Kapur-Toriello Syndrome",
+        "Slug": "kapur_toriello_syndrome_2",
+        "MiFts": 25.258732,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9950,
+        "Symbol": "KRY004",
+        "Description": "karayol-borroto-haghshenas neurodevelopmental syndrome",
+        "TitleCaseName": "Karayol-Borroto-Haghshenas Neurodevelopmental Syndrome",
+        "Slug": "karayol_borroto_haghshenas_neurodevelopmental_syndrome",
+        "MiFts": 13.383319,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9929,
+        "Symbol": "KRM001",
+        "Description": "kariminejad-reversade neurodevelopmental syndrome",
+        "TitleCaseName": "Kariminejad-Reversade Neurodevelopmental Syndrome",
+        "Slug": "kariminejad_reversade_neurodevelopmental_syndrome",
+        "MiFts": 15.416328,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10102,
+        "Symbol": "KRT010",
+        "Description": "kartagener syndrome",
+        "TitleCaseName": "Kartagener Syndrome",
+        "Slug": "kartagener_syndrome",
+        "MiFts": 49.48345,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16869,
+        "Symbol": "KT6002",
+        "Description": "kat6b disorders",
+        "TitleCaseName": "Kat6b Disorders",
+        "Slug": "kat6b_disorders",
+        "MiFts": 6.3940105,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21934,
+        "Symbol": "KT6003",
+        "Description": "kat6b-related multiple congenital anomalies syndrome",
+        "TitleCaseName": "Kat6b-Related Multiple Congenital Anomalies Syndrome",
+        "Slug": "kat6b_related_multiple_congenital_anomalies_syndrome",
+        "MiFts": 13.176886,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2489,
+        "Symbol": "KFM001",
+        "Description": "kaufman oculocerebrofacial syndrome",
+        "TitleCaseName": "Kaufman Oculocerebrofacial Syndrome",
+        "Slug": "kaufman_oculocerebrofacial_syndrome",
+        "MiFts": 51.706497,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5795,
+        "Symbol": "KWS002",
+        "Description": "kawasaki disease",
+        "TitleCaseName": "Kawasaki Disease",
+        "Slug": "kawasaki_disease",
+        "MiFts": 65.44131,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9065,
+        "Symbol": "KYB001",
+        "Description": "kaya-barakat-masson syndrome",
+        "TitleCaseName": "Kaya-Barakat-Masson Syndrome",
+        "Slug": "kaya_barakat_masson_syndrome",
+        "MiFts": 23.924831,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 862,
+        "Symbol": "KBG001",
+        "Description": "kbg syndrome",
+        "TitleCaseName": "Kbg Syndrome",
+        "Slug": "kbg_syndrome",
+        "MiFts": 59.557022,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19478,
+        "Symbol": "KCN021",
+        "Description": "kcnb1 encephalopathy",
+        "TitleCaseName": "Kcnb1 Encephalopathy",
+        "Slug": "kcnb1_encephalopathy",
+        "MiFts": 7.4135466,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16870,
+        "Symbol": "KCN019",
+        "Description": "kcnk9 imprinting syndrome",
+        "TitleCaseName": "Kcnk9 Imprinting Syndrome",
+        "Slug": "kcnk9_imprinting_syndrome",
+        "MiFts": 12.668183,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16871,
+        "Symbol": "KCN010",
+        "Description": "kcnq2-related disorders",
+        "TitleCaseName": "Kcnq2-Related Disorders",
+        "Slug": "kcnq2_related_disorders",
+        "MiFts": 15.950537,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16872,
+        "Symbol": "KCN014",
+        "Description": "kcnq3-related disorders",
+        "TitleCaseName": "Kcnq3-Related Disorders",
+        "Slug": "kcnq3_related_disorders",
+        "MiFts": 5.5378656,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16873,
+        "Symbol": "KCN020",
+        "Description": "kcnt1-related epilepsy",
+        "TitleCaseName": "Kcnt1-Related Epilepsy",
+        "Slug": "kcnt1_related_epilepsy",
+        "MiFts": 10.578113,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18410,
+        "Symbol": "KDM003",
+        "Description": "kdm5c-related syndromic x-linked intellectual disability",
+        "TitleCaseName": "Kdm5c-Related Syndromic X-Linked Intellectual Disability",
+        "Slug": "kdm5c_related_syndromic_x_linked_intellectual_disability",
+        "MiFts": 17.95065,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3839,
+        "Symbol": "KRN002",
+        "Description": "kearns-sayre syndrome",
+        "TitleCaseName": "Kearns-Sayre Syndrome",
+        "Slug": "kearns_sayre_syndrome",
+        "MiFts": 66.17738,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3516,
+        "Symbol": "KPR003",
+        "Description": "keipert syndrome",
+        "TitleCaseName": "Keipert Syndrome",
+        "Slug": "keipert_syndrome",
+        "MiFts": 42.06803,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22686,
+        "Symbol": "KLD004",
+        "Description": "keloid disorder",
+        "TitleCaseName": "Keloid Disorder",
+        "Slug": "keloid_disorder",
+        "MiFts": 43.222145,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 863,
+        "Symbol": "KLD003",
+        "Description": "keloid formation",
+        "TitleCaseName": "Keloid Formation",
+        "Slug": "keloid_formation",
+        "MiFts": 26.845177,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11171,
+        "Symbol": "KNN002",
+        "Description": "kenny-caffey syndrome",
+        "TitleCaseName": "Kenny-Caffey Syndrome",
+        "Slug": "kenny_caffey_syndrome",
+        "MiFts": 34.04854,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2490,
+        "Symbol": "KNN009",
+        "Description": "kenny-caffey syndrome, type 1",
+        "TitleCaseName": "Kenny-Caffey Syndrome, Type 1",
+        "Slug": "kenny_caffey_syndrome_type_1_2",
+        "MiFts": 44.59595,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 479,
+        "Symbol": "KNN007",
+        "Description": "kenny-caffey syndrome, type 2",
+        "TitleCaseName": "Kenny-Caffey Syndrome, Type 2",
+        "Slug": "kenny_caffey_syndrome_type_2_2",
+        "MiFts": 40.10355,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6701,
+        "Symbol": "KPP002",
+        "Description": "keppen-lubinsky syndrome",
+        "TitleCaseName": "Keppen-Lubinsky Syndrome",
+        "Slug": "keppen_lubinsky_syndrome",
+        "MiFts": 33.76988,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15045,
+        "Symbol": "KRT003",
+        "Description": "keratinizing squamous cell carcinoma",
+        "TitleCaseName": "Keratinizing Squamous Cell Carcinoma",
+        "Slug": "keratinizing_squamous_cell_carcinoma",
+        "MiFts": 38.98319,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20814,
+        "Symbol": "KRT077",
+        "Description": "keratinopathic ichthyosis",
+        "TitleCaseName": "Keratinopathic Ichthyosis",
+        "Slug": "keratinopathic_ichthyosis",
+        "MiFts": 12.435252,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14606,
+        "Symbol": "KRT004",
+        "Description": "keratitis",
+        "TitleCaseName": "Keratitis",
+        "Slug": "keratitis",
+        "MiFts": 55.40815,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 864,
+        "Symbol": "KRT019",
+        "Description": "keratitis, hereditary",
+        "TitleCaseName": "Keratitis, Hereditary",
+        "Slug": "keratitis_hereditary",
+        "MiFts": 51.55198,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19492,
+        "Symbol": "KRT011",
+        "Description": "keratitis-ichthyosis-deafness syndrome",
+        "TitleCaseName": "Keratitis-Ichthyosis-Deafness Syndrome",
+        "Slug": "keratitis_ichthyosis_deafness_syndrome",
+        "MiFts": 23.103994,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 866,
+        "Symbol": "KRT028",
+        "Description": "keratitis-ichthyosis-deafness syndrome, autosomal dominant",
+        "TitleCaseName": "Keratitis-Ichthyosis-Deafness Syndrome, Autosomal Dominant",
+        "Slug": "keratitis_ichthyosis_deafness_syndrome_autosomal_dominant",
+        "MiFts": 50.270027,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2445,
+        "Symbol": "KRT078",
+        "Description": "keratitis-ichthyosis-deafness syndrome, autosomal recessive",
+        "TitleCaseName": "Keratitis-Ichthyosis-Deafness Syndrome, Autosomal Recessive",
+        "Slug": "keratitis_ichthyosis_deafness_syndrome_autosomal_recessive",
+        "MiFts": 31.35637,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13892,
+        "Symbol": "KRT005",
+        "Description": "keratoacanthoma",
+        "TitleCaseName": "Keratoacanthoma",
+        "Slug": "keratoacanthoma",
+        "MiFts": 52.783283,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16444,
+        "Symbol": "KRT006",
+        "Description": "keratoconjunctivitis",
+        "TitleCaseName": "Keratoconjunctivitis",
+        "Slug": "keratoconjunctivitis",
+        "MiFts": 50.98877,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12715,
+        "Symbol": "KRT001",
+        "Description": "keratoconjunctivitis sicca",
+        "TitleCaseName": "Keratoconjunctivitis Sicca",
+        "Slug": "keratoconjunctivitis_sicca",
+        "MiFts": 51.079582,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11863,
+        "Symbol": "KRT007",
+        "Description": "keratoconus",
+        "TitleCaseName": "Keratoconus",
+        "Slug": "keratoconus",
+        "MiFts": 52.3117,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 867,
+        "Symbol": "KRT029",
+        "Description": "keratoconus 1",
+        "TitleCaseName": "Keratoconus 1",
+        "Slug": "keratoconus_1",
+        "MiFts": 33.11458,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5210,
+        "Symbol": "KRT039",
+        "Description": "keratoconus 2",
+        "TitleCaseName": "Keratoconus 2",
+        "Slug": "keratoconus_2",
+        "MiFts": 14.298135,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5124,
+        "Symbol": "KRT040",
+        "Description": "keratoconus 3",
+        "TitleCaseName": "Keratoconus 3",
+        "Slug": "keratoconus_3",
+        "MiFts": 17.235813,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5289,
+        "Symbol": "KRT041",
+        "Description": "keratoconus 4",
+        "TitleCaseName": "Keratoconus 4",
+        "Slug": "keratoconus_4",
+        "MiFts": 14.298135,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6959,
+        "Symbol": "KRT050",
+        "Description": "keratoconus 5",
+        "TitleCaseName": "Keratoconus 5",
+        "Slug": "keratoconus_5",
+        "MiFts": 17.815485,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6960,
+        "Symbol": "KRT052",
+        "Description": "keratoconus 6",
+        "TitleCaseName": "Keratoconus 6",
+        "Slug": "keratoconus_6",
+        "MiFts": 16.092937,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6962,
+        "Symbol": "KRT053",
+        "Description": "keratoconus 7",
+        "TitleCaseName": "Keratoconus 7",
+        "Slug": "keratoconus_7",
+        "MiFts": 16.949081,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6961,
+        "Symbol": "KRT054",
+        "Description": "keratoconus 8",
+        "TitleCaseName": "Keratoconus 8",
+        "Slug": "keratoconus_8",
+        "MiFts": 16.154194,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8395,
+        "Symbol": "KRT075",
+        "Description": "keratoconus 9",
+        "TitleCaseName": "Keratoconus 9",
+        "Slug": "keratoconus_9",
+        "MiFts": 23.85097,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2491,
+        "Symbol": "KRT072",
+        "Description": "keratoconus and congenital hip dysplasia",
+        "TitleCaseName": "Keratoconus and Congenital Hip Dysplasia",
+        "Slug": "keratoconus_and_congenital_hip_dysplasia",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2492,
+        "Symbol": "KRT020",
+        "Description": "keratoconus posticus circumscriptus",
+        "TitleCaseName": "Keratoconus Posticus Circumscriptus",
+        "Slug": "keratoconus_posticus_circumscriptus",
+        "MiFts": 16.26911,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21160,
+        "Symbol": "KRT063",
+        "Description": "keratocystic odontogenic tumor",
+        "TitleCaseName": "Keratocystic Odontogenic Tumor",
+        "Slug": "keratocystic_odontogenic_tumor",
+        "MiFts": 19.70211,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19499,
+        "Symbol": "KRT062",
+        "Description": "keratoderma with woolly hair",
+        "TitleCaseName": "Keratoderma with Woolly Hair",
+        "Slug": "keratoderma_with_woolly_hair",
+        "MiFts": 8.113931,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 868,
+        "Symbol": "KRT058",
+        "Description": "keratoderma, palmoplantar, with deafness",
+        "TitleCaseName": "Keratoderma, Palmoplantar, with Deafness",
+        "Slug": "keratoderma_palmoplantar_with_deafness",
+        "MiFts": 45.60018,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 869,
+        "Symbol": "KRT067",
+        "Description": "keratoderma, palmoplantar, with nail dystrophy and hereditary motor-sensory neuropathy",
+        "TitleCaseName": "Keratoderma, Palmoplantar, with Nail Dystrophy and Hereditary Motor-Sensory Neuropathy",
+        "Slug": "keratoderma_palmoplantar_with_nail_dystrophy_and_hereditary_motor_sensory_neuropathy",
+        "MiFts": 12.025554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9519,
+        "Symbol": "KRT080",
+        "Description": "keratoderma-ichthyosis-deafness syndrome, autosomal recessive",
+        "TitleCaseName": "Keratoderma-Ichthyosis-Deafness Syndrome, Autosomal Recessive",
+        "Slug": "keratoderma_ichthyosis_deafness_syndrome_autosomal_recessive",
+        "MiFts": 24.823833,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 865,
+        "Symbol": "KRT074",
+        "Description": "keratoendotheliitis fugax hereditaria",
+        "TitleCaseName": "Keratoendotheliitis Fugax Hereditaria",
+        "Slug": "keratoendotheliitis_fugax_hereditaria",
+        "MiFts": 30.307652,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 870,
+        "Symbol": "KRT013",
+        "Description": "keratolytic winter erythema",
+        "TitleCaseName": "Keratolytic Winter Erythema",
+        "Slug": "keratolytic_winter_erythema",
+        "MiFts": 29.742193,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12260,
+        "Symbol": "KRT002",
+        "Description": "keratomalacia",
+        "TitleCaseName": "Keratomalacia",
+        "Slug": "keratomalacia",
+        "MiFts": 37.875645,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13542,
+        "Symbol": "KRT008",
+        "Description": "keratopathy",
+        "TitleCaseName": "Keratopathy",
+        "Slug": "keratopathy",
+        "MiFts": 43.708447,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13293,
+        "Symbol": "KRT009",
+        "Description": "keratosis",
+        "TitleCaseName": "Keratosis",
+        "Slug": "keratosis",
+        "MiFts": 50.711273,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11183,
+        "Symbol": "KRT014",
+        "Description": "keratosis follicularis spinulosa decalvans",
+        "TitleCaseName": "Keratosis Follicularis Spinulosa Decalvans",
+        "Slug": "keratosis_follicularis_spinulosa_decalvans",
+        "MiFts": 36.064228,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6124,
+        "Symbol": "KRT073",
+        "Description": "keratosis follicularis spinulosa decalvans, autosomal dominant",
+        "TitleCaseName": "Keratosis Follicularis Spinulosa Decalvans, Autosomal Dominant",
+        "Slug": "keratosis_follicularis_spinulosa_decalvans_autosomal_dominant",
+        "MiFts": 40.301174,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3687,
+        "Symbol": "KRT057",
+        "Description": "keratosis follicularis spinulosa decalvans, x-linked",
+        "TitleCaseName": "Keratosis Follicularis Spinulosa Decalvans, X-Linked",
+        "Slug": "keratosis_follicularis_spinulosa_decalvans_x_linked",
+        "MiFts": 30.844236,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3688,
+        "Symbol": "KRT065",
+        "Description": "keratosis follicularis, dwarfism, and cerebral atrophy",
+        "TitleCaseName": "Keratosis Follicularis, Dwarfism, and Cerebral Atrophy",
+        "Slug": "keratosis_follicularis_dwarfism_and_cerebral_atrophy_2",
+        "MiFts": 18.180468,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4214,
+        "Symbol": "KRT038",
+        "Description": "keratosis linearis with ichthyosis congenita and sclerosing keratoderma",
+        "TitleCaseName": "Keratosis Linearis with Ichthyosis Congenita and Sclerosing Keratoderma",
+        "Slug": "keratosis_linearis_with_ichthyosis_congenita_and_sclerosing_keratoderma",
+        "MiFts": 26.040379,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 873,
+        "Symbol": "KRT068",
+        "Description": "keratosis palmaris et plantaris with clinodactyly",
+        "TitleCaseName": "Keratosis Palmaris Et Plantaris with Clinodactyly",
+        "Slug": "keratosis_palmaris_et_plantaris_with_clinodactyly",
+        "MiFts": 16.793322,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11381,
+        "Symbol": "KRT059",
+        "Description": "keratosis palmoplantaris striata",
+        "TitleCaseName": "Keratosis Palmoplantaris Striata",
+        "Slug": "keratosis_palmoplantaris_striata",
+        "MiFts": 31.075542,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6148,
+        "Symbol": "KRT017",
+        "Description": "keratosis palmoplantaris striata ii",
+        "TitleCaseName": "Keratosis Palmoplantaris Striata Ii",
+        "Slug": "keratosis_palmoplantaris_striata_ii",
+        "MiFts": 31.300222,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4939,
+        "Symbol": "KRT018",
+        "Description": "keratosis palmoplantaris striata iii",
+        "TitleCaseName": "Keratosis Palmoplantaris Striata Iii",
+        "Slug": "keratosis_palmoplantaris_striata_iii",
+        "MiFts": 19.22641,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4436,
+        "Symbol": "KRT047",
+        "Description": "keratosis pilaris atrophicans",
+        "TitleCaseName": "Keratosis Pilaris Atrophicans",
+        "Slug": "keratosis_pilaris_atrophicans",
+        "MiFts": 40.434017,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11182,
+        "Symbol": "KRT079",
+        "Description": "keratosis pilaris atrophicans faciei",
+        "TitleCaseName": "Keratosis Pilaris Atrophicans Faciei",
+        "Slug": "keratosis_pilaris_atrophicans_faciei",
+        "MiFts": 35.44695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 871,
+        "Symbol": "KRT070",
+        "Description": "keratosis, familial actinic",
+        "TitleCaseName": "Keratosis, Familial Actinic",
+        "Slug": "keratosis_familial_actinic",
+        "MiFts": 8.749104,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 876,
+        "Symbol": "KRT066",
+        "Description": "keratosis, focal palmoplantar and gingival",
+        "TitleCaseName": "Keratosis, Focal Palmoplantar and Gingival",
+        "Slug": "keratosis_focal_palmoplantar_and_gingival",
+        "MiFts": 16.912334,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1434,
+        "Symbol": "KRT071",
+        "Description": "keratosis, seborrheic",
+        "TitleCaseName": "Keratosis, Seborrheic",
+        "Slug": "keratosis_seborrheic",
+        "MiFts": 56.486107,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18411,
+        "Symbol": "KRN007",
+        "Description": "kerion celsi",
+        "TitleCaseName": "Kerion Celsi",
+        "Slug": "kerion_celsi",
+        "MiFts": 25.86388,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13575,
+        "Symbol": "KRN004",
+        "Description": "kernicterus",
+        "TitleCaseName": "Kernicterus",
+        "Slug": "kernicterus",
+        "MiFts": 44.897144,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12484,
+        "Symbol": "KRN003",
+        "Description": "kernicterus due to isoimmunization",
+        "TitleCaseName": "Kernicterus Due to Isoimmunization",
+        "Slug": "kernicterus_due_to_isoimmunization",
+        "MiFts": 7.823245,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10086,
+        "Symbol": "KSH001",
+        "Description": "keshan disease",
+        "TitleCaseName": "Keshan Disease",
+        "Slug": "keshan_disease",
+        "MiFts": 31.467035,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20748,
+        "Symbol": "KTM001",
+        "Description": "ketamine-induced biliary dilatation",
+        "TitleCaseName": "Ketamine-Induced Biliary Dilatation",
+        "Slug": "ketamine_induced_biliary_dilatation",
+        "MiFts": 9.670461,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18412,
+        "Symbol": "KTC003",
+        "Description": "ketoacidosis due to monocarboxylate transporter-1 deficiency",
+        "TitleCaseName": "Ketoacidosis Due to Monocarboxylate Transporter-1 Deficiency",
+        "Slug": "ketoacidosis_due_to_monocarboxylate_transporter_1_deficiency",
+        "MiFts": 16.346874,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1446,
+        "Symbol": "KTN001",
+        "Description": "ketone compounds, ability to smell",
+        "TitleCaseName": "Ketone Compounds, Ability to Smell",
+        "Slug": "ketone_compounds_ability_to_smell",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10023,
+        "Symbol": "KTP001",
+        "Description": "ketoprofen photoallergic dermatitis",
+        "TitleCaseName": "Ketoprofen Photoallergic Dermatitis",
+        "Slug": "ketoprofen_photoallergic_dermatitis",
+        "MiFts": 5.7220907,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2497,
+        "Symbol": "KTL001",
+        "Description": "keutel syndrome",
+        "TitleCaseName": "Keutel Syndrome",
+        "Slug": "keutel_syndrome",
+        "MiFts": 43.508865,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8718,
+        "Symbol": "KHN002",
+        "Description": "khan-khan-katsanis syndrome",
+        "TitleCaseName": "Khan-Khan-Katsanis Syndrome",
+        "Slug": "khan_khan_katsanis_syndrome",
+        "MiFts": 23.870256,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16157,
+        "Symbol": "KDN015",
+        "Description": "kidney angiomyolipoma",
+        "TitleCaseName": "Kidney Angiomyolipoma",
+        "Slug": "kidney_angiomyolipoma",
+        "MiFts": 45.322113,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13874,
+        "Symbol": "KDN016",
+        "Description": "kidney benign neoplasm",
+        "TitleCaseName": "Kidney Benign Neoplasm",
+        "Slug": "kidney_benign_neoplasm",
+        "MiFts": 33.21595,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13670,
+        "Symbol": "KDN017",
+        "Description": "kidney cancer",
+        "TitleCaseName": "Kidney Cancer",
+        "Slug": "kidney_cancer",
+        "MiFts": 55.743607,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16403,
+        "Symbol": "KDN012",
+        "Description": "kidney carcinoma in situ",
+        "TitleCaseName": "Kidney Carcinoma in Situ",
+        "Slug": "kidney_carcinoma_in_situ",
+        "MiFts": 6.9386353,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14716,
+        "Symbol": "KDN007",
+        "Description": "kidney clear cell sarcoma",
+        "TitleCaseName": "Kidney Clear Cell Sarcoma",
+        "Slug": "kidney_clear_cell_sarcoma",
+        "MiFts": 39.05818,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11113,
+        "Symbol": "KDN025",
+        "Description": "kidney cortex disease",
+        "TitleCaseName": "Kidney Cortex Disease",
+        "Slug": "kidney_cortex_disease",
+        "MiFts": 26.511635,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13805,
+        "Symbol": "KDN001",
+        "Description": "kidney cortex necrosis",
+        "TitleCaseName": "Kidney Cortex Necrosis",
+        "Slug": "kidney_cortex_necrosis",
+        "MiFts": 34.922287,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15081,
+        "Symbol": "KDN018",
+        "Description": "kidney disease",
+        "TitleCaseName": "Kidney Disease",
+        "Slug": "kidney_disease",
+        "MiFts": 72.09264,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15294,
+        "Symbol": "KDN009",
+        "Description": "kidney fibrosarcoma",
+        "TitleCaseName": "Kidney Fibrosarcoma",
+        "Slug": "kidney_fibrosarcoma",
+        "MiFts": 21.762367,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13668,
+        "Symbol": "KDN004",
+        "Description": "kidney hemangiopericytoma",
+        "TitleCaseName": "Kidney Hemangiopericytoma",
+        "Slug": "kidney_hemangiopericytoma",
+        "MiFts": 26.473793,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16535,
+        "Symbol": "KDN013",
+        "Description": "kidney hypertrophy",
+        "TitleCaseName": "Kidney Hypertrophy",
+        "Slug": "kidney_hypertrophy",
+        "MiFts": 36.765568,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14917,
+        "Symbol": "KDN014",
+        "Description": "kidney leiomyosarcoma",
+        "TitleCaseName": "Kidney Leiomyosarcoma",
+        "Slug": "kidney_leiomyosarcoma",
+        "MiFts": 21.168444,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11891,
+        "Symbol": "KDN003",
+        "Description": "kidney lipoma",
+        "TitleCaseName": "Kidney Lipoma",
+        "Slug": "kidney_lipoma",
+        "MiFts": 9.924399,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15155,
+        "Symbol": "KDN005",
+        "Description": "kidney liposarcoma",
+        "TitleCaseName": "Kidney Liposarcoma",
+        "Slug": "kidney_liposarcoma",
+        "MiFts": 22.22848,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15295,
+        "Symbol": "KDN010",
+        "Description": "kidney osteogenic sarcoma",
+        "TitleCaseName": "Kidney Osteogenic Sarcoma",
+        "Slug": "kidney_osteogenic_sarcoma",
+        "MiFts": 23.298294,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13810,
+        "Symbol": "KDN006",
+        "Description": "kidney papillary necrosis",
+        "TitleCaseName": "Kidney Papillary Necrosis",
+        "Slug": "kidney_papillary_necrosis",
+        "MiFts": 35.99168,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15291,
+        "Symbol": "KDN008",
+        "Description": "kidney pelvis papillary carcinoma",
+        "TitleCaseName": "Kidney Pelvis Papillary Carcinoma",
+        "Slug": "kidney_pelvis_papillary_carcinoma",
+        "MiFts": 9.805387,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15607,
+        "Symbol": "KDN011",
+        "Description": "kidney pelvis sarcomatoid transitional cell carcinoma",
+        "TitleCaseName": "Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma",
+        "Slug": "kidney_pelvis_sarcomatoid_transitional_cell_carcinoma",
+        "MiFts": 10.295964,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14140,
+        "Symbol": "KDN002",
+        "Description": "kidney rhabdoid cancer",
+        "TitleCaseName": "Kidney Rhabdoid Cancer",
+        "Slug": "kidney_rhabdoid_cancer",
+        "MiFts": 39.06818,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14390,
+        "Symbol": "KDN019",
+        "Description": "kidney sarcoma",
+        "TitleCaseName": "Kidney Sarcoma",
+        "Slug": "kidney_sarcoma",
+        "MiFts": 33.835052,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18413,
+        "Symbol": "KDN026",
+        "Description": "kidney tubulopathy-dilated cardiomyopathy syndrome",
+        "TitleCaseName": "Kidney Tubulopathy-Dilated Cardiomyopathy Syndrome",
+        "Slug": "kidney_tubulopathy_dilated_cardiomyopathy_syndrome",
+        "MiFts": 14.733416,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18414,
+        "Symbol": "KNB007",
+        "Description": "kienbock disease",
+        "TitleCaseName": "Kienbock Disease",
+        "Slug": "kienbock_disease",
+        "MiFts": 20.820442,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22687,
+        "Symbol": "KF1004",
+        "Description": "kif1a-associated neurological disorder",
+        "TitleCaseName": "Kif1a-Associated Neurological Disorder",
+        "Slug": "kif1a_associated_neurological_disorder",
+        "MiFts": 3.5019238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2499,
+        "Symbol": "KFF001",
+        "Description": "kifafa seizure disorder",
+        "TitleCaseName": "Kifafa Seizure Disorder",
+        "Slug": "kifafa_seizure_disorder",
+        "MiFts": 10.149873,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18415,
+        "Symbol": "KKC002",
+        "Description": "kikuchi-fujimoto disease",
+        "TitleCaseName": "Kikuchi-Fujimoto Disease",
+        "Slug": "kikuchi_fujimoto_disease",
+        "MiFts": 29.699188,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9036,
+        "Symbol": "KLQ001",
+        "Description": "kilquist syndrome",
+        "TitleCaseName": "Kilquist Syndrome",
+        "Slug": "kilquist_syndrome",
+        "MiFts": 31.892893,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15793,
+        "Symbol": "KMR001",
+        "Description": "kimura disease",
+        "TitleCaseName": "Kimura Disease",
+        "Slug": "kimura_disease",
+        "MiFts": 42.29034,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1273,
+        "Symbol": "KND001",
+        "Description": "kindler syndrome",
+        "TitleCaseName": "Kindler Syndrome",
+        "Slug": "kindler_syndrome",
+        "MiFts": 68.272354,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9289,
+        "Symbol": "KNG004",
+        "Description": "king-denborough syndrome",
+        "TitleCaseName": "King-Denborough Syndrome",
+        "Slug": "king_denborough_syndrome_2",
+        "MiFts": 54.52536,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9155,
+        "Symbol": "KNS007",
+        "Description": "kinsship syndrome",
+        "TitleCaseName": "Kinsship Syndrome",
+        "Slug": "kinsship_syndrome",
+        "MiFts": 40.599247,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14740,
+        "Symbol": "KLT001",
+        "Description": "klatskin's tumor",
+        "TitleCaseName": "Klatskin's Tumor",
+        "Slug": "klatskins_tumor",
+        "MiFts": 50.38354,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18416,
+        "Symbol": "KLB004",
+        "Description": "klebsiella infection",
+        "TitleCaseName": "Klebsiella Infection",
+        "Slug": "klebsiella_infection",
+        "MiFts": 16.20726,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12827,
+        "Symbol": "KLB003",
+        "Description": "klebsiella pneumonia",
+        "TitleCaseName": "Klebsiella Pneumonia",
+        "Slug": "klebsiella_pneumonia",
+        "MiFts": 41.764812,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 877,
+        "Symbol": "KLB005",
+        "Description": "kleeblattschaedel",
+        "TitleCaseName": "Kleeblattschaedel",
+        "Slug": "kleeblattschaedel",
+        "MiFts": 25.239689,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11105,
+        "Symbol": "KLF001",
+        "Description": "kleefstra syndrome",
+        "TitleCaseName": "Kleefstra Syndrome",
+        "Slug": "kleefstra_syndrome",
+        "MiFts": 52.36648,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5514,
+        "Symbol": "KLF004",
+        "Description": "kleefstra syndrome 1",
+        "TitleCaseName": "Kleefstra Syndrome 1",
+        "Slug": "kleefstra_syndrome_1",
+        "MiFts": 57.38393,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8324,
+        "Symbol": "KLF005",
+        "Description": "kleefstra syndrome 2",
+        "TitleCaseName": "Kleefstra Syndrome 2",
+        "Slug": "kleefstra_syndrome_2",
+        "MiFts": 42.54799,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20082,
+        "Symbol": "KLF002",
+        "Description": "kleefstra syndrome due to a point mutation",
+        "TitleCaseName": "Kleefstra Syndrome Due to a Point Mutation",
+        "Slug": "kleefstra_syndrome_due_to_a_point_mutation",
+        "MiFts": 25.4204,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 879,
+        "Symbol": "KLN009",
+        "Description": "kleine-levin hibernation syndrome",
+        "TitleCaseName": "Kleine-Levin Hibernation Syndrome",
+        "Slug": "kleine_levin_hibernation_syndrome",
+        "MiFts": 47.777275,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12606,
+        "Symbol": "KLP001",
+        "Description": "kleptomania",
+        "TitleCaseName": "Kleptomania",
+        "Slug": "kleptomania",
+        "MiFts": 40.076992,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21760,
+        "Symbol": "KLH010",
+        "Description": "klhl7-related bohring-opitz-like and crisponi/cold-induced sweating-like overlap syndrome",
+        "TitleCaseName": "Klhl7-Related Bohring-Opitz-Like and Crisponi/cold-Induced Sweating-Like Overlap Syndrome",
+        "Slug": "klhl7_related_bohring_opitz_like_and_crisponi_cold_induced_sweating_like_overlap_syndrome",
+        "MiFts": 11.906541,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21763,
+        "Symbol": "KLH011",
+        "Description": "klhl7-related crisponi/cold-induced sweating-like syndrome",
+        "TitleCaseName": "Klhl7-Related Crisponi/cold-Induced Sweating-Like Syndrome",
+        "Slug": "klhl7_related_crisponi_cold_induced_sweating_like_syndrome",
+        "MiFts": 7.569307,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18417,
+        "Symbol": "KLH005",
+        "Description": "klhl9-related early-onset distal myopathy",
+        "TitleCaseName": "Klhl9-Related Early-Onset Distal Myopathy",
+        "Slug": "klhl9_related_early_onset_distal_myopathy",
+        "MiFts": 13.91582,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 11
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18418,
+        "Symbol": "KLP014",
+        "Description": "klippel-feil anomaly-myopathy-facial dysmorphism syndrome",
+        "TitleCaseName": "Klippel-Feil Anomaly-Myopathy-Facial Dysmorphism Syndrome",
+        "Slug": "klippel_feil_anomaly_myopathy_facial_dysmorphism_syndrome",
+        "MiFts": 21.09601,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11971,
+        "Symbol": "KLP003",
+        "Description": "klippel-feil syndrome",
+        "TitleCaseName": "Klippel-Feil Syndrome",
+        "Slug": "klippel_feil_syndrome",
+        "MiFts": 44.525158,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11098,
+        "Symbol": "KLP012",
+        "Description": "klippel-feil syndrome 1",
+        "TitleCaseName": "Klippel-Feil Syndrome 1",
+        "Slug": "klippel_feil_syndrome_1",
+        "MiFts": 18.331644,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 304,
+        "Symbol": "KLP007",
+        "Description": "klippel-feil syndrome 1, autosomal dominant",
+        "TitleCaseName": "Klippel-Feil Syndrome 1, Autosomal Dominant",
+        "Slug": "klippel_feil_syndrome_1_autosomal_dominant",
+        "MiFts": 39.72998,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11099,
+        "Symbol": "KLP009",
+        "Description": "klippel-feil syndrome 2",
+        "TitleCaseName": "Klippel-Feil Syndrome 2",
+        "Slug": "klippel_feil_syndrome_2",
+        "MiFts": 20.230032,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1967,
+        "Symbol": "KLP008",
+        "Description": "klippel-feil syndrome 2, autosomal recessive",
+        "TitleCaseName": "Klippel-Feil Syndrome 2, Autosomal Recessive",
+        "Slug": "klippel_feil_syndrome_2_autosomal_recessive",
+        "MiFts": 30.89086,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11100,
+        "Symbol": "KLP013",
+        "Description": "klippel-feil syndrome 3",
+        "TitleCaseName": "Klippel-Feil Syndrome 3",
+        "Slug": "klippel_feil_syndrome_3",
+        "MiFts": 11.997088,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6505,
+        "Symbol": "KLP006",
+        "Description": "klippel-feil syndrome 3, autosomal dominant",
+        "TitleCaseName": "Klippel-Feil Syndrome 3, Autosomal Dominant",
+        "Slug": "klippel_feil_syndrome_3_autosomal_dominant",
+        "MiFts": 21.086178,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11101,
+        "Symbol": "KLP015",
+        "Description": "klippel-feil syndrome 4",
+        "TitleCaseName": "Klippel-Feil Syndrome 4",
+        "Slug": "klippel_feil_syndrome_4",
+        "MiFts": 19.729786,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 6
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7831,
+        "Symbol": "KLP016",
+        "Description": "klippel-feil syndrome 4, autosomal recessive, with nemaline myopathy and facial dysmorphism",
+        "TitleCaseName": "Klippel-Feil Syndrome 4, Autosomal Recessive, with Nemaline Myopathy and Facial Dysmorphism",
+        "Slug": "klippel_feil_syndrome_4_autosomal_recessive_with_nemaline_myopathy_and_facial_dysmorphism",
+        "MiFts": 24.478676,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 880,
+        "Symbol": "KLP010",
+        "Description": "klippel-trenaunay-weber syndrome",
+        "TitleCaseName": "Klippel-Trenaunay-Weber Syndrome",
+        "Slug": "klippel_trenaunay_weber_syndrome",
+        "MiFts": 65.80278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18419,
+        "Symbol": "KLM001",
+        "Description": "klumpke paralysis",
+        "TitleCaseName": "Klumpke Paralysis",
+        "Slug": "klumpke_paralysis",
+        "MiFts": 11.259956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13621,
+        "Symbol": "KLV001",
+        "Description": "kluver-bucy syndrome",
+        "TitleCaseName": "Kluver-Bucy Syndrome",
+        "Slug": "kluver_bucy_syndrome",
+        "MiFts": 36.7416,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16874,
+        "Symbol": "KMT002",
+        "Description": "kmt2b-related dystonia",
+        "TitleCaseName": "Kmt2b-Related Dystonia",
+        "Slug": "kmt2b_related_dystonia",
+        "MiFts": 25.092024,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16875,
+        "Symbol": "KMT003",
+        "Description": "kmt2e-related neurodevelopmental disorder",
+        "TitleCaseName": "Kmt2e-Related Neurodevelopmental Disorder",
+        "Slug": "kmt2e_related_neurodevelopmental_disorder",
+        "MiFts": 8.726396,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 24
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1000,
+        "Symbol": "KNS001",
+        "Description": "kniest dysplasia",
+        "TitleCaseName": "Kniest Dysplasia",
+        "Slug": "kniest_dysplasia",
+        "MiFts": 57.24014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2498,
+        "Symbol": "KNS003",
+        "Description": "kniest-like dysplasia with pursed lips and ectopia lentis",
+        "TitleCaseName": "Kniest-Like Dysplasia with Pursed Lips and Ectopia Lentis",
+        "Slug": "kniest_like_dysplasia_with_pursed_lips_and_ectopia_lentis",
+        "MiFts": 11.190244,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2500,
+        "Symbol": "KNS006",
+        "Description": "kniest-like dysplasia, lethal",
+        "TitleCaseName": "Kniest-Like Dysplasia, Lethal",
+        "Slug": "kniest_like_dysplasia_lethal_2",
+        "MiFts": 17.861969,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18420,
+        "Symbol": "KNB001",
+        "Description": "knobloch syndrome",
+        "TitleCaseName": "Knobloch Syndrome",
+        "Slug": "knobloch_syndrome",
+        "MiFts": 41.029465,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2976,
+        "Symbol": "KNB006",
+        "Description": "knobloch syndrome 1",
+        "TitleCaseName": "Knobloch Syndrome 1",
+        "Slug": "knobloch_syndrome_1",
+        "MiFts": 37.39398,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8716,
+        "Symbol": "KNB005",
+        "Description": "knobloch syndrome 2",
+        "TitleCaseName": "Knobloch Syndrome 2",
+        "Slug": "knobloch_syndrome_2",
+        "MiFts": 28.324097,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 881,
+        "Symbol": "KNC002",
+        "Description": "knuckle pads",
+        "TitleCaseName": "Knuckle Pads",
+        "Slug": "knuckle_pads",
+        "MiFts": 28.285744,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12408,
+        "Symbol": "KHL001",
+        "Description": "kohler's disease",
+        "TitleCaseName": "Kohler's Disease",
+        "Slug": "kohlers_disease",
+        "MiFts": 23.743729,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2193,
+        "Symbol": "KHL003",
+        "Description": "kohlschutter-tonz syndrome",
+        "TitleCaseName": "Kohlschutter-Tonz Syndrome",
+        "Slug": "kohlschutter_tonz_syndrome_2",
+        "MiFts": 62.29821,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22020,
+        "Symbol": "KMM002",
+        "Description": "kommerell diverticulum",
+        "TitleCaseName": "Kommerell Diverticulum",
+        "Slug": "kommerell_diverticulum",
+        "MiFts": 13.848805,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4698,
+        "Symbol": "KND003",
+        "Description": "kondoh syndrome",
+        "TitleCaseName": "Kondoh Syndrome",
+        "Slug": "kondoh_syndrome",
+        "MiFts": 15.8062525,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5555,
+        "Symbol": "KLN006",
+        "Description": "koolen-de vries syndrome",
+        "TitleCaseName": "Koolen-De Vries Syndrome",
+        "Slug": "koolen_de_vries_syndrome",
+        "MiFts": 57.00776,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10126,
+        "Symbol": "KRN001",
+        "Description": "korean hemorrhagic fever",
+        "TitleCaseName": "Korean Hemorrhagic Fever",
+        "Slug": "korean_hemorrhagic_fever",
+        "MiFts": 30.410616,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7845,
+        "Symbol": "KSK002",
+        "Description": "kosaki overgrowth syndrome",
+        "TitleCaseName": "Kosaki Overgrowth Syndrome",
+        "Slug": "kosaki_overgrowth_syndrome",
+        "MiFts": 36.005642,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18421,
+        "Symbol": "KTZ001",
+        "Description": "kotzot-richter syndrome",
+        "TitleCaseName": "Kotzot-Richter Syndrome",
+        "Slug": "kotzot_richter_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18422,
+        "Symbol": "KSS001",
+        "Description": "kousseff nichols syndrome",
+        "TitleCaseName": "Kousseff Nichols Syndrome",
+        "Slug": "kousseff_nichols_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18423,
+        "Symbol": "KSS004",
+        "Description": "kousseff syndrome",
+        "TitleCaseName": "Kousseff Syndrome",
+        "Slug": "kousseff_syndrome",
+        "MiFts": 13.877271,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2878,
+        "Symbol": "KWR001",
+        "Description": "kowarski syndrome",
+        "TitleCaseName": "Kowarski Syndrome",
+        "Slug": "kowarski_syndrome",
+        "MiFts": 29.970207,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18424,
+        "Symbol": "KZL005",
+        "Description": "kozlowski warren fisher syndrome",
+        "TitleCaseName": "Kozlowski Warren Fisher Syndrome",
+        "Slug": "kozlowski_warren_fisher_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16876,
+        "Symbol": "KPT001",
+        "Description": "kptn-related disorder",
+        "TitleCaseName": "Kptn-Related Disorder",
+        "Slug": "kptn_related_disorder",
+        "MiFts": 7.494425,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2501,
+        "Symbol": "KRB001",
+        "Description": "krabbe disease",
+        "TitleCaseName": "Krabbe Disease",
+        "Slug": "krabbe_disease",
+        "MiFts": 78.09619,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5784,
+        "Symbol": "KRB005",
+        "Description": "krabbe disease, atypical, due to saposin a deficiency",
+        "TitleCaseName": "Krabbe Disease, Atypical, Due to Saposin a Deficiency",
+        "Slug": "krabbe_disease_atypical_due_to_saposin_a_deficiency_2",
+        "MiFts": 26.406433,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18425,
+        "Symbol": "KRS001",
+        "Description": "krauss herman holmes syndrome",
+        "TitleCaseName": "Krauss Herman Holmes Syndrome",
+        "Slug": "krauss_herman_holmes_syndrome",
+        "MiFts": 3.5019238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18426,
+        "Symbol": "KRT076",
+        "Description": "krt1-related diffuse nonepidermolytic keratoderma",
+        "TitleCaseName": "Krt1-Related Diffuse Nonepidermolytic Keratoderma",
+        "Slug": "krt1_related_diffuse_nonepidermolytic_keratoderma",
+        "MiFts": 15.171579,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10922,
+        "Symbol": "KRT081",
+        "Description": "krt1-related nonepidermolytic palmoplantar keratoderma",
+        "TitleCaseName": "Krt1-Related Nonepidermolytic Palmoplantar Keratoderma",
+        "Slug": "krt1_related_nonepidermolytic_palmoplantar_keratoderma",
+        "MiFts": 6.2382503,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16521,
+        "Symbol": "KRK001",
+        "Description": "krukenberg carcinoma",
+        "TitleCaseName": "Krukenberg Carcinoma",
+        "Slug": "krukenberg_carcinoma",
+        "MiFts": 35.28728,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4758,
+        "Symbol": "KFR001",
+        "Description": "kufor-rakeb syndrome",
+        "TitleCaseName": "Kufor-Rakeb Syndrome",
+        "Slug": "kufor_rakeb_syndrome",
+        "MiFts": 62.314335,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12112,
+        "Symbol": "KHN001",
+        "Description": "kuhnt-junius degeneration",
+        "TitleCaseName": "Kuhnt-Junius Degeneration",
+        "Slug": "kuhnt_junius_degeneration",
+        "MiFts": 49.560753,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15528,
+        "Symbol": "KMM001",
+        "Description": "kummell's disease",
+        "TitleCaseName": "Kummell's Disease",
+        "Slug": "kummells_disease",
+        "MiFts": 19.204344,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10115,
+        "Symbol": "KNJ001",
+        "Description": "kunjin encephalitis",
+        "TitleCaseName": "Kunjin Encephalitis",
+        "Slug": "kunjin_encephalitis",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2502,
+        "Symbol": "KR002",
+        "Description": "kuru",
+        "TitleCaseName": "Kuru",
+        "Slug": "kuru",
+        "MiFts": 52.189724,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9401,
+        "Symbol": "KRY003",
+        "Description": "kury-isidor syndrome",
+        "TitleCaseName": "Kury-Isidor Syndrome",
+        "Slug": "kury_isidor_syndrome",
+        "MiFts": 24.889835,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18427,
+        "Symbol": "KST002",
+        "Description": "kuster syndrome",
+        "TitleCaseName": "Kuster Syndrome",
+        "Slug": "kuster_syndrome",
+        "MiFts": 11.221822,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12916,
+        "Symbol": "KWS001",
+        "Description": "kwashiorkor",
+        "TitleCaseName": "Kwashiorkor",
+        "Slug": "kwashiorkor",
+        "MiFts": 46.172302,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12276,
+        "Symbol": "KYS001",
+        "Description": "kyasanur forest disease",
+        "TitleCaseName": "Kyasanur Forest Disease",
+        "Slug": "kyasanur_forest_disease",
+        "MiFts": 36.56803,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1893,
+        "Symbol": "KYP002",
+        "Description": "kyphomelic dysplasia",
+        "TitleCaseName": "Kyphomelic Dysplasia",
+        "Slug": "kyphomelic_dysplasia",
+        "MiFts": 26.19415,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5486,
+        "Symbol": "KYP003",
+        "Description": "kyphoscoliosis 1",
+        "TitleCaseName": "Kyphoscoliosis 1",
+        "Slug": "kyphoscoliosis_1",
+        "MiFts": 10.624784,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18428,
+        "Symbol": "KYP007",
+        "Description": "kyphoscoliosis-lateral tongue atrophy-hereditary spastic paraplegia syndrome",
+        "TitleCaseName": "Kyphoscoliosis-Lateral Tongue Atrophy-Hereditary Spastic Paraplegia Syndrome",
+        "Slug": "kyphoscoliosis_lateral_tongue_atrophy_hereditary_spastic_paraplegia_syndrome",
+        "MiFts": 16.193743,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21449,
+        "Symbol": "KYP005",
+        "Description": "kyphoscoliotic ehlers-danlos syndrome",
+        "TitleCaseName": "Kyphoscoliotic Ehlers-Danlos Syndrome",
+        "Slug": "kyphoscoliotic_ehlers_danlos_syndrome",
+        "MiFts": 32.56085,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18429,
+        "Symbol": "KYP008",
+        "Description": "kyphoscoliotic ehlers-danlos syndrome due to fkbp22 deficiency",
+        "TitleCaseName": "Kyphoscoliotic Ehlers-Danlos Syndrome Due to Fkbp22 Deficiency",
+        "Slug": "kyphoscoliotic_ehlers_danlos_syndrome_due_to_fkbp22_deficiency",
+        "MiFts": 21.00375,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18430,
+        "Symbol": "KYP009",
+        "Description": "kyphoscoliotic ehlers-danlos syndrome due to lysyl hydroxylase 1 deficiency",
+        "TitleCaseName": "Kyphoscoliotic Ehlers-Danlos Syndrome Due to Lysyl Hydroxylase 1 Deficiency",
+        "Slug": "kyphoscoliotic_ehlers_danlos_syndrome_due_to_lysyl_hydroxylase_1_deficiency",
+        "MiFts": 28.762587,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12569,
+        "Symbol": "KYP001",
+        "Description": "kyphoscoliotic heart disease",
+        "TitleCaseName": "Kyphoscoliotic Heart Disease",
+        "Slug": "kyphoscoliotic_heart_disease",
+        "MiFts": 17.300419,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14600,
+        "Symbol": "KYP004",
+        "Description": "kyphosis",
+        "TitleCaseName": "Kyphosis",
+        "Slug": "kyphosis",
+        "MiFts": 42.429523,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 18431,
+        "Symbol": "KYP010",
+        "Description": "kyphosis-lateral tongue atrophy-myofibrillar myopathy syndrome",
+        "TitleCaseName": "Kyphosis-Lateral Tongue Atrophy-Myofibrillar Myopathy Syndrome",
+        "Slug": "kyphosis_lateral_tongue_atrophy_myofibrillar_myopathy_syndrome",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 885,
+        "Symbol": "KYR001",
+        "Description": "kyrle disease",
+        "TitleCaseName": "Kyrle Disease",
+        "Slug": "kyrle_disease",
+        "MiFts": 14.258504,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 200,
+  "recordsFiltered": 200,
+  "searchMatches": 0,
+  "error": null
+}

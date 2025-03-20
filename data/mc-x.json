@@ -1,0 +1,2024 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 20086,
+        "Symbol": "XND001",
+        "Description": "x and y chromosomal anomaly",
+        "TitleCaseName": "X and Y Chromosomal Anomaly",
+        "Slug": "x_and_y_chromosomal_anomaly",
+        "MiFts": 4.137096,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20090,
+        "Symbol": "XCH002",
+        "Description": "x chromosome number anomaly",
+        "TitleCaseName": "X Chromosome Number Anomaly",
+        "Slug": "x_chromosome_number_anomaly",
+        "MiFts": 8.749104,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20091,
+        "Symbol": "XCH003",
+        "Description": "x chromosome number anomaly with female phenotype",
+        "TitleCaseName": "X Chromosome Number Anomaly with Female Phenotype",
+        "Slug": "x_chromosome_number_anomaly_with_female_phenotype",
+        "MiFts": 3.211238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20089,
+        "Symbol": "XCH001",
+        "Description": "x chromosome number anomaly with male phenotype",
+        "TitleCaseName": "X Chromosome Number Anomaly with Male Phenotype",
+        "Slug": "x_chromosome_number_anomaly_with_male_phenotype",
+        "MiFts": 3.211238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3239,
+        "Symbol": "XNC004",
+        "Description": "x inactivation, familial skewed, 1",
+        "TitleCaseName": "X Inactivation, Familial Skewed, 1",
+        "Slug": "x_inactivation_familial_skewed_1",
+        "MiFts": 18.898977,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3255,
+        "Symbol": "XNC002",
+        "Description": "x inactivation, familial skewed, 2",
+        "TitleCaseName": "X Inactivation, Familial Skewed, 2",
+        "Slug": "x_inactivation_familial_skewed_2",
+        "MiFts": 12.767187,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19362,
+        "Symbol": "XSM001",
+        "Description": "x small rings",
+        "TitleCaseName": "X Small Rings",
+        "Slug": "x_small_rings",
+        "MiFts": 16.310358,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10610,
+        "Symbol": "XNT004",
+        "Description": "xanthinuria",
+        "TitleCaseName": "Xanthinuria",
+        "Slug": "xanthinuria",
+        "MiFts": 50.073494,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3202,
+        "Symbol": "XNT010",
+        "Description": "xanthinuria, type i",
+        "TitleCaseName": "Xanthinuria, Type I",
+        "Slug": "xanthinuria_type_i",
+        "MiFts": 56.25836,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4386,
+        "Symbol": "XNT011",
+        "Description": "xanthinuria, type ii",
+        "TitleCaseName": "Xanthinuria, Type Ii",
+        "Slug": "xanthinuria_type_ii",
+        "MiFts": 48.75214,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16581,
+        "Symbol": "XNT002",
+        "Description": "xanthogranulomatous cholecystitis",
+        "TitleCaseName": "Xanthogranulomatous Cholecystitis",
+        "Slug": "xanthogranulomatous_cholecystitis",
+        "MiFts": 27.62292,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12306,
+        "Symbol": "XNT001",
+        "Description": "xanthogranulomatous pyelonephritis",
+        "TitleCaseName": "Xanthogranulomatous Pyelonephritis",
+        "Slug": "xanthogranulomatous_pyelonephritis",
+        "MiFts": 25.510078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19413,
+        "Symbol": "XNT009",
+        "Description": "xanthoma disseminatum",
+        "TitleCaseName": "Xanthoma Disseminatum",
+        "Slug": "xanthoma_disseminatum",
+        "MiFts": 23.76305,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4251,
+        "Symbol": "XNT003",
+        "Description": "xanthomatosis",
+        "TitleCaseName": "Xanthomatosis",
+        "Slug": "xanthomatosis",
+        "MiFts": 49.706448,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16379,
+        "Symbol": "XRD002",
+        "Description": "xeroderma of eyelid",
+        "TitleCaseName": "Xeroderma of Eyelid",
+        "Slug": "xeroderma_of_eyelid",
+        "MiFts": 4.837481,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11596,
+        "Symbol": "XRD037",
+        "Description": "xeroderma pigmentosum group b",
+        "TitleCaseName": "Xeroderma Pigmentosum Group B",
+        "Slug": "xeroderma_pigmentosum_group_b_2",
+        "MiFts": 38.37605,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11591,
+        "Symbol": "XRD033",
+        "Description": "xeroderma pigmentosum group c",
+        "TitleCaseName": "Xeroderma Pigmentosum Group C",
+        "Slug": "xeroderma_pigmentosum_group_c_2",
+        "MiFts": 44.41424,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11592,
+        "Symbol": "XRD034",
+        "Description": "xeroderma pigmentosum group d",
+        "TitleCaseName": "Xeroderma Pigmentosum Group D",
+        "Slug": "xeroderma_pigmentosum_group_d_2",
+        "MiFts": 46.317364,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11593,
+        "Symbol": "XRD027",
+        "Description": "xeroderma pigmentosum group e",
+        "TitleCaseName": "Xeroderma Pigmentosum Group E",
+        "Slug": "xeroderma_pigmentosum_group_e",
+        "MiFts": 39.050613,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11594,
+        "Symbol": "XRD035",
+        "Description": "xeroderma pigmentosum group f",
+        "TitleCaseName": "Xeroderma Pigmentosum Group F",
+        "Slug": "xeroderma_pigmentosum_group_f_2",
+        "MiFts": 43.79903,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11595,
+        "Symbol": "XRD036",
+        "Description": "xeroderma pigmentosum group g",
+        "TitleCaseName": "Xeroderma Pigmentosum Group G",
+        "Slug": "xeroderma_pigmentosum_group_g_2",
+        "MiFts": 42.976734,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1702,
+        "Symbol": "XRD028",
+        "Description": "xeroderma pigmentosum, autosomal dominant, mild",
+        "TitleCaseName": "Xeroderma Pigmentosum, Autosomal Dominant, Mild",
+        "Slug": "xeroderma_pigmentosum_autosomal_dominant_mild",
+        "MiFts": 9.224014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3203,
+        "Symbol": "XRD029",
+        "Description": "xeroderma pigmentosum, complementation group a",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group a",
+        "Slug": "xeroderma_pigmentosum_complementation_group_a",
+        "MiFts": 58.25578,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5590,
+        "Symbol": "XRD032",
+        "Description": "xeroderma pigmentosum, complementation group b",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group B",
+        "Slug": "xeroderma_pigmentosum_complementation_group_b",
+        "MiFts": 36.741592,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3204,
+        "Symbol": "XRD030",
+        "Description": "xeroderma pigmentosum, complementation group c",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group C",
+        "Slug": "xeroderma_pigmentosum_complementation_group_c",
+        "MiFts": 38.61982,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3205,
+        "Symbol": "XRD022",
+        "Description": "xeroderma pigmentosum, complementation group d",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group D",
+        "Slug": "xeroderma_pigmentosum_complementation_group_d",
+        "MiFts": 45.79384,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3206,
+        "Symbol": "XRD021",
+        "Description": "xeroderma pigmentosum, complementation group e",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group E",
+        "Slug": "xeroderma_pigmentosum_complementation_group_e",
+        "MiFts": 47.3773,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3208,
+        "Symbol": "XRD031",
+        "Description": "xeroderma pigmentosum, complementation group f",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group F",
+        "Slug": "xeroderma_pigmentosum_complementation_group_f",
+        "MiFts": 45.439117,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3209,
+        "Symbol": "XRD023",
+        "Description": "xeroderma pigmentosum, complementation group g",
+        "TitleCaseName": "Xeroderma Pigmentosum, Complementation Group G",
+        "Slug": "xeroderma_pigmentosum_complementation_group_g",
+        "MiFts": 39.508247,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3207,
+        "Symbol": "XRD010",
+        "Description": "xeroderma pigmentosum, variant type",
+        "TitleCaseName": "Xeroderma Pigmentosum, Variant Type",
+        "Slug": "xeroderma_pigmentosum_variant_type",
+        "MiFts": 73.93432,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19414,
+        "Symbol": "XRD026",
+        "Description": "xeroderma pigmentosum-cockayne syndrome complex",
+        "TitleCaseName": "Xeroderma Pigmentosum-Cockayne Syndrome Complex",
+        "Slug": "xeroderma_pigmentosum_cockayne_syndrome_complex",
+        "MiFts": 38.297993,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11868,
+        "Symbol": "XRP001",
+        "Description": "xerophthalmia",
+        "TitleCaseName": "Xerophthalmia",
+        "Slug": "xerophthalmia",
+        "MiFts": 47.771065,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9772,
+        "Symbol": "XRS003",
+        "Description": "xerosis and growth failure with immune and pulmonary dysfunction syndrome",
+        "TitleCaseName": "Xerosis and Growth Failure with Immune and Pulmonary Dysfunction Syndrome",
+        "Slug": "xerosis_and_growth_failure_with_immune_and_pulmonary_dysfunction_syndrome",
+        "MiFts": 19.559647,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5651,
+        "Symbol": "XFP001",
+        "Description": "xfe progeroid syndrome",
+        "TitleCaseName": "Xfe Progeroid Syndrome",
+        "Slug": "xfe_progeroid_syndrome",
+        "MiFts": 49.478268,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7499,
+        "Symbol": "XGB001",
+        "Description": "xia-gibbs syndrome",
+        "TitleCaseName": "Xia-Gibbs Syndrome",
+        "Slug": "xia_gibbs_syndrome",
+        "MiFts": 42.0964,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11526,
+        "Symbol": "XLN231",
+        "Description": "x-linked alport syndrome",
+        "TitleCaseName": "X-Linked Alport Syndrome",
+        "Slug": "x_linked_alport_syndrome",
+        "MiFts": 57.449966,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19363,
+        "Symbol": "XLN232",
+        "Description": "x-linked alport syndrome-diffuse leiomyomatosis",
+        "TitleCaseName": "X-Linked Alport Syndrome-Diffuse Leiomyomatosis",
+        "Slug": "x_linked_alport_syndrome_diffuse_leiomyomatosis",
+        "MiFts": 29.14606,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19364,
+        "Symbol": "XLN109",
+        "Description": "x-linked calvarial hyperostosis",
+        "TitleCaseName": "X-Linked Calvarial Hyperostosis",
+        "Slug": "x_linked_calvarial_hyperostosis",
+        "MiFts": 11.906541,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11711,
+        "Symbol": "XLN076",
+        "Description": "x-linked cerebellar ataxia",
+        "TitleCaseName": "X-Linked Cerebellar Ataxia",
+        "Slug": "x_linked_cerebellar_ataxia",
+        "MiFts": 24.541685,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19365,
+        "Symbol": "XLN182",
+        "Description": "x-linked cerebral adrenoleukodystrophy",
+        "TitleCaseName": "X-Linked Cerebral Adrenoleukodystrophy",
+        "Slug": "x_linked_cerebral_adrenoleukodystrophy",
+        "MiFts": 23.399181,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19366,
+        "Symbol": "XLN110",
+        "Description": "x-linked charcot-marie-tooth disease",
+        "TitleCaseName": "X-Linked Charcot-Marie-Tooth Disease",
+        "Slug": "x_linked_charcot_marie_tooth_disease",
+        "MiFts": 29.286673,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 5
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10640,
+        "Symbol": "XLN227",
+        "Description": "x-linked chondrodysplasia punctata 1",
+        "TitleCaseName": "X-Linked Chondrodysplasia Punctata 1",
+        "Slug": "x_linked_chondrodysplasia_punctata_1",
+        "MiFts": 41.833874,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11062,
+        "Symbol": "XLN229",
+        "Description": "x-linked chondrodysplasia punctata 2",
+        "TitleCaseName": "X-Linked Chondrodysplasia Punctata 2",
+        "Slug": "x_linked_chondrodysplasia_punctata_2",
+        "MiFts": 51.70467,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11146,
+        "Symbol": "XLN242",
+        "Description": "x-linked chronic idiopathic intestinal pseudo-obstruction",
+        "TitleCaseName": "X-Linked Chronic Idiopathic Intestinal Pseudo-Obstruction",
+        "Slug": "x_linked_chronic_idiopathic_intestinal_pseudo_obstruction",
+        "MiFts": 8.814316,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22078,
+        "Symbol": "XLN101",
+        "Description": "x-linked complex spastic paraplegia",
+        "TitleCaseName": "X-Linked Complex Spastic Paraplegia",
+        "Slug": "x_linked_complex_spastic_paraplegia",
+        "MiFts": 12.079354,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20952,
+        "Symbol": "XLN085",
+        "Description": "x-linked complicated spastic paraplegia type 1",
+        "TitleCaseName": "X-Linked Complicated Spastic Paraplegia Type 1",
+        "Slug": "x_linked_complicated_spastic_paraplegia_type_1",
+        "MiFts": 22.083012,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11712,
+        "Symbol": "XLN266",
+        "Description": "x-linked congenital bilateral absence of vas deferens",
+        "TitleCaseName": "X-Linked Congenital Bilateral Absence of Vas Deferens",
+        "Slug": "x_linked_congenital_bilateral_absence_of_vas_deferens",
+        "MiFts": 14.126708,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19367,
+        "Symbol": "XLN215",
+        "Description": "x-linked congenital generalized hypertrichosis",
+        "TitleCaseName": "X-Linked Congenital Generalized Hypertrichosis",
+        "Slug": "x_linked_congenital_generalized_hypertrichosis",
+        "MiFts": 14.147543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17046,
+        "Symbol": "XLN247",
+        "Description": "x-linked congenital retinoschisis",
+        "TitleCaseName": "X-Linked Congenital Retinoschisis",
+        "Slug": "x_linked_congenital_retinoschisis",
+        "MiFts": 17.47721,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17047,
+        "Symbol": "XLN012",
+        "Description": "x-linked congenital stationary night blindness",
+        "TitleCaseName": "X-Linked Congenital Stationary Night Blindness",
+        "Slug": "x_linked_congenital_stationary_night_blindness",
+        "MiFts": 22.405363,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19368,
+        "Symbol": "XLN074",
+        "Description": "x-linked corneal dermoid",
+        "TitleCaseName": "X-Linked Corneal Dermoid",
+        "Slug": "x_linked_corneal_dermoid",
+        "MiFts": 13.03229,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19369,
+        "Symbol": "XLN256",
+        "Description": "x-linked creatine transporter deficiency",
+        "TitleCaseName": "X-Linked Creatine Transporter Deficiency",
+        "Slug": "x_linked_creatine_transporter_deficiency",
+        "MiFts": 37.3115,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11693,
+        "Symbol": "XLN265",
+        "Description": "x-linked deafness 5",
+        "TitleCaseName": "X-Linked Deafness 5",
+        "Slug": "x_linked_deafness_5",
+        "MiFts": 26.378782,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19370,
+        "Symbol": "XLN086",
+        "Description": "x-linked ehlers-danlos syndrome",
+        "TitleCaseName": "X-Linked Ehlers-Danlos Syndrome",
+        "Slug": "x_linked_ehlers_danlos_syndrome",
+        "MiFts": 21.262352,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22074,
+        "Symbol": "XLN241",
+        "Description": "x-linked emery-dreifuss muscular dystrophy",
+        "TitleCaseName": "X-Linked Emery-Dreifuss Muscular Dystrophy",
+        "Slug": "x_linked_emery_dreifuss_muscular_dystrophy",
+        "MiFts": 45.944523,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11780,
+        "Symbol": "XLN255",
+        "Description": "x-linked epilepsy with variable learning disabilities and behavior disorders",
+        "TitleCaseName": "X-Linked Epilepsy with Variable Learning Disabilities and Behavior Disorders",
+        "Slug": "x_linked_epilepsy_with_variable_learning_disabilities_and_behavior_disorders",
+        "MiFts": 32.8153,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10442,
+        "Symbol": "XLN191",
+        "Description": "x-linked hereditary ataxia",
+        "TitleCaseName": "X-Linked Hereditary Ataxia",
+        "Slug": "x_linked_hereditary_ataxia",
+        "MiFts": 19.576733,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19371,
+        "Symbol": "XLN075",
+        "Description": "x-linked hereditary sensory and autonomic neuropathy with deafness",
+        "TitleCaseName": "X-Linked Hereditary Sensory and Autonomic Neuropathy with Deafness",
+        "Slug": "x_linked_hereditary_sensory_and_autonomic_neuropathy_with_deafness",
+        "MiFts": 11.776116,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11773,
+        "Symbol": "XLN245",
+        "Description": "x-linked immunodeficiency 74",
+        "TitleCaseName": "X-Linked Immunodeficiency 74",
+        "Slug": "x_linked_immunodeficiency_74",
+        "MiFts": 37.24287,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19388,
+        "Symbol": "XLN128",
+        "Description": "x-linked intellectual disability, abidi type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Abidi Type",
+        "Slug": "x_linked_intellectual_disability_abidi_type",
+        "MiFts": 15.349547,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19389,
+        "Symbol": "XLN175",
+        "Description": "x-linked intellectual disability, cantagrel type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Cantagrel Type",
+        "Slug": "x_linked_intellectual_disability_cantagrel_type",
+        "MiFts": 26.44492,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19390,
+        "Symbol": "XLN112",
+        "Description": "x-linked intellectual disability, cilliers type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Cilliers Type",
+        "Slug": "x_linked_intellectual_disability_cilliers_type",
+        "MiFts": 16.98904,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19391,
+        "Symbol": "XLN180",
+        "Description": "x-linked intellectual disability, hedera type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Hedera Type",
+        "Slug": "x_linked_intellectual_disability_hedera_type",
+        "MiFts": 19.341808,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19392,
+        "Symbol": "XLN163",
+        "Description": "x-linked intellectual disability, nascimento type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Nascimento Type",
+        "Slug": "x_linked_intellectual_disability_nascimento_type",
+        "MiFts": 20.020472,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19393,
+        "Symbol": "XLN145",
+        "Description": "x-linked intellectual disability, pai type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Pai Type",
+        "Slug": "x_linked_intellectual_disability_pai_type",
+        "MiFts": 14.795012,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19394,
+        "Symbol": "XLN132",
+        "Description": "x-linked intellectual disability, schimke type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Schimke Type",
+        "Slug": "x_linked_intellectual_disability_schimke_type",
+        "MiFts": 15.576276,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19395,
+        "Symbol": "XLN144",
+        "Description": "x-linked intellectual disability, seemanova type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Seemanova Type",
+        "Slug": "x_linked_intellectual_disability_seemanova_type",
+        "MiFts": 14.573154,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19396,
+        "Symbol": "XLN133",
+        "Description": "x-linked intellectual disability, shashi type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Shashi Type",
+        "Slug": "x_linked_intellectual_disability_shashi_type",
+        "MiFts": 15.752951,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19397,
+        "Symbol": "XLN143",
+        "Description": "x-linked intellectual disability, shrimpton type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Shrimpton Type",
+        "Slug": "x_linked_intellectual_disability_shrimpton_type",
+        "MiFts": 14.964646,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19398,
+        "Symbol": "XLN134",
+        "Description": "x-linked intellectual disability, siderius type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Siderius Type",
+        "Slug": "x_linked_intellectual_disability_siderius_type",
+        "MiFts": 19.820333,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19399,
+        "Symbol": "XLN185",
+        "Description": "x-linked intellectual disability, snyder type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Snyder Type",
+        "Slug": "x_linked_intellectual_disability_snyder_type",
+        "MiFts": 27.106623,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19400,
+        "Symbol": "XLN142",
+        "Description": "x-linked intellectual disability, stevenson type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Stevenson Type",
+        "Slug": "x_linked_intellectual_disability_stevenson_type",
+        "MiFts": 13.4941635,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19401,
+        "Symbol": "XLN147",
+        "Description": "x-linked intellectual disability, stoll type",
+        "TitleCaseName": "X-Linked Intellectual Disability, Stoll Type",
+        "Slug": "x_linked_intellectual_disability_stoll_type",
+        "MiFts": 12.181314,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19372,
+        "Symbol": "XLN210",
+        "Description": "x-linked intellectual disability-acromegaly-hyperactivity syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Acromegaly-Hyperactivity Syndrome",
+        "Slug": "x_linked_intellectual_disability_acromegaly_hyperactivity_syndrome",
+        "MiFts": 12.638019,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19373,
+        "Symbol": "XLN212",
+        "Description": "x-linked intellectual disability-ataxia-apraxia syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Ataxia-Apraxia Syndrome",
+        "Slug": "x_linked_intellectual_disability_ataxia_apraxia_syndrome",
+        "MiFts": 11.140944,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10803,
+        "Symbol": "XLN199",
+        "Description": "x-linked intellectual disability-cardiomegaly-congestive heart failure syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Cardiomegaly-Congestive Heart Failure Syndrome",
+        "Slug": "x_linked_intellectual_disability_cardiomegaly_congestive_heart_failure_syndrome",
+        "MiFts": 29.883076,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19374,
+        "Symbol": "XLN194",
+        "Description": "x-linked intellectual disability-cerebellar hypoplasia syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Cerebellar Hypoplasia Syndrome",
+        "Slug": "x_linked_intellectual_disability_cerebellar_hypoplasia_syndrome",
+        "MiFts": 29.245535,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19375,
+        "Symbol": "XLN217",
+        "Description": "x-linked intellectual disability-cerebellar hypoplasia-spondylo-epiphyseal dysplasia syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Cerebellar Hypoplasia-Spondylo-Epiphyseal Dysplasia Syndrome",
+        "Slug": "x_linked_intellectual_disability_cerebellar_hypoplasia_spondylo_epiphyseal_dysplasia_syndrome",
+        "MiFts": 17.87944,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19376,
+        "Symbol": "XLN270",
+        "Description": "x-linked intellectual disability-craniofacioskeletal syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Craniofacioskeletal Syndrome",
+        "Slug": "x_linked_intellectual_disability_craniofacioskeletal_syndrome_2",
+        "MiFts": 16.383623,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19377,
+        "Symbol": "XLN203",
+        "Description": "x-linked intellectual disability-cubitus valgus-dysmorphism syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Cubitus Valgus-Dysmorphism Syndrome",
+        "Slug": "x_linked_intellectual_disability_cubitus_valgus_dysmorphism_syndrome",
+        "MiFts": 13.89728,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20244,
+        "Symbol": "XLN236",
+        "Description": "x-linked intellectual disability-epilepsy syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Epilepsy Syndrome",
+        "Slug": "x_linked_intellectual_disability_epilepsy_syndrome",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19378,
+        "Symbol": "XLN207",
+        "Description": "x-linked intellectual disability-epilepsy-progressive joint contractures-dysmorphism syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Epilepsy-Progressive Joint Contractures-Dysmorphism Syndrome",
+        "Slug": "x_linked_intellectual_disability_epilepsy_progressive_joint_contractures_dysmorphism_syndrome",
+        "MiFts": 11.906541,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19379,
+        "Symbol": "XLN222",
+        "Description": "x-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Global Development Delay-Facial Dysmorphism-Sacral Caudal Remnant Syndrome",
+        "Slug": "x_linked_intellectual_disability_global_development_delay_facial_dysmorphism_sacral_caudal_remnant_syndrome",
+        "MiFts": 16.243528,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19380,
+        "Symbol": "XLN204",
+        "Description": "x-linked intellectual disability-hypogammaglobulinemia-progressive neurological deterioration syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Hypogammaglobulinemia-Progressive Neurological Deterioration Syndrome",
+        "Slug": "x_linked_intellectual_disability_hypogammaglobulinemia_progressive_neurological_deterioration_syndrome",
+        "MiFts": 14.507942,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19381,
+        "Symbol": "XLN211",
+        "Description": "x-linked intellectual disability-hypogonadism-ichthyosis-obesity-short stature syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Hypogonadism-Ichthyosis-Obesity-Short Stature Syndrome",
+        "Slug": "x_linked_intellectual_disability_hypogonadism_ichthyosis_obesity_short_stature_syndrome",
+        "MiFts": 17.17094,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19382,
+        "Symbol": "XLN259",
+        "Description": "x-linked intellectual disability-hypotonia-movement disorder syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Hypotonia-Movement Disorder Syndrome",
+        "Slug": "x_linked_intellectual_disability_hypotonia_movement_disorder_syndrome",
+        "MiFts": 17.110716,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21173,
+        "Symbol": "XLN269",
+        "Description": "x-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+        "TitleCaseName": "X-Linked Intellectual Disability-Limb Spasticity-Retinal Dystrophy-Arginine Vasopressin Deficiency",
+        "Slug": "x_linked_intellectual_disability_limb_spasticity_retinal_dystrophy_arginine_vasopressin_deficiency",
+        "MiFts": 17.244268,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19383,
+        "Symbol": "XLN187",
+        "Description": "x-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Limb Spasticity-Retinal Dystrophy-Diabetes Insipidus Syndrome",
+        "Slug": "x_linked_intellectual_disability_limb_spasticity_retinal_dystrophy_diabetes_insipidus_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19384,
+        "Symbol": "XLN206",
+        "Description": "x-linked intellectual disability-macrocephaly-macroorchidism syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Macrocephaly-Macroorchidism Syndrome",
+        "Slug": "x_linked_intellectual_disability_macrocephaly_macroorchidism_syndrome",
+        "MiFts": 31.357666,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19385,
+        "Symbol": "XLN197",
+        "Description": "x-linked intellectual disability-plagiocephaly syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Plagiocephaly Syndrome",
+        "Slug": "x_linked_intellectual_disability_plagiocephaly_syndrome",
+        "MiFts": 15.257627,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10802,
+        "Symbol": "XLN195",
+        "Description": "x-linked intellectual disability-psychosis-macroorchidism syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Psychosis-Macroorchidism Syndrome",
+        "Slug": "x_linked_intellectual_disability_psychosis_macroorchidism_syndrome",
+        "MiFts": 43.569927,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19386,
+        "Symbol": "XLN111",
+        "Description": "x-linked intellectual disability-retinitis pigmentosa syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Retinitis Pigmentosa Syndrome",
+        "Slug": "x_linked_intellectual_disability_retinitis_pigmentosa_syndrome",
+        "MiFts": 16.453337,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19387,
+        "Symbol": "XLN260",
+        "Description": "x-linked intellectual disability-seizures-psoriasis syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Seizures-Psoriasis Syndrome",
+        "Slug": "x_linked_intellectual_disability_seizures_psoriasis_syndrome",
+        "MiFts": 15.773786,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11769,
+        "Symbol": "XLN250",
+        "Description": "x-linked intellectual disability-short stature-overweight syndrome",
+        "TitleCaseName": "X-Linked Intellectual Disability-Short Stature-Overweight Syndrome",
+        "Slug": "x_linked_intellectual_disability_short_stature_overweight_syndrome",
+        "MiFts": 35.46039,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19402,
+        "Symbol": "XLN221",
+        "Description": "x-linked keloid scarring-reduced joint mobility-increased optic cup-to-disc ratio syndrome",
+        "TitleCaseName": "X-Linked Keloid Scarring-Reduced Joint Mobility-Increased Optic Cup-to-Disc Ratio Syndrome",
+        "Slug": "x_linked_keloid_scarring_reduced_joint_mobility_increased_optic_cup_to_disc_ratio_syndrome",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19403,
+        "Symbol": "XLN088",
+        "Description": "x-linked lethal multiple pterygium syndrome",
+        "TitleCaseName": "X-Linked Lethal Multiple Pterygium Syndrome",
+        "Slug": "x_linked_lethal_multiple_pterygium_syndrome",
+        "MiFts": 7.9297056,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20646,
+        "Symbol": "XLN170",
+        "Description": "x-linked mendelian susceptibility to mycobacterial diseases",
+        "TitleCaseName": "X-Linked Mendelian Susceptibility to Mycobacterial Diseases",
+        "Slug": "x_linked_mendelian_susceptibility_to_mycobacterial_diseases",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11383,
+        "Symbol": "XLN025",
+        "Description": "x-linked mental retardation gustavson type",
+        "TitleCaseName": "X-Linked Mental Retardation Gustavson Type",
+        "Slug": "x_linked_mental_retardation_gustavson_type",
+        "MiFts": 10.215085,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19404,
+        "Symbol": "XLN186",
+        "Description": "x-linked microcephaly-growth retardation-prognathism-cryptorchidism syndrome",
+        "TitleCaseName": "X-Linked Microcephaly-Growth Retardation-Prognathism-Cryptorchidism Syndrome",
+        "Slug": "x_linked_microcephaly_growth_retardation_prognathism_cryptorchidism_syndrome",
+        "MiFts": 14.658533,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19405,
+        "Symbol": "XLN200",
+        "Description": "x-linked myotubular myopathy-abnormal genitalia syndrome",
+        "TitleCaseName": "X-Linked Myotubular Myopathy-Abnormal Genitalia Syndrome",
+        "Slug": "x_linked_myotubular_myopathy_abnormal_genitalia_syndrome",
+        "MiFts": 18.382816,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11352,
+        "Symbol": "XLN251",
+        "Description": "x-linked nephrogenic diabetes insipidus",
+        "TitleCaseName": "X-Linked Nephrogenic Diabetes Insipidus",
+        "Slug": "x_linked_nephrogenic_diabetes_insipidus",
+        "MiFts": 41.770416,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11708,
+        "Symbol": "XLN243",
+        "Description": "x-linked nephrolithiasis type i",
+        "TitleCaseName": "X-Linked Nephrolithiasis Type I",
+        "Slug": "x_linked_nephrolithiasis_type_i",
+        "MiFts": 19.91664,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19406,
+        "Symbol": "XLN092",
+        "Description": "x-linked neurodegenerative syndrome, bertini type",
+        "TitleCaseName": "X-Linked Neurodegenerative Syndrome, Bertini Type",
+        "Slug": "x_linked_neurodegenerative_syndrome_bertini_type",
+        "MiFts": 12.014973,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19407,
+        "Symbol": "XLN091",
+        "Description": "x-linked neurodegenerative syndrome, hamel type",
+        "TitleCaseName": "X-Linked Neurodegenerative Syndrome, Hamel Type",
+        "Slug": "x_linked_neurodegenerative_syndrome_hamel_type",
+        "MiFts": 11.462723,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10222,
+        "Symbol": "XLN004",
+        "Description": "x-linked nonsyndromic deafness",
+        "TitleCaseName": "X-Linked Nonsyndromic Deafness",
+        "Slug": "x_linked_nonsyndromic_deafness",
+        "MiFts": 35.178654,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19408,
+        "Symbol": "XLN172",
+        "Description": "x-linked osteoporosis with fractures",
+        "TitleCaseName": "X-Linked Osteoporosis with Fractures",
+        "Slug": "x_linked_osteoporosis_with_fractures",
+        "MiFts": 12.725939,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17048,
+        "Symbol": "XLN240",
+        "Description": "x-linked otopalatodigital spectrum disorders",
+        "TitleCaseName": "X-Linked Otopalatodigital Spectrum Disorders",
+        "Slug": "x_linked_otopalatodigital_spectrum_disorders",
+        "MiFts": 13.672631,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17049,
+        "Symbol": "XLN067",
+        "Description": "x-linked protoporphyria",
+        "TitleCaseName": "X-Linked Protoporphyria",
+        "Slug": "x_linked_protoporphyria",
+        "MiFts": 22.877783,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20637,
+        "Symbol": "XLN237",
+        "Description": "x-linked pure spastic paraplegia",
+        "TitleCaseName": "X-Linked Pure Spastic Paraplegia",
+        "Slug": "x_linked_pure_spastic_paraplegia",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19409,
+        "Symbol": "XLN262",
+        "Description": "x-linked retinal dysplasia",
+        "TitleCaseName": "X-Linked Retinal Dysplasia",
+        "Slug": "x_linked_retinal_dysplasia",
+        "MiFts": 16.863035,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11781,
+        "Symbol": "XLN246",
+        "Description": "x-linked retinitis pigmentosa and sinorespiratory infections",
+        "TitleCaseName": "X-Linked Retinitis Pigmentosa and Sinorespiratory Infections",
+        "Slug": "x_linked_retinitis_pigmentosa_and_sinorespiratory_infections",
+        "MiFts": 12.181314,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19410,
+        "Symbol": "XLN189",
+        "Description": "x-linked scapuloperoneal muscular dystrophy",
+        "TitleCaseName": "X-Linked Scapuloperoneal Muscular Dystrophy",
+        "Slug": "x_linked_scapuloperoneal_muscular_dystrophy",
+        "MiFts": 20.811405,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10215,
+        "Symbol": "XLN003",
+        "Description": "x-linked sideroblastic anemia with ataxia",
+        "TitleCaseName": "X-Linked Sideroblastic Anemia with Ataxia",
+        "Slug": "x_linked_sideroblastic_anemia_with_ataxia",
+        "MiFts": 55.969597,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19411,
+        "Symbol": "XLN268",
+        "Description": "x-linked spasticity-intellectual disability-epilepsy syndrome",
+        "TitleCaseName": "X-Linked Spasticity-Intellectual Disability-Epilepsy Syndrome",
+        "Slug": "x_linked_spasticity_intellectual_disability_epilepsy_syndrome",
+        "MiFts": 13.447158,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19412,
+        "Symbol": "XLN264",
+        "Description": "x-linked thrombocytopenia with normal platelets",
+        "TitleCaseName": "X-Linked Thrombocytopenia with Normal Platelets",
+        "Slug": "x_linked_thrombocytopenia_with_normal_platelets",
+        "MiFts": 22.932726,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22692,
+        "Symbol": "XP1004",
+        "Description": "xp11.2 duplication",
+        "TitleCaseName": "Xp11.2 Duplication",
+        "Slug": "xp112_duplication",
+        "MiFts": 1.4007695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19415,
+        "Symbol": "XP2002",
+        "Description": "xp22.13p22.2 duplication syndrome",
+        "TitleCaseName": "Xp22.13p22.2 Duplication Syndrome",
+        "Slug": "xp2213p222_duplication_syndrome",
+        "MiFts": 17.724802,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19416,
+        "Symbol": "XP2001",
+        "Description": "xp22.3 microdeletion syndrome",
+        "TitleCaseName": "Xp22.3 Microdeletion Syndrome",
+        "Slug": "xp223_microdeletion_syndrome",
+        "MiFts": 14.81118,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19417,
+        "Symbol": "XQ1001",
+        "Description": "xq12-q13.3 duplication syndrome",
+        "TitleCaseName": "Xq12-Q13.3 Duplication Syndrome",
+        "Slug": "xq12_q133_duplication_syndrome",
+        "MiFts": 15.64571,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19418,
+        "Symbol": "XQ2005",
+        "Description": "xq21 microdeletion syndrome",
+        "TitleCaseName": "Xq21 Microdeletion Syndrome",
+        "Slug": "xq21_microdeletion_syndrome",
+        "MiFts": 21.781395,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19419,
+        "Symbol": "XQ2004",
+        "Description": "xq25 microduplication syndrome",
+        "TitleCaseName": "Xq25 Microduplication Syndrome",
+        "Slug": "xq25_microduplication_syndrome",
+        "MiFts": 20.764076,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19420,
+        "Symbol": "XQ2001",
+        "Description": "xq27.3q28 duplication syndrome",
+        "TitleCaseName": "Xq27.3q28 Duplication Syndrome",
+        "Slug": "xq273q28_duplication_syndrome",
+        "MiFts": 18.068998,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17050,
+        "Symbol": "XQ2002",
+        "Description": "xq28 duplication syndrome, int22h1/int22h2 mediated",
+        "TitleCaseName": "Xq28 Duplication Syndrome, Int22h1/int22h2 Mediated",
+        "Slug": "xq28_duplication_syndrome_int22h1_int22h2_mediated",
+        "MiFts": 0.0,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19421,
+        "Symbol": "XYT001",
+        "Description": "xy type gonadal dysgenesis-associated anomalies syndrome",
+        "TitleCaseName": "Xy Type Gonadal Dysgenesis-Associated Anomalies Syndrome",
+        "Slug": "xy_type_gonadal_dysgenesis_associated_anomalies_syndrome",
+        "MiFts": 14.552073,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3212,
+        "Symbol": "XYL002",
+        "Description": "xylosidase deficiency",
+        "TitleCaseName": "Xylosidase Deficiency",
+        "Slug": "xylosidase_deficiency",
+        "MiFts": 7.9297056,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19422,
+        "Symbol": "XYL001",
+        "Description": "xylt1-cdg",
+        "TitleCaseName": "Xylt1-Cdg",
+        "Slug": "xylt1_cdg",
+        "MiFts": 17.37807,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 126,
+  "recordsFiltered": 126,
+  "searchMatches": 0,
+  "error": null
+}

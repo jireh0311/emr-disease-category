@@ -1,0 +1,408 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 9340,
+        "Symbol": "ZKS001",
+        "Description": "zaki syndrome",
+        "TitleCaseName": "Zaki Syndrome",
+        "Slug": "zaki_syndrome",
+        "MiFts": 42.295876,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17053,
+        "Symbol": "ZP7003",
+        "Description": "zap70-related combined immunodeficiency",
+        "TitleCaseName": "Zap70-Related Combined Immunodeficiency",
+        "Slug": "zap70_related_combined_immunodeficiency",
+        "MiFts": 7.0798564,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19505,
+        "Symbol": "ZP7001",
+        "Description": "zap70-related severe combined immunodeficiency",
+        "TitleCaseName": "Zap70-Related Severe Combined Immunodeficiency",
+        "Slug": "zap70_related_severe_combined_immunodeficiency",
+        "MiFts": 22.160034,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19423,
+        "Symbol": "ZBR001",
+        "Description": "zebra body myopathy",
+        "TitleCaseName": "Zebra Body Myopathy",
+        "Slug": "zebra_body_myopathy",
+        "MiFts": 19.128334,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10722,
+        "Symbol": "ZBR002",
+        "Description": "zebrafish allergy",
+        "TitleCaseName": "Zebrafish Allergy",
+        "Slug": "zebrafish_allergy",
+        "MiFts": 16.755795,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6150,
+        "Symbol": "ZCH002",
+        "Description": "zechi-ceide syndrome",
+        "TitleCaseName": "Zechi-Ceide Syndrome",
+        "Slug": "zechi_ceide_syndrome_2",
+        "MiFts": 22.351562,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17054,
+        "Symbol": "ZLL011",
+        "Description": "zellweger spectrum disorder",
+        "TitleCaseName": "Zellweger Spectrum Disorder",
+        "Slug": "zellweger_spectrum_disorder",
+        "MiFts": 53.686203,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16353,
+        "Symbol": "ZLL001",
+        "Description": "zellweger syndrome",
+        "TitleCaseName": "Zellweger Syndrome",
+        "Slug": "zellweger_syndrome",
+        "MiFts": 64.54954,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19424,
+        "Symbol": "ZLL010",
+        "Description": "zellweger-like syndrome without peroxisomal anomalies",
+        "TitleCaseName": "Zellweger-Like Syndrome Without Peroxisomal Anomalies",
+        "Slug": "zellweger_like_syndrome_without_peroxisomal_anomalies",
+        "MiFts": 16.705402,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19425,
+        "Symbol": "ZRR001",
+        "Description": "zerres rietschel majewski syndrome",
+        "TitleCaseName": "Zerres Rietschel Majewski Syndrome",
+        "Slug": "zerres_rietschel_majewski_syndrome",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9768,
+        "Symbol": "ZGL001",
+        "Description": "ziegler-huang syndrome",
+        "TitleCaseName": "Ziegler-Huang Syndrome",
+        "Slug": "ziegler_huang_syndrome",
+        "MiFts": 20.04869,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10699,
+        "Symbol": "ZKF001",
+        "Description": "zika fever",
+        "TitleCaseName": "Zika Fever",
+        "Slug": "zika_fever",
+        "MiFts": 54.90231,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11002,
+        "Symbol": "ZKV002",
+        "Description": "zika virus congenital syndrome",
+        "TitleCaseName": "Zika Virus Congenital Syndrome",
+        "Slug": "zika_virus_congenital_syndrome",
+        "MiFts": 22.587753,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 619,
+        "Symbol": "ZMM002",
+        "Description": "zimmermann-laband syndrome 1",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 1",
+        "Slug": "zimmermann_laband_syndrome_1",
+        "MiFts": 45.231792,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7788,
+        "Symbol": "ZMM003",
+        "Description": "zimmermann-laband syndrome 2",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 2",
+        "Slug": "zimmermann_laband_syndrome_2",
+        "MiFts": 25.45163,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8808,
+        "Symbol": "ZMM004",
+        "Description": "zimmermann-laband syndrome 3",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 3",
+        "Slug": "zimmermann_laband_syndrome_3",
+        "MiFts": 22.314774,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5026,
+        "Symbol": "ZNC004",
+        "Description": "zinc deficiency, transient neonatal",
+        "TitleCaseName": "Zinc Deficiency, Transient Neonatal",
+        "Slug": "zinc_deficiency_transient_neonatal",
+        "MiFts": 24.973011,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1704,
+        "Symbol": "ZNC006",
+        "Description": "zinc, elevated plasma",
+        "TitleCaseName": "Zinc, Elevated Plasma",
+        "Slug": "zinc_elevated_plasma",
+        "MiFts": 11.259956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21127,
+        "Symbol": "ZNC005",
+        "Description": "zinc-responsive necrolytic acral erythema",
+        "TitleCaseName": "Zinc-Responsive Necrolytic Acral Erythema",
+        "Slug": "zinc_responsive_necrolytic_acral_erythema",
+        "MiFts": 17.018795,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10322,
+        "Symbol": "ZLL002",
+        "Description": "zollinger-ellison syndrome",
+        "TitleCaseName": "Zollinger-Ellison Syndrome",
+        "Slug": "zollinger_ellison_syndrome",
+        "MiFts": 56.36868,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8075,
+        "Symbol": "ZTT001",
+        "Description": "zttk syndrome",
+        "TitleCaseName": "Zttk Syndrome",
+        "Slug": "zttk_syndrome",
+        "MiFts": 38.607845,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4602,
+        "Symbol": "ZW1001",
+        "Description": "zw10 interactor, antisense",
+        "TitleCaseName": "Zw10 Interactor, Antisense",
+        "Slug": "zw10_interactor_antisense",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5407,
+        "Symbol": "ZYG003",
+        "Description": "zygodactyly 1",
+        "TitleCaseName": "Zygodactyly 1",
+        "Slug": "zygodactyly_1",
+        "MiFts": 25.670916,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20956,
+        "Symbol": "ZYG007",
+        "Description": "zygodactyly type 3",
+        "TitleCaseName": "Zygodactyly Type 3",
+        "Slug": "zygodactyly_type_3",
+        "MiFts": 11.550643,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20955,
+        "Symbol": "ZYG005",
+        "Description": "zygodactyly type 4",
+        "TitleCaseName": "Zygodactyly Type 4",
+        "Slug": "zygodactyly_type_4",
+        "MiFts": 9.781423,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 25,
+  "recordsFiltered": 25,
+  "searchMatches": 0,
+  "error": null
+}

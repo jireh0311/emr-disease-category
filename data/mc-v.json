@@ -1,0 +1,4888 @@
+  {
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 13972,
+        "Symbol": "VCC001",
+        "Description": "vaccinia",
+        "TitleCaseName": "Vaccinia",
+        "Slug": "vaccinia",
+        "MiFts": 46.7669,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13232,
+        "Symbol": "VCT001",
+        "Description": "vacterl association",
+        "TitleCaseName": "Vacterl Association",
+        "Slug": "vacterl_association",
+        "MiFts": 43.79091,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3168,
+        "Symbol": "VCT004",
+        "Description": "vacterl association with hydrocephalus",
+        "TitleCaseName": "Vacterl Association with Hydrocephalus",
+        "Slug": "vacterl_association_with_hydrocephalus",
+        "MiFts": 29.286701,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3800,
+        "Symbol": "VCT005",
+        "Description": "vacterl association, x-linked, with or without hydrocephalus",
+        "TitleCaseName": "Vacterl Association, X-Linked, with or Without Hydrocephalus",
+        "Slug": "vacterl_association_x_linked_with_or_without_hydrocephalus",
+        "MiFts": 44.518757,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19331,
+        "Symbol": "VCT008",
+        "Description": "vacterl with hydrocephalus",
+        "TitleCaseName": "Vacterl with Hydrocephalus",
+        "Slug": "vacterl_with_hydrocephalus",
+        "MiFts": 50.434647,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19332,
+        "Symbol": "VCL010",
+        "Description": "vacuolar myopathy with sarcoplasmic reticulum protein aggregates",
+        "TitleCaseName": "Vacuolar Myopathy with Sarcoplasmic Reticulum Protein Aggregates",
+        "Slug": "vacuolar_myopathy_with_sarcoplasmic_reticulum_protein_aggregates",
+        "MiFts": 21.56559,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15591,
+        "Symbol": "VGN013",
+        "Description": "vagina botryoid rhabdomyosarcoma",
+        "TitleCaseName": "Vagina Botryoid Rhabdomyosarcoma",
+        "Slug": "vagina_botryoid_rhabdomyosarcoma",
+        "MiFts": 7.0038476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12624,
+        "Symbol": "VGN002",
+        "Description": "vagina leiomyoma",
+        "TitleCaseName": "Vagina Leiomyoma",
+        "Slug": "vagina_leiomyoma",
+        "MiFts": 20.176514,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14913,
+        "Symbol": "VGN011",
+        "Description": "vagina leiomyosarcoma",
+        "TitleCaseName": "Vagina Leiomyosarcoma",
+        "Slug": "vagina_leiomyosarcoma",
+        "MiFts": 26.549988,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13400,
+        "Symbol": "VGN014",
+        "Description": "vagina sarcoma",
+        "TitleCaseName": "Vagina Sarcoma",
+        "Slug": "vagina_sarcoma",
+        "MiFts": 24.77433,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14982,
+        "Symbol": "VGN015",
+        "Description": "vaginal adenoma",
+        "TitleCaseName": "Vaginal Adenoma",
+        "Slug": "vaginal_adenoma",
+        "MiFts": 21.12858,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14338,
+        "Symbol": "VGN012",
+        "Description": "vaginal adenosarcoma",
+        "TitleCaseName": "Vaginal Adenosarcoma",
+        "Slug": "vaginal_adenosarcoma",
+        "MiFts": 17.17867,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21328,
+        "Symbol": "VGN031",
+        "Description": "vaginal atresia",
+        "TitleCaseName": "Vaginal Atresia",
+        "Slug": "vaginal_atresia",
+        "MiFts": 24.227045,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10526,
+        "Symbol": "VGN016",
+        "Description": "vaginal benign neoplasm",
+        "TitleCaseName": "Vaginal Benign Neoplasm",
+        "Slug": "vaginal_benign_neoplasm",
+        "MiFts": 23.851675,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12457,
+        "Symbol": "VGN017",
+        "Description": "vaginal cancer",
+        "TitleCaseName": "Vaginal Cancer",
+        "Slug": "vaginal_cancer",
+        "MiFts": 58.383724,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12922,
+        "Symbol": "VGN018",
+        "Description": "vaginal carcinosarcoma",
+        "TitleCaseName": "Vaginal Carcinosarcoma",
+        "Slug": "vaginal_carcinosarcoma",
+        "MiFts": 28.170444,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14194,
+        "Symbol": "VGN019",
+        "Description": "vaginal discharge",
+        "TitleCaseName": "Vaginal Discharge",
+        "Slug": "vaginal_discharge",
+        "MiFts": 47.12827,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12495,
+        "Symbol": "VGN020",
+        "Description": "vaginal disease",
+        "TitleCaseName": "Vaginal Disease",
+        "Slug": "vaginal_disease",
+        "MiFts": 50.2787,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14854,
+        "Symbol": "VGN005",
+        "Description": "vaginal endometrial stromal sarcoma",
+        "TitleCaseName": "Vaginal Endometrial Stromal Sarcoma",
+        "Slug": "vaginal_endometrial_stromal_sarcoma",
+        "MiFts": 27.32957,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14855,
+        "Symbol": "VGN006",
+        "Description": "vaginal endometrial stromal tumor",
+        "TitleCaseName": "Vaginal Endometrial Stromal Tumor",
+        "Slug": "vaginal_endometrial_stromal_tumor",
+        "MiFts": 11.890628,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12860,
+        "Symbol": "VGN021",
+        "Description": "vaginal glandular tumor",
+        "TitleCaseName": "Vaginal Glandular Tumor",
+        "Slug": "vaginal_glandular_tumor",
+        "MiFts": 14.489736,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12832,
+        "Symbol": "VGN003",
+        "Description": "vaginal mullerian papilloma",
+        "TitleCaseName": "Vaginal Mullerian Papilloma",
+        "Slug": "vaginal_mullerian_papilloma",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15487,
+        "Symbol": "VGN008",
+        "Description": "vaginal spindle cell epithelioma",
+        "TitleCaseName": "Vaginal Spindle Cell Epithelioma",
+        "Slug": "vaginal_spindle_cell_epithelioma",
+        "MiFts": 9.924399,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12950,
+        "Symbol": "VGN032",
+        "Description": "vaginal squamous papilloma",
+        "TitleCaseName": "Vaginal Squamous Papilloma",
+        "Slug": "vaginal_squamous_papilloma",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12983,
+        "Symbol": "VGN022",
+        "Description": "vaginal squamous tumor",
+        "TitleCaseName": "Vaginal Squamous Tumor",
+        "Slug": "vaginal_squamous_tumor",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16053,
+        "Symbol": "VGN010",
+        "Description": "vaginal tubulovillous adenoma",
+        "TitleCaseName": "Vaginal Tubulovillous Adenoma",
+        "Slug": "vaginal_tubulovillous_adenoma",
+        "MiFts": 18.745708,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15534,
+        "Symbol": "VGN007",
+        "Description": "vaginal villous adenoma",
+        "TitleCaseName": "Vaginal Villous Adenoma",
+        "Slug": "vaginal_villous_adenoma",
+        "MiFts": 6.7131615,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13404,
+        "Symbol": "VGN004",
+        "Description": "vaginal yolk sac tumor",
+        "TitleCaseName": "Vaginal Yolk Sac Tumor",
+        "Slug": "vaginal_yolk_sac_tumor",
+        "MiFts": 25.17307,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13511,
+        "Symbol": "VGN023",
+        "Description": "vaginitis",
+        "TitleCaseName": "Vaginitis",
+        "Slug": "vaginitis",
+        "MiFts": 55.53197,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12623,
+        "Symbol": "VGS001",
+        "Description": "vagus nerve disease",
+        "TitleCaseName": "Vagus Nerve Disease",
+        "Slug": "vagus_nerve_disease",
+        "MiFts": 26.859776,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12735,
+        "Symbol": "VGS002",
+        "Description": "vagus nerve neoplasm",
+        "TitleCaseName": "Vagus Nerve Neoplasm",
+        "Slug": "vagus_nerve_neoplasm",
+        "MiFts": 17.04648,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3170,
+        "Symbol": "VLN001",
+        "Description": "valinemia",
+        "TitleCaseName": "Valinemia",
+        "Slug": "valinemia",
+        "MiFts": 20.29129,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16224,
+        "Symbol": "VLL005",
+        "Description": "vallecula cancer",
+        "TitleCaseName": "Vallecula Cancer",
+        "Slug": "vallecula_cancer",
+        "MiFts": 28.590273,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5331,
+        "Symbol": "VLP002",
+        "Description": "valproate embryopathy",
+        "TitleCaseName": "Valproate Embryopathy",
+        "Slug": "valproate_embryopathy",
+        "MiFts": 43.541035,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22107,
+        "Symbol": "VLV052",
+        "Description": "valvular pulmonary stenosis",
+        "TitleCaseName": "Valvular Pulmonary Stenosis",
+        "Slug": "valvular_pulmonary_stenosis",
+        "MiFts": 15.399545,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3171,
+        "Symbol": "VNB002",
+        "Description": "van bogaert-hozay syndrome",
+        "TitleCaseName": "Van Bogaert-Hozay Syndrome",
+        "Slug": "van_bogaert_hozay_syndrome",
+        "MiFts": 10.49386,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2400,
+        "Symbol": "VNB005",
+        "Description": "van buchem disease",
+        "TitleCaseName": "Van Buchem Disease",
+        "Slug": "van_buchem_disease",
+        "MiFts": 59.10691,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3802,
+        "Symbol": "VND003",
+        "Description": "van den bosch syndrome",
+        "TitleCaseName": "Van Den Bosch Syndrome",
+        "Slug": "van_den_bosch_syndrome",
+        "MiFts": 18.149714,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4005,
+        "Symbol": "VND005",
+        "Description": "van den ende-gupta syndrome",
+        "TitleCaseName": "Van Den Ende-Gupta Syndrome",
+        "Slug": "van_den_ende_gupta_syndrome",
+        "MiFts": 41.722126,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10612,
+        "Symbol": "VND002",
+        "Description": "van der woude syndrome",
+        "TitleCaseName": "Van Der Woude Syndrome",
+        "Slug": "van_der_woude_syndrome",
+        "MiFts": 53.754204,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 331,
+        "Symbol": "VND007",
+        "Description": "van der woude syndrome 1",
+        "TitleCaseName": "Van Der Woude Syndrome 1",
+        "Slug": "van_der_woude_syndrome_1",
+        "MiFts": 40.152374,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4516,
+        "Symbol": "VND008",
+        "Description": "van der woude syndrome 1, modifier of",
+        "TitleCaseName": "Van Der Woude Syndrome 1, Modifier of",
+        "Slug": "van_der_woude_syndrome_1_modifier_of",
+        "MiFts": 4.612007,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4764,
+        "Symbol": "VND004",
+        "Description": "van der woude syndrome 2",
+        "TitleCaseName": "Van Der Woude Syndrome 2",
+        "Slug": "van_der_woude_syndrome_2",
+        "MiFts": 29.841278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3519,
+        "Symbol": "VNS015",
+        "Description": "van esch-o'driscoll syndrome",
+        "TitleCaseName": "Van Esch-O'driscoll Syndrome",
+        "Slug": "van_esch_odriscoll_syndrome",
+        "MiFts": 45.202183,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10611,
+        "Symbol": "VNM004",
+        "Description": "van maldergem syndrome",
+        "TitleCaseName": "Van Maldergem Syndrome",
+        "Slug": "van_maldergem_syndrome",
+        "MiFts": 25.616602,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4113,
+        "Symbol": "VNM003",
+        "Description": "van maldergem syndrome 1",
+        "TitleCaseName": "Van Maldergem Syndrome 1",
+        "Slug": "van_maldergem_syndrome_1",
+        "MiFts": 54.51707,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7382,
+        "Symbol": "VNM002",
+        "Description": "van maldergem syndrome 2",
+        "TitleCaseName": "Van Maldergem Syndrome 2",
+        "Slug": "van_maldergem_syndrome_2",
+        "MiFts": 40.12359,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20976,
+        "Symbol": "VRB002",
+        "Description": "variably protease-sensitive prionopathy",
+        "TitleCaseName": "Variably Protease-Sensitive Prionopathy",
+        "Slug": "variably_protease_sensitive_prionopathy",
+        "MiFts": 16.71357,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3966,
+        "Symbol": "VRC007",
+        "Description": "varicella, severe recurrent",
+        "TitleCaseName": "Varicella, Severe Recurrent",
+        "Slug": "varicella_severe_recurrent",
+        "MiFts": 10.149873,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12577,
+        "Symbol": "VRC001",
+        "Description": "varicocele",
+        "TitleCaseName": "Varicocele",
+        "Slug": "varicocele",
+        "MiFts": 47.87609,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1651,
+        "Symbol": "VRC005",
+        "Description": "varicose veins",
+        "TitleCaseName": "Varicose Veins",
+        "Slug": "varicose_veins",
+        "MiFts": 56.696236,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1309,
+        "Symbol": "VRG001",
+        "Description": "variegate porphyria",
+        "TitleCaseName": "Variegate Porphyria",
+        "Slug": "variegate_porphyria",
+        "MiFts": 62.710384,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9760,
+        "Symbol": "VRG002",
+        "Description": "variegate porphyria, childhood-onset",
+        "TitleCaseName": "Variegate Porphyria, Childhood-Onset",
+        "Slug": "variegate_porphyria_childhood_onset",
+        "MiFts": 26.014795,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10195,
+        "Symbol": "VRL003",
+        "Description": "variola major",
+        "TitleCaseName": "Variola Major",
+        "Slug": "variola_major",
+        "MiFts": 37.977585,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16382,
+        "Symbol": "VRL002",
+        "Description": "variola minor",
+        "TitleCaseName": "Variola Minor",
+        "Slug": "variola_minor",
+        "MiFts": 22.089216,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3174,
+        "Symbol": "VSD002",
+        "Description": "vas deferens, congenital bilateral aplasia of",
+        "TitleCaseName": "Vas Deferens, Congenital Bilateral Aplasia of",
+        "Slug": "vas_deferens_congenital_bilateral_aplasia_of",
+        "MiFts": 54.83356,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3495,
+        "Symbol": "VSD001",
+        "Description": "vas deferens, congenital bilateral aplasia of, x-linked",
+        "TitleCaseName": "Vas Deferens, Congenital Bilateral Aplasia of, X-Linked",
+        "Slug": "vas_deferens_congenital_bilateral_aplasia_of_x_linked",
+        "MiFts": 25.307035,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22382,
+        "Symbol": "VSP003",
+        "Description": "vasa previa",
+        "TitleCaseName": "Vasa Previa",
+        "Slug": "vasa_previa",
+        "MiFts": 15.0734005,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13346,
+        "Symbol": "VSC006",
+        "Description": "vascular cancer",
+        "TitleCaseName": "Vascular Cancer",
+        "Slug": "vascular_cancer",
+        "MiFts": 50.41222,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16280,
+        "Symbol": "VSC002",
+        "Description": "vascular dementia",
+        "TitleCaseName": "Vascular Dementia",
+        "Slug": "vascular_dementia",
+        "MiFts": 58.342243,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13360,
+        "Symbol": "VSC007",
+        "Description": "vascular disease",
+        "TitleCaseName": "Vascular Disease",
+        "Slug": "vascular_disease",
+        "MiFts": 68.375046,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1652,
+        "Symbol": "VSC051",
+        "Description": "vascular helix of umbilical cord",
+        "TitleCaseName": "Vascular Helix of Umbilical Cord",
+        "Slug": "vascular_helix_of_umbilical_cord",
+        "MiFts": 4.2023087,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3173,
+        "Symbol": "VSC014",
+        "Description": "vascular hyalinosis",
+        "TitleCaseName": "Vascular Hyalinosis",
+        "Slug": "vascular_hyalinosis",
+        "MiFts": 16.818657,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4798,
+        "Symbol": "VSC050",
+        "Description": "vascular malformation, primary intraosseous",
+        "TitleCaseName": "Vascular Malformation, Primary Intraosseous",
+        "Slug": "vascular_malformation_primary_intraosseous",
+        "MiFts": 27.024073,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13918,
+        "Symbol": "VSC001",
+        "Description": "vascular myelopathy",
+        "TitleCaseName": "Vascular Myelopathy",
+        "Slug": "vascular_myelopathy",
+        "MiFts": 25.121315,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11245,
+        "Symbol": "VSC064",
+        "Description": "vascular parkinsonism",
+        "TitleCaseName": "Vascular Parkinsonism",
+        "Slug": "vascular_parkinsonism",
+        "MiFts": 41.20694,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16503,
+        "Symbol": "VSC009",
+        "Description": "vascular skin disease",
+        "TitleCaseName": "Vascular Skin Disease",
+        "Slug": "vascular_skin_disease",
+        "MiFts": 19.126942,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16255,
+        "Symbol": "VSC011",
+        "Description": "vasculitis",
+        "TitleCaseName": "Vasculitis",
+        "Slug": "vasculitis",
+        "MiFts": 59.02266,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19333,
+        "Symbol": "VSC045",
+        "Description": "vasculitis due to ada2 deficiency",
+        "TitleCaseName": "Vasculitis Due to Ada2 Deficiency",
+        "Slug": "vasculitis_due_to_ada2_deficiency",
+        "MiFts": 24.56595,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7447,
+        "Symbol": "VSC058",
+        "Description": "vasculitis, autoinflammation, immunodeficiency, and hematologic defects syndrome",
+        "TitleCaseName": "Vasculitis, Autoinflammation, Immunodeficiency, and Hematologic Defects Syndrome",
+        "Slug": "vasculitis_autoinflammation_immunodeficiency_and_hematologic_defects_syndrome",
+        "MiFts": 51.48614,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5408,
+        "Symbol": "VSC057",
+        "Description": "vasculitis, lymphocytic, cutaneous small vessel",
+        "TitleCaseName": "Vasculitis, Lymphocytic, Cutaneous Small Vessel",
+        "Slug": "vasculitis_lymphocytic_cutaneous_small_vessel",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1653,
+        "Symbol": "VSC052",
+        "Description": "vasculitis, lymphocytic, nodular",
+        "TitleCaseName": "Vasculitis, Lymphocytic, Nodular",
+        "Slug": "vasculitis_lymphocytic_nodular",
+        "MiFts": 7.9790053,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14653,
+        "Symbol": "VSC004",
+        "Description": "vasculogenic impotence",
+        "TitleCaseName": "Vasculogenic Impotence",
+        "Slug": "vasculogenic_impotence",
+        "MiFts": 30.94185,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1654,
+        "Symbol": "VSC063",
+        "Description": "vasculopathy, retinal, with cerebral leukoencephalopathy and systemic manifestations",
+        "TitleCaseName": "Vasculopathy, Retinal, with Cerebral Leukoencephalopathy and Systemic Manifestations",
+        "Slug": "vasculopathy_retinal_with_cerebral_leukoencephalopathy_and_systemic_manifestations",
+        "MiFts": 62.62759,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14640,
+        "Symbol": "VSM001",
+        "Description": "vasomotor rhinitis",
+        "TitleCaseName": "Vasomotor Rhinitis",
+        "Slug": "vasomotor_rhinitis",
+        "MiFts": 43.043045,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20724,
+        "Symbol": "VSP001",
+        "Description": "vasoproliferative tumor of the retina",
+        "TitleCaseName": "Vasoproliferative Tumor of the Retina",
+        "Slug": "vasoproliferative_tumor_of_the_retina",
+        "MiFts": 14.183001,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1655,
+        "Symbol": "VTR016",
+        "Description": "vater/vacterl association",
+        "TitleCaseName": "Vater/vacterl Association",
+        "Slug": "vater_vacterl_association",
+        "MiFts": 46.613552,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5084,
+        "Symbol": "VTR017",
+        "Description": "vater-like defects with pulmonary hypertension, laryngeal webs, and growth deficiency",
+        "TitleCaseName": "Vater-Like Defects with Pulmonary Hypertension, Laryngeal Webs, and Growth Deficiency",
+        "Slug": "vater_like_defects_with_pulmonary_hypertension_laryngeal_webs_and_growth_deficiency",
+        "MiFts": 8.43571,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10888,
+        "Symbol": "VGT003",
+        "Description": "vegetable allergy",
+        "TitleCaseName": "Vegetable Allergy",
+        "Slug": "vegetable_allergy",
+        "MiFts": 18.344683,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21454,
+        "Symbol": "VGT002",
+        "Description": "vegetative pyoderma gangrenosum",
+        "TitleCaseName": "Vegetative Pyoderma Gangrenosum",
+        "Slug": "vegetative_pyoderma_gangrenosum",
+        "MiFts": 13.608793,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16259,
+        "Symbol": "VND001",
+        "Description": "vein disease",
+        "TitleCaseName": "Vein Disease",
+        "Slug": "vein_disease",
+        "MiFts": 47.5763,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19334,
+        "Symbol": "VNF002",
+        "Description": "vein of galen aneurysmal malformation",
+        "TitleCaseName": "Vein of Galen Aneurysmal Malformation",
+        "Slug": "vein_of_galen_aneurysmal_malformation",
+        "MiFts": 27.705765,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1656,
+        "Symbol": "VNS014",
+        "Description": "veins, pattern of, on anterior thorax",
+        "TitleCaseName": "Veins, Pattern of, on Anterior Thorax",
+        "Slug": "veins_pattern_of_on_anterior_thorax",
+        "MiFts": 4.2023087,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1657,
+        "Symbol": "VLC001",
+        "Description": "velocardiofacial syndrome",
+        "TitleCaseName": "Velocardiofacial Syndrome",
+        "Slug": "velocardiofacial_syndrome",
+        "MiFts": 55.013268,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19335,
+        "Symbol": "VLF002",
+        "Description": "velo-facial-skeletal syndrome",
+        "TitleCaseName": "Velo-Facial-Skeletal Syndrome",
+        "Slug": "velo_facial_skeletal_syndrome",
+        "MiFts": 14.245721,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3972,
+        "Symbol": "VLF001",
+        "Description": "velofacioskeletal syndrome",
+        "TitleCaseName": "Velofacioskeletal Syndrome",
+        "Slug": "velofacioskeletal_syndrome",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16516,
+        "Symbol": "VNZ002",
+        "Description": "venezuelan equine encephalitis",
+        "TitleCaseName": "Venezuelan Equine Encephalitis",
+        "Slug": "venezuelan_equine_encephalitis",
+        "MiFts": 44.17829,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10122,
+        "Symbol": "VNZ001",
+        "Description": "venezuelan hemorrhagic fever",
+        "TitleCaseName": "Venezuelan Hemorrhagic Fever",
+        "Slug": "venezuelan_hemorrhagic_fever",
+        "MiFts": 29.93268,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14602,
+        "Symbol": "VNS002",
+        "Description": "venous hemangioma",
+        "TitleCaseName": "Venous Hemangioma",
+        "Slug": "venous_hemangioma",
+        "MiFts": 22.456676,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11865,
+        "Symbol": "VNS003",
+        "Description": "venous insufficiency",
+        "TitleCaseName": "Venous Insufficiency",
+        "Slug": "venous_insufficiency",
+        "MiFts": 54.899143,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3892,
+        "Symbol": "VNS013",
+        "Description": "venous malformations, multiple cutaneous and mucosal",
+        "TitleCaseName": "Venous Malformations, Multiple Cutaneous and Mucosal",
+        "Slug": "venous_malformations_multiple_cutaneous_and_mucosal",
+        "MiFts": 50.759987,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20720,
+        "Symbol": "VNS012",
+        "Description": "venous thoracic outlet syndrome",
+        "TitleCaseName": "Venous Thoracic Outlet Syndrome",
+        "Slug": "venous_thoracic_outlet_syndrome",
+        "MiFts": 18.278984,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12896,
+        "Symbol": "VNS001",
+        "Description": "venous tributary occlusion of retina",
+        "TitleCaseName": "Venous Tributary Occlusion of Retina",
+        "Slug": "venous_tributary_occlusion_of_retina",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12266,
+        "Symbol": "VNT001",
+        "Description": "ventilation pneumonitis",
+        "TitleCaseName": "Ventilation Pneumonitis",
+        "Slug": "ventilation_pneumonitis",
+        "MiFts": 32.163414,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21212,
+        "Symbol": "VNT036",
+        "Description": "ventilator-induced diaphragmatic dysfunction",
+        "TitleCaseName": "Ventilator-Induced Diaphragmatic Dysfunction",
+        "Slug": "ventilator_induced_diaphragmatic_dysfunction",
+        "MiFts": 20.725779,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 258,
+        "Symbol": "VNT040",
+        "Description": "ventricular arrhythmias due to cardiac ryanodine receptor calcium release deficiency syndrome",
+        "TitleCaseName": "Ventricular Arrhythmias Due to Cardiac Ryanodine Receptor Calcium Release Deficiency Syndrome",
+        "Slug": "ventricular_arrhythmias_due_to_cardiac_ryanodine_receptor_calcium_release_deficiency_syndrome",
+        "MiFts": 26.970068,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19336,
+        "Symbol": "VNT042",
+        "Description": "ventricular extrasystoles with syncopal episodes-perodactyly-robin sequence syndrome",
+        "TitleCaseName": "Ventricular Extrasystoles with Syncopal Episodes-Perodactyly-Robin Sequence Syndrome",
+        "Slug": "ventricular_extrasystoles_with_syncopal_episodes_perodactyly_robin_sequence_syndrome",
+        "MiFts": 14.064299,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1658,
+        "Symbol": "VNT031",
+        "Description": "ventricular extrasystoles with syncope, perodactyly, and robin sequence",
+        "TitleCaseName": "Ventricular Extrasystoles with Syncope, Perodactyly, and Robin Sequence",
+        "Slug": "ventricular_extrasystoles_with_syncope_perodactyly_and_robin_sequence",
+        "MiFts": 10.521438,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4419,
+        "Symbol": "VNT034",
+        "Description": "ventricular fibrillation, paroxysmal familial, 1",
+        "TitleCaseName": "Ventricular Fibrillation, Paroxysmal Familial, 1",
+        "Slug": "ventricular_fibrillation_paroxysmal_familial_1",
+        "MiFts": 63.93764,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6176,
+        "Symbol": "VNT012",
+        "Description": "ventricular fibrillation, paroxysmal familial, 2",
+        "TitleCaseName": "Ventricular Fibrillation, Paroxysmal Familial, 2",
+        "Slug": "ventricular_fibrillation_paroxysmal_familial_2",
+        "MiFts": 18.009865,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13311,
+        "Symbol": "VNT002",
+        "Description": "ventricular septal defect",
+        "TitleCaseName": "Ventricular Septal Defect",
+        "Slug": "ventricular_septal_defect",
+        "MiFts": 57.11644,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6875,
+        "Symbol": "VNT028",
+        "Description": "ventricular septal defect 1",
+        "TitleCaseName": "Ventricular Septal Defect 1",
+        "Slug": "ventricular_septal_defect_1",
+        "MiFts": 44.067562,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6877,
+        "Symbol": "VNT026",
+        "Description": "ventricular septal defect 2",
+        "TitleCaseName": "Ventricular Septal Defect 2",
+        "Slug": "ventricular_septal_defect_2",
+        "MiFts": 24.147951,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6878,
+        "Symbol": "VNT024",
+        "Description": "ventricular septal defect 3",
+        "TitleCaseName": "Ventricular Septal Defect 3",
+        "Slug": "ventricular_septal_defect_3",
+        "MiFts": 27.958317,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4528,
+        "Symbol": "VNT035",
+        "Description": "ventricular tachycardia, catecholaminergic polymorphic, 1, with or without atrial dysfunction and/or dilated cardiomyopathy",
+        "TitleCaseName": "Ventricular Tachycardia, Catecholaminergic Polymorphic, 1, with or Without Atrial Dysfunction and/or Dilated Cardiomyopathy",
+        "Slug": "ventricular_tachycardia_catecholaminergic_polymorphic_1_with_or_without_atrial_dysfunction_and_or_dilated_cardiomyopathy",
+        "MiFts": 51.979877,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5831,
+        "Symbol": "VNT010",
+        "Description": "ventricular tachycardia, catecholaminergic polymorphic, 2",
+        "TitleCaseName": "Ventricular Tachycardia, Catecholaminergic Polymorphic, 2",
+        "Slug": "ventricular_tachycardia_catecholaminergic_polymorphic_2",
+        "MiFts": 45.602524,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6658,
+        "Symbol": "VNT027",
+        "Description": "ventricular tachycardia, catecholaminergic polymorphic, 3",
+        "TitleCaseName": "Ventricular Tachycardia, Catecholaminergic Polymorphic, 3",
+        "Slug": "ventricular_tachycardia_catecholaminergic_polymorphic_3",
+        "MiFts": 32.87796,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7101,
+        "Symbol": "VNT029",
+        "Description": "ventricular tachycardia, catecholaminergic polymorphic, 4",
+        "TitleCaseName": "Ventricular Tachycardia, Catecholaminergic Polymorphic, 4",
+        "Slug": "ventricular_tachycardia_catecholaminergic_polymorphic_4",
+        "MiFts": 49.743935,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1661,
+        "Symbol": "VNT032",
+        "Description": "ventricular tachycardia, familial",
+        "TitleCaseName": "Ventricular Tachycardia, Familial",
+        "Slug": "ventricular_tachycardia_familial",
+        "MiFts": 58.66469,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9270,
+        "Symbol": "VNT039",
+        "Description": "ventriculomegaly and arthrogryposis",
+        "TitleCaseName": "Ventriculomegaly and Arthrogryposis",
+        "Slug": "ventriculomegaly_and_arthrogryposis",
+        "MiFts": 22.897774,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2069,
+        "Symbol": "VNT030",
+        "Description": "ventriculomegaly with cystic kidney disease",
+        "TitleCaseName": "Ventriculomegaly with Cystic Kidney Disease",
+        "Slug": "ventriculomegaly_with_cystic_kidney_disease",
+        "MiFts": 36.800083,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4250,
+        "Symbol": "VNT033",
+        "Description": "ventriculomegaly with defects of the radius and kidney",
+        "TitleCaseName": "Ventriculomegaly with Defects of the Radius and Kidney",
+        "Slug": "ventriculomegaly_with_defects_of_the_radius_and_kidney",
+        "MiFts": 11.221822,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1662,
+        "Symbol": "VNL003",
+        "Description": "venular insufficiency, systemic",
+        "TitleCaseName": "Venular Insufficiency, Systemic",
+        "Slug": "venular_insufficiency_systemic",
+        "MiFts": 7.63902,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10559,
+        "Symbol": "VRB001",
+        "Description": "verbal auditory agnosia",
+        "TitleCaseName": "Verbal Auditory Agnosia",
+        "Slug": "verbal_auditory_agnosia",
+        "MiFts": 18.380943,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7403,
+        "Symbol": "VRH001",
+        "Description": "verheij syndrome",
+        "TitleCaseName": "Verheij Syndrome",
+        "Slug": "verheij_syndrome",
+        "MiFts": 38.414745,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3874,
+        "Symbol": "VRL027",
+        "Description": "verloes syndrome",
+        "TitleCaseName": "Verloes Syndrome",
+        "Slug": "verloes_syndrome",
+        "MiFts": 22.396399,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19337,
+        "Symbol": "VRL026",
+        "Description": "verloove vanhorick-brubakk syndrome",
+        "TitleCaseName": "Verloove Vanhorick-Brubakk Syndrome",
+        "Slug": "verloove_vanhorick_brubakk_syndrome_2",
+        "MiFts": 16.637562,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13606,
+        "Symbol": "VRN001",
+        "Description": "vernal conjunctivitis",
+        "TitleCaseName": "Vernal Conjunctivitis",
+        "Slug": "vernal_conjunctivitis",
+        "MiFts": 31.34867,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19338,
+        "Symbol": "VRN004",
+        "Description": "vernal keratoconjunctivitis",
+        "TitleCaseName": "Vernal Keratoconjunctivitis",
+        "Slug": "vernal_keratoconjunctivitis",
+        "MiFts": 48.61012,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15205,
+        "Symbol": "VRR003",
+        "Description": "verruciform xanthoma of skin",
+        "TitleCaseName": "Verruciform Xanthoma of Skin",
+        "Slug": "verruciform_xanthoma_of_skin",
+        "MiFts": 29.341602,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14177,
+        "Symbol": "VRR004",
+        "Description": "verrucous carcinoma",
+        "TitleCaseName": "Verrucous Carcinoma",
+        "Slug": "verrucous_carcinoma",
+        "MiFts": 45.375244,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20969,
+        "Symbol": "VRR008",
+        "Description": "verrucous hemangioma",
+        "TitleCaseName": "Verrucous Hemangioma",
+        "Slug": "verrucous_hemangioma",
+        "MiFts": 20.692144,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14627,
+        "Symbol": "VRR002",
+        "Description": "verrucous keratotic hemangioma",
+        "TitleCaseName": "Verrucous Keratotic Hemangioma",
+        "Slug": "verrucous_keratotic_hemangioma",
+        "MiFts": 6.2382503,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21728,
+        "Symbol": "VRR007",
+        "Description": "verrucous nevus",
+        "TitleCaseName": "Verrucous Nevus",
+        "Slug": "verrucous_nevus",
+        "MiFts": 13.249961,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13901,
+        "Symbol": "VRR001",
+        "Description": "verrucous papilloma",
+        "TitleCaseName": "Verrucous Papilloma",
+        "Slug": "verrucous_papilloma",
+        "MiFts": 20.974468,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22580,
+        "Symbol": "VRR009",
+        "Description": "verruga peruana",
+        "TitleCaseName": "Verruga Peruana",
+        "Slug": "verruga_peruana",
+        "MiFts": 18.499956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8564,
+        "Symbol": "VRT016",
+        "Description": "vertebral anomalies and variable endocrine and t-cell dysfunction",
+        "TitleCaseName": "Vertebral Anomalies and Variable Endocrine and T-Cell Dysfunction",
+        "Slug": "vertebral_anomalies_and_variable_endocrine_and_t_cell_dysfunction",
+        "MiFts": 28.682407,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12768,
+        "Symbol": "VRT002",
+        "Description": "vertebral artery insufficiency",
+        "TitleCaseName": "Vertebral Artery Insufficiency",
+        "Slug": "vertebral_artery_insufficiency",
+        "MiFts": 30.974318,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12270,
+        "Symbol": "VRT001",
+        "Description": "vertebral artery occlusion",
+        "TitleCaseName": "Vertebral Artery Occlusion",
+        "Slug": "vertebral_artery_occlusion",
+        "MiFts": 29.054495,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1663,
+        "Symbol": "VRT011",
+        "Description": "vertebral fusion, posterior lumbosacral, with blepharoptosis",
+        "TitleCaseName": "Vertebral Fusion, Posterior Lumbosacral, with Blepharoptosis",
+        "Slug": "vertebral_fusion_posterior_lumbosacral_with_blepharoptosis",
+        "MiFts": 8.113931,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9062,
+        "Symbol": "VRT018",
+        "Description": "vertebral hypersegmentation and orofacial anomalies",
+        "TitleCaseName": "Vertebral Hypersegmentation and Orofacial Anomalies",
+        "Slug": "vertebral_hypersegmentation_and_orofacial_anomalies",
+        "MiFts": 33.357193,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1664,
+        "Symbol": "VRT012",
+        "Description": "vertebral hypoplasia with lumbar kyphosis",
+        "TitleCaseName": "Vertebral Hypoplasia with Lumbar Kyphosis",
+        "Slug": "vertebral_hypoplasia_with_lumbar_kyphosis",
+        "MiFts": 6.5289364,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8273,
+        "Symbol": "VRT014",
+        "Description": "vertebral, cardiac, renal, and limb defects syndrome 1",
+        "TitleCaseName": "Vertebral, Cardiac, Renal, and Limb Defects Syndrome 1",
+        "Slug": "vertebral_cardiac_renal_and_limb_defects_syndrome_1",
+        "MiFts": 28.290245,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8274,
+        "Symbol": "VRT015",
+        "Description": "vertebral, cardiac, renal, and limb defects syndrome 2",
+        "TitleCaseName": "Vertebral, Cardiac, Renal, and Limb Defects Syndrome 2",
+        "Slug": "vertebral_cardiac_renal_and_limb_defects_syndrome_2",
+        "MiFts": 23.984138,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8905,
+        "Symbol": "VRT017",
+        "Description": "vertebral, cardiac, renal, and limb defects syndrome 3",
+        "TitleCaseName": "Vertebral, Cardiac, Renal, and Limb Defects Syndrome 3",
+        "Slug": "vertebral_cardiac_renal_and_limb_defects_syndrome_3",
+        "MiFts": 29.051477,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9123,
+        "Symbol": "VRT019",
+        "Description": "vertebral, cardiac, tracheoesophageal, renal, and limb defects",
+        "TitleCaseName": "Vertebral, Cardiac, Tracheoesophageal, Renal, and Limb Defects",
+        "Slug": "vertebral_cardiac_tracheoesophageal_renal_and_limb_defects",
+        "MiFts": 24.294874,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12742,
+        "Symbol": "VRT003",
+        "Description": "vertebrobasilar insufficiency",
+        "TitleCaseName": "Vertebrobasilar Insufficiency",
+        "Slug": "vertebrobasilar_insufficiency",
+        "MiFts": 36.396603,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1665,
+        "Symbol": "VRT007",
+        "Description": "vertical talus, congenital",
+        "TitleCaseName": "Vertical Talus, Congenital",
+        "Slug": "vertical_talus_congenital",
+        "MiFts": 59.766987,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1669,
+        "Symbol": "VRT013",
+        "Description": "vertigo, benign recurrent",
+        "TitleCaseName": "Vertigo, Benign Recurrent",
+        "Slug": "vertigo_benign_recurrent",
+        "MiFts": 47.96372,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6254,
+        "Symbol": "VRT008",
+        "Description": "vertigo, benign recurrent, 2",
+        "TitleCaseName": "Vertigo, Benign Recurrent, 2",
+        "Slug": "vertigo_benign_recurrent_2",
+        "MiFts": 9.224014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8427,
+        "Symbol": "VRV001",
+        "Description": "ververi-brady syndrome",
+        "TitleCaseName": "Ververi-Brady Syndrome",
+        "Slug": "ververi_brady_syndrome",
+        "MiFts": 24.83491,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17037,
+        "Symbol": "VRY001",
+        "Description": "very long-chain acyl-coenzyme a dehydrogenase deficiency",
+        "TitleCaseName": "Very Long-Chain Acyl-Coenzyme a Dehydrogenase Deficiency",
+        "Slug": "very_long_chain_acyl_coenzyme_a_dehydrogenase_deficiency",
+        "MiFts": 24.74759,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16533,
+        "Symbol": "VSC005",
+        "Description": "vesicoureteral reflux",
+        "TitleCaseName": "Vesicoureteral Reflux",
+        "Slug": "vesicoureteral_reflux",
+        "MiFts": 46.5785,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1666,
+        "Symbol": "VSC019",
+        "Description": "vesicoureteral reflux 1",
+        "TitleCaseName": "Vesicoureteral Reflux 1",
+        "Slug": "vesicoureteral_reflux_1",
+        "MiFts": 28.546074,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5634,
+        "Symbol": "VSC020",
+        "Description": "vesicoureteral reflux 2",
+        "TitleCaseName": "Vesicoureteral Reflux 2",
+        "Slug": "vesicoureteral_reflux_2",
+        "MiFts": 26.106813,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6486,
+        "Symbol": "VSC025",
+        "Description": "vesicoureteral reflux 3",
+        "TitleCaseName": "Vesicoureteral Reflux 3",
+        "Slug": "vesicoureteral_reflux_3",
+        "MiFts": 26.981745,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6810,
+        "Symbol": "VSC040",
+        "Description": "vesicoureteral reflux 4",
+        "TitleCaseName": "Vesicoureteral Reflux 4",
+        "Slug": "vesicoureteral_reflux_4",
+        "MiFts": 11.431629,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6811,
+        "Symbol": "VSC042",
+        "Description": "vesicoureteral reflux 5",
+        "TitleCaseName": "Vesicoureteral Reflux 5",
+        "Slug": "vesicoureteral_reflux_5",
+        "MiFts": 11.771615,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6812,
+        "Symbol": "VSC043",
+        "Description": "vesicoureteral reflux 6",
+        "TitleCaseName": "Vesicoureteral Reflux 6",
+        "Slug": "vesicoureteral_reflux_6",
+        "MiFts": 12.316239,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7300,
+        "Symbol": "VSC041",
+        "Description": "vesicoureteral reflux 7",
+        "TitleCaseName": "Vesicoureteral Reflux 7",
+        "Slug": "vesicoureteral_reflux_7",
+        "MiFts": 12.132014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7564,
+        "Symbol": "VSC046",
+        "Description": "vesicoureteral reflux 8",
+        "TitleCaseName": "Vesicoureteral Reflux 8",
+        "Slug": "vesicoureteral_reflux_8",
+        "MiFts": 24.821564,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 8
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3803,
+        "Symbol": "VSC055",
+        "Description": "vesicoureteral reflux, x-linked",
+        "TitleCaseName": "Vesicoureteral Reflux, X-Linked",
+        "Slug": "vesicoureteral_reflux_x_linked",
+        "MiFts": 9.039789,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14033,
+        "Symbol": "VST004",
+        "Description": "vestibular disease",
+        "TitleCaseName": "Vestibular Disease",
+        "Slug": "vestibular_disease",
+        "MiFts": 42.14178,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10507,
+        "Symbol": "VST005",
+        "Description": "vestibular gland benign neoplasm",
+        "TitleCaseName": "Vestibular Gland Benign Neoplasm",
+        "Slug": "vestibular_gland_benign_neoplasm",
+        "MiFts": 22.254684,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12669,
+        "Symbol": "VST001",
+        "Description": "vestibular neuronitis",
+        "TitleCaseName": "Vestibular Neuronitis",
+        "Slug": "vestibular_neuronitis",
+        "MiFts": 35.373615,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13071,
+        "Symbol": "VST003",
+        "Description": "vestibular nystagmus",
+        "TitleCaseName": "Vestibular Nystagmus",
+        "Slug": "vestibular_nystagmus",
+        "MiFts": 28.690008,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16394,
+        "Symbol": "VST002",
+        "Description": "vestibule of mouth cancer",
+        "TitleCaseName": "Vestibule of Mouth Cancer",
+        "Slug": "vestibule_of_mouth_cancer",
+        "MiFts": 6.2382503,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1668,
+        "Symbol": "VST008",
+        "Description": "vestibulocochlear dysfunction, progressive",
+        "TitleCaseName": "Vestibulocochlear Dysfunction, Progressive",
+        "Slug": "vestibulocochlear_dysfunction_progressive",
+        "MiFts": 9.343028,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12661,
+        "Symbol": "VST006",
+        "Description": "vestibulocochlear nerve disease",
+        "TitleCaseName": "Vestibulocochlear Nerve Disease",
+        "Slug": "vestibulocochlear_nerve_disease",
+        "MiFts": 29.390432,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3533,
+        "Symbol": "VXS001",
+        "Description": "vexas syndrome",
+        "TitleCaseName": "Vexas Syndrome",
+        "Slug": "vexas_syndrome",
+        "MiFts": 60.186398,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 450,
+        "Symbol": "VBR001",
+        "Description": "vibratory urticaria",
+        "TitleCaseName": "Vibratory Urticaria",
+        "Slug": "vibratory_urticaria",
+        "MiFts": 46.046696,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2457,
+        "Symbol": "VCS001",
+        "Description": "vici syndrome",
+        "TitleCaseName": "Vici Syndrome",
+        "Slug": "vici_syndrome",
+        "MiFts": 60.924335,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15586,
+        "Symbol": "VLL002",
+        "Description": "villoglandular endometrial endometrioid adenocarcinoma",
+        "TitleCaseName": "Villoglandular Endometrial Endometrioid Adenocarcinoma",
+        "Slug": "villoglandular_endometrial_endometrioid_adenocarcinoma",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16134,
+        "Symbol": "VLL004",
+        "Description": "villoglandular variant cervical mucinous adenocarcinoma",
+        "TitleCaseName": "Villoglandular Variant Cervical Mucinous Adenocarcinoma",
+        "Slug": "villoglandular_variant_cervical_mucinous_adenocarcinoma",
+        "MiFts": 6.422476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16631,
+        "Symbol": "VLL003",
+        "Description": "villonodular synovitis",
+        "TitleCaseName": "Villonodular Synovitis",
+        "Slug": "villonodular_synovitis",
+        "MiFts": 36.215923,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14731,
+        "Symbol": "VLL001",
+        "Description": "villous adenocarcinoma",
+        "TitleCaseName": "Villous Adenocarcinoma",
+        "Slug": "villous_adenocarcinoma",
+        "MiFts": 19.939346,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10376,
+        "Symbol": "VLL006",
+        "Description": "villous adenoma",
+        "TitleCaseName": "Villous Adenoma",
+        "Slug": "villous_adenoma",
+        "MiFts": 41.314293,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15083,
+        "Symbol": "VPM001",
+        "Description": "vipoma",
+        "TitleCaseName": "Vipoma",
+        "Slug": "vipoma",
+        "MiFts": 53.31782,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15468,
+        "Symbol": "VRL007",
+        "Description": "viral encephalitis",
+        "TitleCaseName": "Viral Encephalitis",
+        "Slug": "viral_encephalitis",
+        "MiFts": 52.98577,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15420,
+        "Symbol": "VRL006",
+        "Description": "viral esophagitis",
+        "TitleCaseName": "Viral Esophagitis",
+        "Slug": "viral_esophagitis",
+        "MiFts": 24.680452,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16265,
+        "Symbol": "VRL008",
+        "Description": "viral exanthem",
+        "TitleCaseName": "Viral Exanthem",
+        "Slug": "viral_exanthem",
+        "MiFts": 41.034046,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13554,
+        "Symbol": "VRL009",
+        "Description": "viral gastritis",
+        "TitleCaseName": "Viral Gastritis",
+        "Slug": "viral_gastritis",
+        "MiFts": 15.343252,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19339,
+        "Symbol": "VRL017",
+        "Description": "viral hemorrhagic fever",
+        "TitleCaseName": "Viral Hemorrhagic Fever",
+        "Slug": "viral_hemorrhagic_fever",
+        "MiFts": 30.214214,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13393,
+        "Symbol": "VRL010",
+        "Description": "viral hepatitis",
+        "TitleCaseName": "Viral Hepatitis",
+        "Slug": "viral_hepatitis",
+        "MiFts": 49.325024,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 9
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16436,
+        "Symbol": "VRL011",
+        "Description": "viral infectious disease",
+        "TitleCaseName": "Viral Infectious Disease",
+        "Slug": "viral_infectious_disease",
+        "MiFts": 63.815475,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12586,
+        "Symbol": "VRL004",
+        "Description": "viral labyrinthitis",
+        "TitleCaseName": "Viral Labyrinthitis",
+        "Slug": "viral_labyrinthitis",
+        "MiFts": 34.48211,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14036,
+        "Symbol": "VRL001",
+        "Description": "viral laryngitis",
+        "TitleCaseName": "Viral Laryngitis",
+        "Slug": "viral_laryngitis",
+        "MiFts": 27.315367,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11930,
+        "Symbol": "VRL012",
+        "Description": "viral meningitis",
+        "TitleCaseName": "Viral Meningitis",
+        "Slug": "viral_meningitis",
+        "MiFts": 50.895878,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20340,
+        "Symbol": "VRL025",
+        "Description": "viral myositis",
+        "TitleCaseName": "Viral Myositis",
+        "Slug": "viral_myositis",
+        "MiFts": 15.060691,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11999,
+        "Symbol": "VRL005",
+        "Description": "viral pneumonia",
+        "TitleCaseName": "Viral Pneumonia",
+        "Slug": "viral_pneumonia",
+        "MiFts": 56.869217,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 1
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1670,
+        "Symbol": "VRS003",
+        "Description": "virus rd114 rna complementarity",
+        "TitleCaseName": "Virus Rd114 Rna Complementarity",
+        "Slug": "virus_rd114_rna_complementarity",
+        "MiFts": 3.5019238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19340,
+        "Symbol": "VRS002",
+        "Description": "virus-associated trichodysplasia spinulosa",
+        "TitleCaseName": "Virus-Associated Trichodysplasia Spinulosa",
+        "Slug": "virus_associated_trichodysplasia_spinulosa",
+        "MiFts": 29.368465,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20274,
+        "Symbol": "VSC036",
+        "Description": "visceral calciphylaxis",
+        "TitleCaseName": "Visceral Calciphylaxis",
+        "Slug": "visceral_calciphylaxis",
+        "MiFts": 10.305634,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10213,
+        "Symbol": "VSC013",
+        "Description": "visceral heterotaxy",
+        "TitleCaseName": "Visceral Heterotaxy",
+        "Slug": "visceral_heterotaxy",
+        "MiFts": 55.625885,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9214,
+        "Symbol": "VSC069",
+        "Description": "visceral leiomyopathy, african degenerative",
+        "TitleCaseName": "Visceral Leiomyopathy, African Degenerative",
+        "Slug": "visceral_leiomyopathy_african_degenerative",
+        "MiFts": 10.780544,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16380,
+        "Symbol": "VSC003",
+        "Description": "visceral leishmaniasis",
+        "TitleCaseName": "Visceral Leishmaniasis",
+        "Slug": "visceral_leishmaniasis",
+        "MiFts": 53.640278,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21791,
+        "Symbol": "VSC062",
+        "Description": "visceral malformation of the liver, biliary tract, pancreas or spleen",
+        "TitleCaseName": "Visceral Malformation of the Liver, Biliary Tract, Pancreas or Spleen",
+        "Slug": "visceral_malformation_of_the_liver_biliary_tract_pancreas_or_spleen",
+        "MiFts": 6.647949,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 974,
+        "Symbol": "VSC065",
+        "Description": "visceral myopathy 1",
+        "TitleCaseName": "Visceral Myopathy 1",
+        "Slug": "visceral_myopathy_1",
+        "MiFts": 48.153885,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9185,
+        "Symbol": "VSC066",
+        "Description": "visceral myopathy 2",
+        "TitleCaseName": "Visceral Myopathy 2",
+        "Slug": "visceral_myopathy_2",
+        "MiFts": 28.177477,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3177,
+        "Symbol": "VSC049",
+        "Description": "visceral myopathy, familial, with external ophthalmoplegia",
+        "TitleCaseName": "Visceral Myopathy, Familial, with External Ophthalmoplegia",
+        "Slug": "visceral_myopathy_familial_with_external_ophthalmoplegia",
+        "MiFts": 23.46842,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2470,
+        "Symbol": "VSC067",
+        "Description": "visceral neuropathy, familial, 1, autosomal recessive",
+        "TitleCaseName": "Visceral Neuropathy, Familial, 1, Autosomal Recessive",
+        "Slug": "visceral_neuropathy_familial_1_autosomal_recessive",
+        "MiFts": 28.216421,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9244,
+        "Symbol": "VSC070",
+        "Description": "visceral neuropathy, familial, 2, autosomal recessive",
+        "TitleCaseName": "Visceral Neuropathy, Familial, 2, Autosomal Recessive",
+        "Slug": "visceral_neuropathy_familial_2_autosomal_recessive",
+        "MiFts": 21.56559,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5371,
+        "Symbol": "VSC068",
+        "Description": "visceral neuropathy, familial, 3, autosomal dominant",
+        "TitleCaseName": "Visceral Neuropathy, Familial, 3, Autosomal Dominant",
+        "Slug": "visceral_neuropathy_familial_3_autosomal_dominant",
+        "MiFts": 19.005438,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19341,
+        "Symbol": "VSC048",
+        "Description": "visceral neuropathy-brain anomalies-facial dysmorphism-developmental delay syndrome",
+        "TitleCaseName": "Visceral Neuropathy-Brain Anomalies-Facial Dysmorphism-Developmental Delay Syndrome",
+        "Slug": "visceral_neuropathy_brain_anomalies_facial_dysmorphism_developmental_delay_syndrome",
+        "MiFts": 16.102104,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2230,
+        "Symbol": "VSC053",
+        "Description": "visceral steatosis, congenital",
+        "TitleCaseName": "Visceral Steatosis, Congenital",
+        "Slug": "visceral_steatosis_congenital",
+        "MiFts": 40.09725,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9250,
+        "Symbol": "VSS004",
+        "Description": "viss syndrome",
+        "TitleCaseName": "Viss Syndrome",
+        "Slug": "viss_syndrome",
+        "MiFts": 30.72444,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9007,
+        "Symbol": "VSS003",
+        "Description": "vissers-bodmer syndrome",
+        "TitleCaseName": "Vissers-Bodmer Syndrome",
+        "Slug": "vissers_bodmer_syndrome",
+        "MiFts": 38.706932,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10560,
+        "Symbol": "VSL003",
+        "Description": "visual agnosia",
+        "TitleCaseName": "Visual Agnosia",
+        "Slug": "visual_agnosia",
+        "MiFts": 37.364662,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15147,
+        "Symbol": "VSL004",
+        "Description": "visual cortex disease",
+        "TitleCaseName": "Visual Cortex Disease",
+        "Slug": "visual_cortex_disease",
+        "MiFts": 24.271833,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12436,
+        "Symbol": "VSL002",
+        "Description": "visual epilepsy",
+        "TitleCaseName": "Visual Epilepsy",
+        "Slug": "visual_epilepsy",
+        "MiFts": 48.58934,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8609,
+        "Symbol": "VSL013",
+        "Description": "visual impairment and progressive phthisis bulbi",
+        "TitleCaseName": "Visual Impairment and Progressive Phthisis Bulbi",
+        "Slug": "visual_impairment_and_progressive_phthisis_bulbi",
+        "MiFts": 36.362072,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19342,
+        "Symbol": "VSL006",
+        "Description": "visual pathway and hypothalamic glioma, childhood",
+        "TitleCaseName": "Visual Pathway and Hypothalamic Glioma, Childhood",
+        "Slug": "visual_pathway_and_hypothalamic_glioma_childhood",
+        "MiFts": 1.4007695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13022,
+        "Symbol": "VSL005",
+        "Description": "visual pathway disease",
+        "TitleCaseName": "Visual Pathway Disease",
+        "Slug": "visual_pathway_disease",
+        "MiFts": 26.438663,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19343,
+        "Symbol": "VSL012",
+        "Description": "visual snow syndrome",
+        "TitleCaseName": "Visual Snow Syndrome",
+        "Slug": "visual_snow_syndrome",
+        "MiFts": 25.227276,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10561,
+        "Symbol": "VSL001",
+        "Description": "visual verbal agnosia",
+        "TitleCaseName": "Visual Verbal Agnosia",
+        "Slug": "visual_verbal_agnosia",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22226,
+        "Symbol": "VTM034",
+        "Description": "vitamin b12- and folate-independent constitutional megaloblastic anemia",
+        "TitleCaseName": "Vitamin B12- and Folate-Independent Constitutional Megaloblastic Anemia",
+        "Slug": "vitamin_b12_and_folate_independent_constitutional_megaloblastic_anemia",
+        "MiFts": 3.5019238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10299,
+        "Symbol": "VTM002",
+        "Description": "vitamin b12 deficiency",
+        "TitleCaseName": "Vitamin B12 Deficiency",
+        "Slug": "vitamin_b12_deficiency",
+        "MiFts": 51.695885,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6021,
+        "Symbol": "VTM031",
+        "Description": "vitamin b12 plasma level quantitative trait locus 1",
+        "TitleCaseName": "Vitamin B12 Plasma Level Quantitative Trait Locus 1",
+        "Slug": "vitamin_b12_plasma_level_quantitative_trait_locus_1",
+        "MiFts": 15.117779,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19344,
+        "Symbol": "VTM024",
+        "Description": "vitamin b12-responsive methylmalonic acidemia",
+        "TitleCaseName": "Vitamin B12-Responsive Methylmalonic Acidemia",
+        "Slug": "vitamin_b12_responsive_methylmalonic_acidemia",
+        "MiFts": 36.358456,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19345,
+        "Symbol": "VTM025",
+        "Description": "vitamin b12-unresponsive methylmalonic acidemia",
+        "TitleCaseName": "Vitamin B12-Unresponsive Methylmalonic Acidemia",
+        "Slug": "vitamin_b12_unresponsive_methylmalonic_acidemia",
+        "MiFts": 28.30745,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6177,
+        "Symbol": "VTM032",
+        "Description": "vitamin b6 plasma level quantitative trait locus 1",
+        "TitleCaseName": "Vitamin B6 Plasma Level Quantitative Trait Locus 1",
+        "Slug": "vitamin_b6_plasma_level_quantitative_trait_locus_1",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2923,
+        "Symbol": "VTM026",
+        "Description": "vitamin d hydroxylation-deficient rickets, type 1a",
+        "TitleCaseName": "Vitamin D Hydroxylation-Deficient Rickets, Type 1a",
+        "Slug": "vitamin_d_hydroxylation_deficient_rickets_type_1a",
+        "MiFts": 60.771786,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3860,
+        "Symbol": "VTM029",
+        "Description": "vitamin d hydroxylation-deficient rickets, type 1b",
+        "TitleCaseName": "Vitamin D Hydroxylation-Deficient Rickets, Type 1b",
+        "Slug": "vitamin_d_hydroxylation_deficient_rickets_type_1b",
+        "MiFts": 52.736397,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11271,
+        "Symbol": "VTM036",
+        "Description": "vitamin d-dependent rickets",
+        "TitleCaseName": "Vitamin D-Dependent Rickets",
+        "Slug": "vitamin_d_dependent_rickets",
+        "MiFts": 40.868538,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11272,
+        "Symbol": "VTM037",
+        "Description": "vitamin d-dependent rickets type 2b",
+        "TitleCaseName": "Vitamin D-Dependent Rickets Type 2b",
+        "Slug": "vitamin_d_dependent_rickets_type_2b",
+        "MiFts": 21.486208,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3182,
+        "Symbol": "VTM027",
+        "Description": "vitamin d-dependent rickets, type 2a",
+        "TitleCaseName": "Vitamin D-Dependent Rickets, Type 2a",
+        "Slug": "vitamin_d_dependent_rickets_type_2a",
+        "MiFts": 64.51142,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3979,
+        "Symbol": "VTM030",
+        "Description": "vitamin d-dependent rickets, type 2b, with normal vitamin d receptor",
+        "TitleCaseName": "Vitamin D-Dependent Rickets, Type 2b, with Normal Vitamin D Receptor",
+        "Slug": "vitamin_d_dependent_rickets_type_2b_with_normal_vitamin_d_receptor",
+        "MiFts": 16.994446,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9031,
+        "Symbol": "VTM035",
+        "Description": "vitamin d-dependent rickets, type 3",
+        "TitleCaseName": "Vitamin D-Dependent Rickets, Type 3",
+        "Slug": "vitamin_d_dependent_rickets_type_3",
+        "MiFts": 30.955862,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 2
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19921,
+        "Symbol": "VTM038",
+        "Description": "vitamin k antagonist embryofetopathy",
+        "TitleCaseName": "Vitamin K Antagonist Embryofetopathy",
+        "Slug": "vitamin_k_antagonist_embryofetopathy",
+        "MiFts": 24.588251,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12250,
+        "Symbol": "VTM033",
+        "Description": "vitamin k deficiency bleeding",
+        "TitleCaseName": "Vitamin K Deficiency Bleeding",
+        "Slug": "vitamin_k_deficiency_bleeding",
+        "MiFts": 51.0555,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3183,
+        "Symbol": "VTM009",
+        "Description": "vitamin k-dependent clotting factors, combined deficiency of, 1",
+        "TitleCaseName": "Vitamin K-Dependent Clotting Factors, Combined Deficiency of, 1",
+        "Slug": "vitamin_k_dependent_clotting_factors_combined_deficiency_of_1",
+        "MiFts": 49.077442,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4897,
+        "Symbol": "VTM010",
+        "Description": "vitamin k-dependent clotting factors, combined deficiency of, 2",
+        "TitleCaseName": "Vitamin K-Dependent Clotting Factors, Combined Deficiency of, 2",
+        "Slug": "vitamin_k_dependent_clotting_factors_combined_deficiency_of_2",
+        "MiFts": 37.791256,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10296,
+        "Symbol": "VTM003",
+        "Description": "vitamin metabolic disorder",
+        "TitleCaseName": "Vitamin Metabolic Disorder",
+        "Slug": "vitamin_metabolic_disorder",
+        "MiFts": 24.93615,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10268,
+        "Symbol": "VTL001",
+        "Description": "vitelliform macular dystrophy",
+        "TitleCaseName": "Vitelliform Macular Dystrophy",
+        "Slug": "vitelliform_macular_dystrophy",
+        "MiFts": 48.820614,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3185,
+        "Symbol": "VTL011",
+        "Description": "vitiligo, progressive, with impaired intellectual development and urethral duplication",
+        "TitleCaseName": "Vitiligo, Progressive, with Impaired Intellectual Development and Urethral Duplication",
+        "Slug": "vitiligo_progressive_with_impaired_intellectual_development_and_urethral_duplication",
+        "MiFts": 8.933329,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4733,
+        "Symbol": "VTL004",
+        "Description": "vitiligo-associated multiple autoimmune disease susceptibility 1",
+        "TitleCaseName": "Vitiligo-Associated Multiple Autoimmune Disease Susceptibility 1",
+        "Slug": "vitiligo_associated_multiple_autoimmune_disease_susceptibility_1",
+        "MiFts": 60.786037,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1673,
+        "Symbol": "VTL009",
+        "Description": "vitiligo-associated multiple autoimmune disease susceptibility 6",
+        "TitleCaseName": "Vitiligo-Associated Multiple Autoimmune Disease Susceptibility 6",
+        "Slug": "vitiligo_associated_multiple_autoimmune_disease_susceptibility_6",
+        "MiFts": 37.9983,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19346,
+        "Symbol": "VTR008",
+        "Description": "vitreoretinal degeneration",
+        "TitleCaseName": "Vitreoretinal Degeneration",
+        "Slug": "vitreoretinal_degeneration",
+        "MiFts": 31.865305,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1675,
+        "Symbol": "VTR018",
+        "Description": "vitreoretinal degeneration, snowflake type",
+        "TitleCaseName": "Vitreoretinal Degeneration, Snowflake Type",
+        "Slug": "vitreoretinal_degeneration_snowflake_type",
+        "MiFts": 42.77137,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13130,
+        "Symbol": "VTR001",
+        "Description": "vitreoretinal dystrophy",
+        "TitleCaseName": "Vitreoretinal Dystrophy",
+        "Slug": "vitreoretinal_dystrophy",
+        "MiFts": 20.23266,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1674,
+        "Symbol": "VTR010",
+        "Description": "vitreoretinochoroidopathy",
+        "TitleCaseName": "Vitreoretinochoroidopathy",
+        "Slug": "vitreoretinochoroidopathy",
+        "MiFts": 52.549133,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22140,
+        "Symbol": "VTR007",
+        "Description": "vitreoretinopathy",
+        "TitleCaseName": "Vitreoretinopathy",
+        "Slug": "vitreoretinopathy",
+        "MiFts": 50.39246,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9133,
+        "Symbol": "VTR011",
+        "Description": "vitreoretinopathy with phalangeal epiphyseal dysplasia",
+        "TitleCaseName": "Vitreoretinopathy with Phalangeal Epiphyseal Dysplasia",
+        "Slug": "vitreoretinopathy_with_phalangeal_epiphyseal_dysplasia",
+        "MiFts": 24.372887,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1676,
+        "Symbol": "VTR013",
+        "Description": "vitreoretinopathy, neovascular inflammatory",
+        "TitleCaseName": "Vitreoretinopathy, Neovascular Inflammatory",
+        "Slug": "vitreoretinopathy_neovascular_inflammatory",
+        "MiFts": 64.26867,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16564,
+        "Symbol": "VTR004",
+        "Description": "vitreous abscess",
+        "TitleCaseName": "Vitreous Abscess",
+        "Slug": "vitreous_abscess",
+        "MiFts": 27.471079,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16566,
+        "Symbol": "VTR003",
+        "Description": "vitreous detachment",
+        "TitleCaseName": "Vitreous Detachment",
+        "Slug": "vitreous_detachment",
+        "MiFts": 45.34689,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16562,
+        "Symbol": "VTR005",
+        "Description": "vitreous disease",
+        "TitleCaseName": "Vitreous Disease",
+        "Slug": "vitreous_disease",
+        "MiFts": 37.38041,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12426,
+        "Symbol": "VTR002",
+        "Description": "vitreous syneresis",
+        "TitleCaseName": "Vitreous Syneresis",
+        "Slug": "vitreous_syneresis",
+        "MiFts": 30.092537,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19347,
+        "Symbol": "VCL009",
+        "Description": "vocal cord and pharyngeal distal myopathy",
+        "TitleCaseName": "Vocal Cord and Pharyngeal Distal Myopathy",
+        "Slug": "vocal_cord_and_pharyngeal_distal_myopathy",
+        "MiFts": 22.378193,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1677,
+        "Symbol": "VCL007",
+        "Description": "vocal cord paralysis and ptosis",
+        "TitleCaseName": "Vocal Cord Paralysis and Ptosis",
+        "Slug": "vocal_cord_paralysis_and_ptosis",
+        "MiFts": 18.325062,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12562,
+        "Symbol": "VGT001",
+        "Description": "vogt-koyanagi-harada disease",
+        "TitleCaseName": "Vogt-Koyanagi-Harada Disease",
+        "Slug": "vogt_koyanagi_harada_disease",
+        "MiFts": 57.95625,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 419,
+        "Symbol": "VHW001",
+        "Description": "vohwinkel syndrome",
+        "TitleCaseName": "Vohwinkel Syndrome",
+        "Slug": "vohwinkel_syndrome",
+        "MiFts": 54.408886,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4438,
+        "Symbol": "VHW003",
+        "Description": "vohwinkel syndrome, variant form",
+        "TitleCaseName": "Vohwinkel Syndrome, Variant Form",
+        "Slug": "vohwinkel_syndrome_variant_form",
+        "MiFts": 34.08242,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15090,
+        "Symbol": "VLK001",
+        "Description": "volkmann contracture",
+        "TitleCaseName": "Volkmann Contracture",
+        "Slug": "volkmann_contracture",
+        "MiFts": 26.605837,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1678,
+        "Symbol": "VLV047",
+        "Description": "volvulus of midgut",
+        "TitleCaseName": "Volvulus of Midgut",
+        "Slug": "volvulus_of_midgut",
+        "MiFts": 57.447807,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14881,
+        "Symbol": "VNC001",
+        "Description": "von economo's disease",
+        "TitleCaseName": "Von Economo's Disease",
+        "Slug": "von_economos_disease",
+        "MiFts": 43.99646,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1679,
+        "Symbol": "VNH007",
+        "Description": "von hippel-lindau syndrome",
+        "TitleCaseName": "Von Hippel-Lindau Syndrome",
+        "Slug": "von_hippel_lindau_syndrome",
+        "MiFts": 79.15847,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1345,
+        "Symbol": "VNW004",
+        "Description": "von willebrand disease, platelet-type",
+        "TitleCaseName": "Von Willebrand Disease, Platelet-Type",
+        "Slug": "von_willebrand_disease_platelet_type",
+        "MiFts": 47.802433,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1680,
+        "Symbol": "VNW005",
+        "Description": "von willebrand disease, type 1",
+        "TitleCaseName": "Von Willebrand Disease, Type 1",
+        "Slug": "von_willebrand_disease_type_1",
+        "MiFts": 52.46673,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6432,
+        "Symbol": "VNW010",
+        "Description": "von willebrand disease, type 2",
+        "TitleCaseName": "Von Willebrand Disease, Type 2",
+        "Slug": "von_willebrand_disease_type_2",
+        "MiFts": 55.28034,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3187,
+        "Symbol": "VNW008",
+        "Description": "von willebrand disease, type 3",
+        "TitleCaseName": "Von Willebrand Disease, Type 3",
+        "Slug": "von_willebrand_disease_type_3",
+        "MiFts": 55.133533,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3804,
+        "Symbol": "VNW009",
+        "Description": "von willebrand disease, x-linked form",
+        "TitleCaseName": "Von Willebrand Disease, X-Linked Form",
+        "Slug": "von_willebrand_disease_x_linked_form",
+        "MiFts": 8.048718,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12636,
+        "Symbol": "VNW001",
+        "Description": "von willebrand's disease",
+        "TitleCaseName": "Von Willebrand's Disease",
+        "Slug": "von_willebrands_disease",
+        "MiFts": 69.02014,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12096,
+        "Symbol": "VYR001",
+        "Description": "voyeurism",
+        "TitleCaseName": "Voyeurism",
+        "Slug": "voyeurism",
+        "MiFts": 21.98949,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19348,
+        "Symbol": "VPS004",
+        "Description": "vps11-related autosomal recessive hypomyelinating leukodystrophy",
+        "TitleCaseName": "Vps11-Related Autosomal Recessive Hypomyelinating Leukodystrophy",
+        "Slug": "vps11_related_autosomal_recessive_hypomyelinating_leukodystrophy",
+        "MiFts": 17.665133,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 28
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17034,
+        "Symbol": "VPS006",
+        "Description": "vps13a disease",
+        "TitleCaseName": "Vps13a Disease",
+        "Slug": "vps13a_disease",
+        "MiFts": 14.525549,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17035,
+        "Symbol": "VPS005",
+        "Description": "vps13d movement disorder",
+        "TitleCaseName": "Vps13d Movement Disorder",
+        "Slug": "vps13d_movement_disorder",
+        "MiFts": 10.069579,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17036,
+        "Symbol": "VPS003",
+        "Description": "vps35-related parkinson disease",
+        "TitleCaseName": "Vps35-Related Parkinson Disease",
+        "Slug": "vps35_related_parkinson_disease",
+        "MiFts": 9.913819,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 28
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7498,
+        "Symbol": "VLT001",
+        "Description": "vulto-van silfhout-de vries syndrome",
+        "TitleCaseName": "Vulto-Van Silfhout-De Vries Syndrome",
+        "Slug": "vulto_van_silfhout_de_vries_syndrome",
+        "MiFts": 33.037563,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10843,
+        "Symbol": "VLT002",
+        "Description": "vulto-van silfout-de vries syndrome",
+        "TitleCaseName": "Vulto-Van Silfout-De Vries Syndrome",
+        "Slug": "vulto_van_silfout_de_vries_syndrome",
+        "MiFts": 19.075571,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13481,
+        "Symbol": "VLV031",
+        "Description": "vulva adenocarcinoma",
+        "TitleCaseName": "Vulva Adenocarcinoma",
+        "Slug": "vulva_adenocarcinoma",
+        "MiFts": 24.734116,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14423,
+        "Symbol": "VLV002",
+        "Description": "vulva basal cell carcinoma",
+        "TitleCaseName": "Vulva Basal Cell Carcinoma",
+        "Slug": "vulva_basal_cell_carcinoma",
+        "MiFts": 36.117573,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 12614,
+        "Symbol": "VLV032",
+        "Description": "vulva cancer",
+        "TitleCaseName": "Vulva Cancer",
+        "Slug": "vulva_cancer",
+        "MiFts": 55.730927,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16110,
+        "Symbol": "VLV014",
+        "Description": "vulva fibroepithelial polyp",
+        "TitleCaseName": "Vulva Fibroepithelial Polyp",
+        "Slug": "vulva_fibroepithelial_polyp",
+        "MiFts": 8.048718,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13483,
+        "Symbol": "VLV034",
+        "Description": "vulva squamous cell carcinoma",
+        "TitleCaseName": "Vulva Squamous Cell Carcinoma",
+        "Slug": "vulva_squamous_cell_carcinoma",
+        "MiFts": 42.40082,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14178,
+        "Symbol": "VLV006",
+        "Description": "vulva verrucous carcinoma",
+        "TitleCaseName": "Vulva Verrucous Carcinoma",
+        "Slug": "vulva_verrucous_carcinoma",
+        "MiFts": 17.98982,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13480,
+        "Symbol": "VLV021",
+        "Description": "vulval paget's disease",
+        "TitleCaseName": "Vulval Paget's Disease",
+        "Slug": "vulval_pagets_disease",
+        "MiFts": 32.911964,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21235,
+        "Symbol": "VLV050",
+        "Description": "vulvar adenocarcinoma",
+        "TitleCaseName": "Vulvar Adenocarcinoma",
+        "Slug": "vulvar_adenocarcinoma",
+        "MiFts": 18.674088,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14938,
+        "Symbol": "VLV025",
+        "Description": "vulvar alveolar soft part sarcoma",
+        "TitleCaseName": "Vulvar Alveolar Soft Part Sarcoma",
+        "Slug": "vulvar_alveolar_soft_part_sarcoma",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13466,
+        "Symbol": "VLV018",
+        "Description": "vulvar angiokeratoma",
+        "TitleCaseName": "Vulvar Angiokeratoma",
+        "Slug": "vulvar_angiokeratoma",
+        "MiFts": 27.066708,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15463,
+        "Symbol": "VLV016",
+        "Description": "vulvar apocrine adenocarcinoma",
+        "TitleCaseName": "Vulvar Apocrine Adenocarcinoma",
+        "Slug": "vulvar_apocrine_adenocarcinoma",
+        "MiFts": 23.398188,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21234,
+        "Symbol": "VLV049",
+        "Description": "vulvar basal cell carcinoma",
+        "TitleCaseName": "Vulvar Basal Cell Carcinoma",
+        "Slug": "vulvar_basal_cell_carcinoma",
+        "MiFts": 14.471194,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15685,
+        "Symbol": "VLV003",
+        "Description": "vulvar basaloid squamous cell carcinoma",
+        "TitleCaseName": "Vulvar Basaloid Squamous Cell Carcinoma",
+        "Slug": "vulvar_basaloid_squamous_cell_carcinoma",
+        "MiFts": 6.012777,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10522,
+        "Symbol": "VLV035",
+        "Description": "vulvar benign neoplasm",
+        "TitleCaseName": "Vulvar Benign Neoplasm",
+        "Slug": "vulvar_benign_neoplasm",
+        "MiFts": 13.070425,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15592,
+        "Symbol": "VLV013",
+        "Description": "vulvar childhood botryoid-type embryonal rhabdomyosarcoma",
+        "TitleCaseName": "Vulvar Childhood Botryoid-Type Embryonal Rhabdomyosarcoma",
+        "Slug": "vulvar_childhood_botryoid_type_embryonal_rhabdomyosarcoma",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15876,
+        "Symbol": "VLV024",
+        "Description": "vulvar clear cell hidradenocarcinoma",
+        "TitleCaseName": "Vulvar Clear Cell Hidradenocarcinoma",
+        "Slug": "vulvar_clear_cell_hidradenocarcinoma",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13460,
+        "Symbol": "VLV036",
+        "Description": "vulvar disease",
+        "TitleCaseName": "Vulvar Disease",
+        "Slug": "vulvar_disease",
+        "MiFts": 46.147915,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13151,
+        "Symbol": "VLV015",
+        "Description": "vulvar dystrophy",
+        "TitleCaseName": "Vulvar Dystrophy",
+        "Slug": "vulvar_dystrophy",
+        "MiFts": 19.976093,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15435,
+        "Symbol": "VLV029",
+        "Description": "vulvar eccrine adenocarcinoma",
+        "TitleCaseName": "Vulvar Eccrine Adenocarcinoma",
+        "Slug": "vulvar_eccrine_adenocarcinoma",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15874,
+        "Symbol": "VLV023",
+        "Description": "vulvar eccrine porocarcinoma",
+        "TitleCaseName": "Vulvar Eccrine Porocarcinoma",
+        "Slug": "vulvar_eccrine_porocarcinoma",
+        "MiFts": 24.154406,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13472,
+        "Symbol": "VLV037",
+        "Description": "vulvar glandular tumor",
+        "TitleCaseName": "Vulvar Glandular Tumor",
+        "Slug": "vulvar_glandular_tumor",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14788,
+        "Symbol": "VLV012",
+        "Description": "vulvar granular cell tumor",
+        "TitleCaseName": "Vulvar Granular Cell Tumor",
+        "Slug": "vulvar_granular_cell_tumor",
+        "MiFts": 17.379194,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19814,
+        "Symbol": "VLV044",
+        "Description": "vulvar intraepithelial neoplasia",
+        "TitleCaseName": "Vulvar Intraepithelial Neoplasia",
+        "Slug": "vulvar_intraepithelial_neoplasia",
+        "MiFts": 28.013529,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15640,
+        "Symbol": "VLV007",
+        "Description": "vulvar inverted follicular keratosis",
+        "TitleCaseName": "Vulvar Inverted Follicular Keratosis",
+        "Slug": "vulvar_inverted_follicular_keratosis",
+        "MiFts": 6.9386353,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15792,
+        "Symbol": "VLV001",
+        "Description": "vulvar keratinizing squamous cell carcinoma",
+        "TitleCaseName": "Vulvar Keratinizing Squamous Cell Carcinoma",
+        "Slug": "vulvar_keratinizing_squamous_cell_carcinoma",
+        "MiFts": 24.907253,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15805,
+        "Symbol": "VLV051",
+        "Description": "vulvar keratoacanthoma",
+        "TitleCaseName": "Vulvar Keratoacanthoma",
+        "Slug": "vulvar_keratoacanthoma",
+        "MiFts": 11.325169,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14835,
+        "Symbol": "VLV009",
+        "Description": "vulvar leiomyoma",
+        "TitleCaseName": "Vulvar Leiomyoma",
+        "Slug": "vulvar_leiomyoma",
+        "MiFts": 33.822475,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14916,
+        "Symbol": "VLV026",
+        "Description": "vulvar leiomyosarcoma",
+        "TitleCaseName": "Vulvar Leiomyosarcoma",
+        "Slug": "vulvar_leiomyosarcoma",
+        "MiFts": 25.30507,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15164,
+        "Symbol": "VLV005",
+        "Description": "vulvar liposarcoma",
+        "TitleCaseName": "Vulvar Liposarcoma",
+        "Slug": "vulvar_liposarcoma",
+        "MiFts": 7.229321,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13477,
+        "Symbol": "VLV020",
+        "Description": "vulvar melanoma",
+        "TitleCaseName": "Vulvar Melanoma",
+        "Slug": "vulvar_melanoma",
+        "MiFts": 38.75398,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13462,
+        "Symbol": "VLV017",
+        "Description": "vulvar nodular hidradenoma",
+        "TitleCaseName": "Vulvar Nodular Hidradenoma",
+        "Slug": "vulvar_nodular_hidradenoma",
+        "MiFts": 4.9026933,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15806,
+        "Symbol": "VLV028",
+        "Description": "vulvar non-keratinizing squamous cell carcinoma",
+        "TitleCaseName": "Vulvar Non-Keratinizing Squamous Cell Carcinoma",
+        "Slug": "vulvar_non_keratinizing_squamous_cell_carcinoma",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15838,
+        "Symbol": "VLV030",
+        "Description": "vulvar proximal-type epithelioid sarcoma",
+        "TitleCaseName": "Vulvar Proximal-Type Epithelioid Sarcoma",
+        "Slug": "vulvar_proximal_type_epithelioid_sarcoma",
+        "MiFts": 25.010687,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13479,
+        "Symbol": "VLV038",
+        "Description": "vulvar sarcoma",
+        "TitleCaseName": "Vulvar Sarcoma",
+        "Slug": "vulvar_sarcoma",
+        "MiFts": 24.148867,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15200,
+        "Symbol": "VLV004",
+        "Description": "vulvar sebaceous carcinoma",
+        "TitleCaseName": "Vulvar Sebaceous Carcinoma",
+        "Slug": "vulvar_sebaceous_carcinoma",
+        "MiFts": 31.308474,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 15641,
+        "Symbol": "VLV039",
+        "Description": "vulvar seborrheic keratosis",
+        "TitleCaseName": "Vulvar Seborrheic Keratosis",
+        "Slug": "vulvar_seborrheic_keratosis",
+        "MiFts": 22.151463,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13468,
+        "Symbol": "VLV040",
+        "Description": "vulvar squamous papilloma",
+        "TitleCaseName": "Vulvar Squamous Papilloma",
+        "Slug": "vulvar_squamous_papilloma",
+        "MiFts": 10.334098,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13464,
+        "Symbol": "VLV019",
+        "Description": "vulvar syringoma",
+        "TitleCaseName": "Vulvar Syringoma",
+        "Slug": "vulvar_syringoma",
+        "MiFts": 26.238855,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13475,
+        "Symbol": "VLV022",
+        "Description": "vulvar trichoepithelioma",
+        "TitleCaseName": "Vulvar Trichoepithelioma",
+        "Slug": "vulvar_trichoepithelioma",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 14240,
+        "Symbol": "VLV008",
+        "Description": "vulvitis",
+        "TitleCaseName": "Vulvitis",
+        "Slug": "vulvitis",
+        "MiFts": 27.876917,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13537,
+        "Symbol": "VLV011",
+        "Description": "vulvovaginal candidiasis",
+        "TitleCaseName": "Vulvovaginal Candidiasis",
+        "Slug": "vulvovaginal_candidiasis",
+        "MiFts": 49.97002,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21756,
+        "Symbol": "VLV046",
+        "Description": "vulvovaginal gingival syndrome",
+        "TitleCaseName": "Vulvovaginal Gingival Syndrome",
+        "Slug": "vulvovaginal_gingival_syndrome",
+        "MiFts": 19.16408,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20299,
+        "Symbol": "VLV045",
+        "Description": "vulvovaginal rhabdomyosarcoma",
+        "TitleCaseName": "Vulvovaginal Rhabdomyosarcoma",
+        "Slug": "vulvovaginal_rhabdomyosarcoma",
+        "MiFts": 6.9386353,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13538,
+        "Symbol": "VLV010",
+        "Description": "vulvovaginitis",
+        "TitleCaseName": "Vulvovaginitis",
+        "Slug": "vulvovaginitis",
+        "MiFts": 41.68719,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1681,
+        "Symbol": "VLV048",
+        "Description": "vulvovaginitis, allergic seminal",
+        "TitleCaseName": "Vulvovaginitis, Allergic Seminal",
+        "Slug": "vulvovaginitis_allergic_seminal",
+        "MiFts": 7.63902,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 305,
+  "recordsFiltered": 305,
+  "searchMatches": 0,
+  "error": null
+}

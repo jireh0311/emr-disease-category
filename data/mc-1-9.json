@@ -1,0 +1,2888 @@
+{
+  "data": [
+    {
+      "Data": {
+        "MaladyId": 10021,
+        "Symbol": "14P001",
+        "Description": "1,4-phenylenediamine allergic contact dermatitis",
+        "TitleCaseName": "1,4-Phenylenediamine Allergic Contact Dermatitis",
+        "Slug": "14_phenylenediamine_allergic_contact_dermatitis",
+        "MiFts": 18.151087,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17055,
+        "Symbol": "10Q001",
+        "Description": "10q22.3q23.3 microdeletion syndrome",
+        "TitleCaseName": "10q22.3q23.3 Microdeletion Syndrome",
+        "Slug": "10q223q233_microdeletion_syndrome",
+        "MiFts": 15.843499,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17056,
+        "Symbol": "10Q002",
+        "Description": "10q22.3q23.3 microduplication syndrome",
+        "TitleCaseName": "10q22.3q23.3 Microduplication Syndrome",
+        "Slug": "10q223q233_microduplication_syndrome",
+        "MiFts": 16.50088,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17057,
+        "Symbol": "11P002",
+        "Description": "11p15.4 microduplication syndrome",
+        "TitleCaseName": "11p15.4 Microduplication Syndrome",
+        "Slug": "11p154_microduplication_syndrome",
+        "MiFts": 15.226211,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17058,
+        "Symbol": "11Q001",
+        "Description": "11q22.2q22.3 microdeletion syndrome",
+        "TitleCaseName": "11q22.2q22.3 Microdeletion Syndrome",
+        "Slug": "11q222q223_microdeletion_syndrome",
+        "MiFts": 18.957148,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17059,
+        "Symbol": "12Q002",
+        "Description": "12q14 microdeletion syndrome",
+        "TitleCaseName": "12q14 Microdeletion Syndrome",
+        "Slug": "12q14_microdeletion_syndrome",
+        "MiFts": 29.788206,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17060,
+        "Symbol": "12Q001",
+        "Description": "12q15q21.1 microdeletion syndrome",
+        "TitleCaseName": "12q15q21.1 Microdeletion Syndrome",
+        "Slug": "12q15q211_microdeletion_syndrome",
+        "MiFts": 9.379775,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17061,
+        "Symbol": "13Q001",
+        "Description": "13q12.3 microdeletion syndrome",
+        "TitleCaseName": "13q12.3 Microdeletion Syndrome",
+        "Slug": "13q123_microdeletion_syndrome",
+        "MiFts": 19.705822,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17062,
+        "Symbol": "14Q003",
+        "Description": "14q11.2 microduplication syndrome",
+        "TitleCaseName": "14q11.2 Microduplication Syndrome",
+        "Slug": "14q112_microduplication_syndrome",
+        "MiFts": 23.731956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17063,
+        "Symbol": "14Q004",
+        "Description": "14q22q23 microdeletion syndrome",
+        "TitleCaseName": "14q22q23 Microdeletion Syndrome",
+        "Slug": "14q22q23_microdeletion_syndrome",
+        "MiFts": 19.316132,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17064,
+        "Symbol": "14Q005",
+        "Description": "14q24.1q24.3 microdeletion syndrome",
+        "TitleCaseName": "14q24.1q24.3 Microdeletion Syndrome",
+        "Slug": "14q241q243_microdeletion_syndrome",
+        "MiFts": 16.644554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17065,
+        "Symbol": "14Q006",
+        "Description": "14q32 duplication syndrome",
+        "TitleCaseName": "14q32 Duplication Syndrome",
+        "Slug": "14q32_duplication_syndrome",
+        "MiFts": 13.037459,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17066,
+        "Symbol": "15Q005",
+        "Description": "15q overgrowth syndrome",
+        "TitleCaseName": "15q Overgrowth Syndrome",
+        "Slug": "15q_overgrowth_syndrome",
+        "MiFts": 21.653925,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 4
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17067,
+        "Symbol": "15Q004",
+        "Description": "15q11q13 microduplication syndrome",
+        "TitleCaseName": "15q11q13 Microduplication Syndrome",
+        "Slug": "15q11q13_microduplication_syndrome",
+        "MiFts": 24.963856,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17068,
+        "Symbol": "15Q006",
+        "Description": "15q13.3 microduplication syndrome",
+        "TitleCaseName": "15q13.3 Microduplication Syndrome",
+        "Slug": "15q133_microduplication_syndrome",
+        "MiFts": 0.70038474,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16671,
+        "Symbol": "15Q009",
+        "Description": "15q13.3 recurrent deletion",
+        "TitleCaseName": "15q13.3 Recurrent Deletion",
+        "Slug": "15q133_recurrent_deletion",
+        "MiFts": 4.067383,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19440,
+        "Symbol": "16P002",
+        "Description": "16p11.2 deletion syndrome",
+        "TitleCaseName": "16p11.2 Deletion Syndrome",
+        "Slug": "16p112_deletion_syndrome",
+        "MiFts": 21.293446,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19441,
+        "Symbol": "16P008",
+        "Description": "16p11.2 duplication",
+        "TitleCaseName": "16p11.2 Duplication",
+        "Slug": "16p112_duplication",
+        "MiFts": 18.593208,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16672,
+        "Symbol": "16P014",
+        "Description": "16p11.2 recurrent deletion",
+        "TitleCaseName": "16p11.2 Recurrent Deletion",
+        "Slug": "16p112_recurrent_deletion",
+        "MiFts": 1.4007695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17069,
+        "Symbol": "16P005",
+        "Description": "16p11.2p12.2 microduplication syndrome",
+        "TitleCaseName": "16p11.2p12.2 Microduplication Syndrome",
+        "Slug": "16p112p122_microduplication_syndrome",
+        "MiFts": 15.958011,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17070,
+        "Symbol": "16P011",
+        "Description": "16p12.1p12.3 triplication syndrome",
+        "TitleCaseName": "16p12.1p12.3 Triplication Syndrome",
+        "Slug": "16p121p123_triplication_syndrome",
+        "MiFts": 17.503185,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16673,
+        "Symbol": "16P013",
+        "Description": "16p12.2 recurrent deletion",
+        "TitleCaseName": "16p12.2 Recurrent Deletion",
+        "Slug": "16p122_recurrent_deletion",
+        "MiFts": 4.612007,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17071,
+        "Symbol": "16P003",
+        "Description": "16p13.11 microdeletion syndrome",
+        "TitleCaseName": "16p13.11 Microdeletion Syndrome",
+        "Slug": "16p1311_microdeletion_syndrome",
+        "MiFts": 23.576197,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17072,
+        "Symbol": "16P004",
+        "Description": "16p13.11 microduplication syndrome",
+        "TitleCaseName": "16p13.11 Microduplication Syndrome",
+        "Slug": "16p1311_microduplication_syndrome",
+        "MiFts": 21.7677,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17073,
+        "Symbol": "16Q002",
+        "Description": "16q24.1 microdeletion syndrome",
+        "TitleCaseName": "16q24.1 Microdeletion Syndrome",
+        "Slug": "16q241_microdeletion_syndrome",
+        "MiFts": 11.296704,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17074,
+        "Symbol": "16Q001",
+        "Description": "16q24.3 microdeletion syndrome",
+        "TitleCaseName": "16q24.3 Microdeletion Syndrome",
+        "Slug": "16q243_microdeletion_syndrome",
+        "MiFts": 26.256994,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19432,
+        "Symbol": "17L005",
+        "Description": "17 alpha-hydroxylase/17,20-lyase deficiency",
+        "TitleCaseName": "17 Alpha-Hydroxylase/17,20-Lyase Deficiency",
+        "Slug": "17_alpha_hydroxylase_1720_lyase_deficiency_2",
+        "MiFts": 45.7593,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2915,
+        "Symbol": "17B003",
+        "Description": "17-beta hydroxysteroid dehydrogenase iii deficiency",
+        "TitleCaseName": "17-Beta Hydroxysteroid Dehydrogenase Iii Deficiency",
+        "Slug": "17_beta_hydroxysteroid_dehydrogenase_iii_deficiency",
+        "MiFts": 48.84074,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17075,
+        "Symbol": "17Q003",
+        "Description": "17q11.2 microduplication syndrome",
+        "TitleCaseName": "17q11.2 Microduplication Syndrome",
+        "Slug": "17q112_microduplication_syndrome",
+        "MiFts": 17.299812,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16675,
+        "Symbol": "17Q009",
+        "Description": "17q12 recurrent deletion syndrome",
+        "TitleCaseName": "17q12 Recurrent Deletion Syndrome",
+        "Slug": "17q12_recurrent_deletion_syndrome",
+        "MiFts": 15.266359,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16674,
+        "Symbol": "17Q008",
+        "Description": "17q12 recurrent duplication",
+        "TitleCaseName": "17q12 Recurrent Duplication",
+        "Slug": "17q12_recurrent_duplication",
+        "MiFts": 13.037459,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17076,
+        "Symbol": "17Q012",
+        "Description": "17q24.2 microdeletion syndrome",
+        "TitleCaseName": "17q24.2 Microdeletion Syndrome",
+        "Slug": "17q242_microdeletion_syndrome",
+        "MiFts": 22.811535,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22673,
+        "Symbol": "18P001",
+        "Description": "18p deletion syndrome",
+        "TitleCaseName": "18p Deletion Syndrome",
+        "Slug": "18p_deletion_syndrome",
+        "MiFts": 15.737039,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17077,
+        "Symbol": "19P001",
+        "Description": "19p13.12 microdeletion syndrome",
+        "TitleCaseName": "19p13.12 Microdeletion Syndrome",
+        "Slug": "19p1312_microdeletion_syndrome",
+        "MiFts": 17.396154,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17078,
+        "Symbol": "19P002",
+        "Description": "19p13.13 microdeletion syndrome",
+        "TitleCaseName": "19p13.13 Microdeletion Syndrome",
+        "Slug": "19p1313_microdeletion_syndrome",
+        "MiFts": 21.900215,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17079,
+        "Symbol": "19P003",
+        "Description": "19p13.3 microduplication syndrome",
+        "TitleCaseName": "19p13.3 Microduplication Syndrome",
+        "Slug": "19p133_microduplication_syndrome",
+        "MiFts": 18.390274,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10032,
+        "Symbol": "1CH001",
+        "Description": "1-chloro-2,4-dinitrobenzene allergic contact dermatitis",
+        "TitleCaseName": "1-Chloro-2,4-Dinitrobenzene Allergic Contact Dermatitis",
+        "Slug": "1_chloro_24_dinitrobenzene_allergic_contact_dermatitis",
+        "MiFts": 23.228683,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17080,
+        "Symbol": "1P2001",
+        "Description": "1p21.3 microdeletion syndrome",
+        "TitleCaseName": "1p21.3 Microdeletion Syndrome",
+        "Slug": "1p213_microdeletion_syndrome",
+        "MiFts": 16.78527,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17081,
+        "Symbol": "1P3003",
+        "Description": "1p35.2 microdeletion syndrome",
+        "TitleCaseName": "1p35.2 Microdeletion Syndrome",
+        "Slug": "1p352_microdeletion_syndrome",
+        "MiFts": 10.489859,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16670,
+        "Symbol": "1Q2005",
+        "Description": "1q21.1 recurrent deletion",
+        "TitleCaseName": "1q21.1 Recurrent Deletion",
+        "Slug": "1q211_recurrent_deletion",
+        "MiFts": 0.0,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17082,
+        "Symbol": "1Q4001",
+        "Description": "1q44 microdeletion syndrome",
+        "TitleCaseName": "1q44 Microdeletion Syndrome",
+        "Slug": "1q44_microdeletion_syndrome",
+        "MiFts": 19.994217,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7606,
+        "Symbol": "24D001",
+        "Description": "2,4-dienoyl-coa reductase deficiency",
+        "TitleCaseName": "2,4-Dienoyl-Coa Reductase Deficiency",
+        "Slug": "24_dienoyl_coa_reductase_deficiency",
+        "MiFts": 40.192593,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10042,
+        "Symbol": "24D002",
+        "Description": "2,4-dinitrophenyl allergic contact dermatitis",
+        "TitleCaseName": "2,4-Dinitrophenyl Allergic Contact Dermatitis",
+        "Slug": "24_dinitrophenyl_allergic_contact_dermatitis",
+        "MiFts": 4.9026933,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17084,
+        "Symbol": "20P001",
+        "Description": "20p12.3 microdeletion syndrome",
+        "TitleCaseName": "20p12.3 Microdeletion Syndrome",
+        "Slug": "20p123_microdeletion_syndrome",
+        "MiFts": 16.38475,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17085,
+        "Symbol": "20P002",
+        "Description": "20p13 microdeletion syndrome",
+        "TitleCaseName": "20p13 Microdeletion Syndrome",
+        "Slug": "20p13_microdeletion_syndrome",
+        "MiFts": 19.140783,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17086,
+        "Symbol": "20Q003",
+        "Description": "20q11.2 microdeletion syndrome",
+        "TitleCaseName": "20q11.2 Microdeletion Syndrome",
+        "Slug": "20q112_microdeletion_syndrome",
+        "MiFts": 18.509653,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17087,
+        "Symbol": "20Q002",
+        "Description": "20q11.2 microduplication syndrome",
+        "TitleCaseName": "20q11.2 Microduplication Syndrome",
+        "Slug": "20q112_microduplication_syndrome",
+        "MiFts": 15.336917,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17088,
+        "Symbol": "20Q001",
+        "Description": "20q13.33 microdeletion syndrome",
+        "TitleCaseName": "20q13.33 Microdeletion Syndrome",
+        "Slug": "20q1333_microdeletion_syndrome",
+        "MiFts": 16.13238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 16676,
+        "Symbol": "21H002",
+        "Description": "21-hydroxylase-deficient congenital adrenal hyperplasia",
+        "TitleCaseName": "21-Hydroxylase-Deficient Congenital Adrenal Hyperplasia",
+        "Slug": "21_hydroxylase_deficient_congenital_adrenal_hyperplasia",
+        "MiFts": 31.68661,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17089,
+        "Symbol": "21Q001",
+        "Description": "21q22.11q22.12 microdeletion syndrome",
+        "TitleCaseName": "21q22.11q22.12 Microdeletion Syndrome",
+        "Slug": "21q2211q2212_microdeletion_syndrome",
+        "MiFts": 20.508238,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10226,
+        "Symbol": "2HY001",
+        "Description": "2-hydroxyglutaric aciduria",
+        "TitleCaseName": "2-Hydroxyglutaric Aciduria",
+        "Slug": "2_hydroxyglutaric_aciduria",
+        "MiFts": 45.75064,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 3
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17083,
+        "Symbol": "2MT002",
+        "Description": "2-methylacetoacetyl coa thiolase deficiency",
+        "TitleCaseName": "2-Methylacetoacetyl Coa Thiolase Deficiency",
+        "Slug": "2_methylacetoacetyl_coa_thiolase_deficiency",
+        "MiFts": 8.175189,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5448,
+        "Symbol": "2MT003",
+        "Description": "2-methylbutyryl-coa dehydrogenase deficiency",
+        "TitleCaseName": "2-Methylbutyryl-Coa Dehydrogenase Deficiency",
+        "Slug": "2_methylbutyryl_coa_dehydrogenase_deficiency",
+        "MiFts": 38.646378,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17090,
+        "Symbol": "2P1003",
+        "Description": "2p13.2 microdeletion syndrome",
+        "TitleCaseName": "2p13.2 Microdeletion Syndrome",
+        "Slug": "2p132_microdeletion_syndrome",
+        "MiFts": 8.814316,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17091,
+        "Symbol": "2P2001",
+        "Description": "2p21 microdeletion syndrome",
+        "TitleCaseName": "2p21 Microdeletion Syndrome",
+        "Slug": "2p21_microdeletion_syndrome",
+        "MiFts": 25.928991,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17092,
+        "Symbol": "2P2002",
+        "Description": "2p21 microdeletion syndrome without cystinuria",
+        "TitleCaseName": "2p21 Microdeletion Syndrome Without Cystinuria",
+        "Slug": "2p21_microdeletion_syndrome_without_cystinuria",
+        "MiFts": 11.550643,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17093,
+        "Symbol": "2Q2002",
+        "Description": "2q23.1 microduplication syndrome",
+        "TitleCaseName": "2q23.1 Microduplication Syndrome",
+        "Slug": "2q231_microduplication_syndrome",
+        "MiFts": 35.819633,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17094,
+        "Symbol": "2Q2003",
+        "Description": "2q24 microdeletion syndrome",
+        "TitleCaseName": "2q24 Microdeletion Syndrome",
+        "Slug": "2q24_microdeletion_syndrome",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17095,
+        "Symbol": "2Q3005",
+        "Description": "2q31.1 microdeletion syndrome",
+        "TitleCaseName": "2q31.1 Microdeletion Syndrome",
+        "Slug": "2q311_microdeletion_syndrome",
+        "MiFts": 19.939346,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19449,
+        "Symbol": "3BT001",
+        "Description": "3-beta-hydroxysteroid dehydrogenase deficiency",
+        "TitleCaseName": "3-Beta-Hydroxysteroid Dehydrogenase Deficiency",
+        "Slug": "3_beta_hydroxysteroid_dehydrogenase_deficiency",
+        "MiFts": 28.30746,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2522,
+        "Symbol": "3HY007",
+        "Description": "3-hydroxy-3-methylglutaryl-coa lyase deficiency",
+        "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Lyase Deficiency",
+        "Slug": "3_hydroxy_3_methylglutaryl_coa_lyase_deficiency",
+        "MiFts": 54.300095,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17096,
+        "Symbol": "3HY008",
+        "Description": "3-hydroxy-3-methylglutaryl-coa synthase deficiency",
+        "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Synthase Deficiency",
+        "Slug": "3_hydroxy_3_methylglutaryl_coa_synthase_deficiency",
+        "MiFts": 29.539427,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4657,
+        "Symbol": "3HY011",
+        "Description": "3-hydroxy-3-methylglutaryl-coa synthase-2 deficiency",
+        "TitleCaseName": "3-Hydroxy-3-Methylglutaryl-Coa Synthase-2 Deficiency",
+        "Slug": "3_hydroxy_3_methylglutaryl_coa_synthase_2_deficiency_2",
+        "MiFts": 42.43476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2288,
+        "Symbol": "3HY005",
+        "Description": "3-hydroxyacyl-coa dehydrogenase deficiency",
+        "TitleCaseName": "3-Hydroxyacyl-Coa Dehydrogenase Deficiency",
+        "Slug": "3_hydroxyacyl_coa_dehydrogenase_deficiency",
+        "MiFts": 49.750973,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10828,
+        "Symbol": "3HY006",
+        "Description": "3-hydroxyisobutryl-coa hydrolase deficiency",
+        "TitleCaseName": "3-Hydroxyisobutryl-Coa Hydrolase Deficiency",
+        "Slug": "3_hydroxyisobutryl_coa_hydrolase_deficiency",
+        "MiFts": 13.563877,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2376,
+        "Symbol": "3HY001",
+        "Description": "3-hydroxyisobutyric aciduria",
+        "TitleCaseName": "3-Hydroxyisobutyric Aciduria",
+        "Slug": "3_hydroxyisobutyric_aciduria",
+        "MiFts": 25.50429,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2605,
+        "Symbol": "3HY010",
+        "Description": "3-hydroxyisobutyryl-coa hydrolase deficiency",
+        "TitleCaseName": "3-Hydroxyisobutyryl-Coa Hydrolase Deficiency",
+        "Slug": "3_hydroxyisobutyryl_coa_hydrolase_deficiency",
+        "MiFts": 37.284554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10601,
+        "Symbol": "3MC003",
+        "Description": "3mc syndrome",
+        "TitleCaseName": "3mc Syndrome",
+        "Slug": "3mc_syndrome",
+        "MiFts": 56.43111,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2770,
+        "Symbol": "3MC002",
+        "Description": "3mc syndrome 1",
+        "TitleCaseName": "3mc Syndrome 1",
+        "Slug": "3mc_syndrome_1",
+        "MiFts": 44.17183,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2926,
+        "Symbol": "3MC001",
+        "Description": "3mc syndrome 2",
+        "TitleCaseName": "3mc Syndrome 2",
+        "Slug": "3mc_syndrome_2",
+        "MiFts": 50.456657,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2556,
+        "Symbol": "3MC004",
+        "Description": "3mc syndrome 3",
+        "TitleCaseName": "3mc Syndrome 3",
+        "Slug": "3mc_syndrome_3",
+        "MiFts": 31.456701,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1873,
+        "Symbol": "3MT011",
+        "Description": "3-methylcrotonyl-coa carboxylase 1 deficiency",
+        "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase 1 Deficiency",
+        "Slug": "3_methylcrotonyl_coa_carboxylase_1_deficiency_2",
+        "MiFts": 46.290104,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1874,
+        "Symbol": "3MT008",
+        "Description": "3-methylcrotonyl-coa carboxylase 2 deficiency",
+        "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase 2 Deficiency",
+        "Slug": "3_methylcrotonyl_coa_carboxylase_2_deficiency",
+        "MiFts": 43.516174,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10294,
+        "Symbol": "3MT001",
+        "Description": "3-methylcrotonyl-coa carboxylase deficiency",
+        "TitleCaseName": "3-Methylcrotonyl-Coa Carboxylase Deficiency",
+        "Slug": "3_methylcrotonyl_coa_carboxylase_deficiency",
+        "MiFts": 59.89573,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10666,
+        "Symbol": "3MT007",
+        "Description": "3-methylglutaconic aciduria",
+        "TitleCaseName": "3-Methylglutaconic Aciduria",
+        "Slug": "3_methylglutaconic_aciduria",
+        "MiFts": 40.638676,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11521,
+        "Symbol": "3MT027",
+        "Description": "3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia",
+        "TitleCaseName": "3-Methylglutaconic Aciduria with Cataracts, Neurologic Involvement and Neutropenia",
+        "Slug": "3_methylglutaconic_aciduria_with_cataracts_neurologic_involvement_and_neutropenia_2",
+        "MiFts": 32.510895,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7007,
+        "Symbol": "3MT013",
+        "Description": "3-methylglutaconic aciduria with deafness, encephalopathy, and leigh-like syndrome",
+        "TitleCaseName": "3-Methylglutaconic Aciduria with Deafness, Encephalopathy, and Leigh-Like Syndrome",
+        "Slug": "3_methylglutaconic_aciduria_with_deafness_encephalopathy_and_leigh_like_syndrome",
+        "MiFts": 54.426968,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2613,
+        "Symbol": "3MT015",
+        "Description": "3-methylglutaconic aciduria, type i",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type I",
+        "Slug": "3_methylglutaconic_aciduria_type_i_2",
+        "MiFts": 54.938404,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2787,
+        "Symbol": "3MT016",
+        "Description": "3-methylglutaconic aciduria, type iii",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Iii",
+        "Slug": "3_methylglutaconic_aciduria_type_iii",
+        "MiFts": 68.99409,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2614,
+        "Symbol": "3MT019",
+        "Description": "3-methylglutaconic aciduria, type iv",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Iv",
+        "Slug": "3_methylglutaconic_aciduria_type_iv_3",
+        "MiFts": 35.860565,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8293,
+        "Symbol": "3MT023",
+        "Description": "3-methylglutaconic aciduria, type ix",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Ix",
+        "Slug": "3_methylglutaconic_aciduria_type_ix",
+        "MiFts": 29.789469,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5493,
+        "Symbol": "3MT014",
+        "Description": "3-methylglutaconic aciduria, type v",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type V",
+        "Slug": "3_methylglutaconic_aciduria_type_v_2",
+        "MiFts": 52.02471,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9443,
+        "Symbol": "3MT026",
+        "Description": "3-methylglutaconic aciduria, type viia",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viia",
+        "Slug": "3_methylglutaconic_aciduria_type_viia",
+        "MiFts": 27.638832,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7705,
+        "Symbol": "3MT025",
+        "Description": "3-methylglutaconic aciduria, type viib",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viib",
+        "Slug": "3_methylglutaconic_aciduria_type_viib",
+        "MiFts": 40.47349,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8127,
+        "Symbol": "3MT021",
+        "Description": "3-methylglutaconic aciduria, type viii",
+        "TitleCaseName": "3-Methylglutaconic Aciduria, Type Viii",
+        "Slug": "3_methylglutaconic_aciduria_type_viii",
+        "MiFts": 35.077713,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21151,
+        "Symbol": "3MT028",
+        "Description": "3-methylglutaconic aciduria-neonatal cataract-neurologic involvement-congenital neutropenia syndrome",
+        "TitleCaseName": "3-Methylglutaconic Aciduria-Neonatal Cataract-Neurologic Involvement-Congenital Neutropenia Syndrome",
+        "Slug": "3_methylglutaconic_aciduria_neonatal_cataract_neurologic_involvement_congenital_neutropenia_syndrome",
+        "MiFts": 21.222006,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17097,
+        "Symbol": "3P2001",
+        "Description": "3p25.3 microdeletion syndrome",
+        "TitleCaseName": "3p25.3 Microdeletion Syndrome",
+        "Slug": "3p253_microdeletion_syndrome",
+        "MiFts": 18.463839,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17098,
+        "Symbol": "3Q2004",
+        "Description": "3q26 microduplication syndrome",
+        "TitleCaseName": "3q26 Microduplication Syndrome",
+        "Slug": "3q26_microduplication_syndrome",
+        "MiFts": 14.507942,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17099,
+        "Symbol": "3Q2005",
+        "Description": "3q26q27 microdeletion syndrome",
+        "TitleCaseName": "3q26q27 Microdeletion Syndrome",
+        "Slug": "3q26q27_microdeletion_syndrome",
+        "MiFts": 9.039789,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17100,
+        "Symbol": "3Q2006",
+        "Description": "3q27.3 microdeletion syndrome",
+        "TitleCaseName": "3q27.3 Microdeletion Syndrome",
+        "Slug": "3q273_microdeletion_syndrome",
+        "MiFts": 16.71844,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11141,
+        "Symbol": "45X001",
+        "Description": "45,x/46,xy mixed gonadal dysgenesis",
+        "TitleCaseName": "45,x/46,xy Mixed Gonadal Dysgenesis",
+        "Slug": "45x_46xy_mixed_gonadal_dysgenesis",
+        "MiFts": 39.497505,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13186,
+        "Symbol": "46X002",
+        "Description": "46 xx gonadal dysgenesis",
+        "TitleCaseName": "46 Xx Gonadal Dysgenesis",
+        "Slug": "46_xx_gonadal_dysgenesis",
+        "MiFts": 52.97324,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19598,
+        "Symbol": "46X086",
+        "Description": "46,xx difference of sex development",
+        "TitleCaseName": "46,xx Difference of Sex Development",
+        "Slug": "46xx_difference_of_sex_development",
+        "MiFts": 20.203539,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21806,
+        "Symbol": "46X104",
+        "Description": "46,xx difference of sex development induced by androgens excess",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Androgens Excess",
+        "Slug": "46xx_difference_of_sex_development_induced_by_androgens_excess",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20621,
+        "Symbol": "46X095",
+        "Description": "46,xx difference of sex development induced by endogenous maternal-derived androgen",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Endogenous Maternal-Derived Androgen",
+        "Slug": "46xx_difference_of_sex_development_induced_by_endogenous_maternal_derived_androgen",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20620,
+        "Symbol": "46X094",
+        "Description": "46,xx difference of sex development induced by exogenous maternal-derived androgen",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Exogenous Maternal-Derived Androgen",
+        "Slug": "46xx_difference_of_sex_development_induced_by_exogenous_maternal_derived_androgen",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21669,
+        "Symbol": "46X101",
+        "Description": "46,xx difference of sex development induced by fetal androgens excess",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Fetal Androgens Excess",
+        "Slug": "46xx_difference_of_sex_development_induced_by_fetal_androgens_excess",
+        "MiFts": 5.5378656,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20622,
+        "Symbol": "46X096",
+        "Description": "46,xx difference of sex development induced by fetoplacental androgens excess",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Fetoplacental Androgens Excess",
+        "Slug": "46xx_difference_of_sex_development_induced_by_fetoplacental_androgens_excess",
+        "MiFts": 5.312392,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21700,
+        "Symbol": "46X102",
+        "Description": "46,xx difference of sex development induced by maternal-derived androgen",
+        "TitleCaseName": "46,xx Difference of Sex Development Induced by Maternal-Derived Androgen",
+        "Slug": "46xx_difference_of_sex_development_induced_by_maternal_derived_androgen",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20176,
+        "Symbol": "46X087",
+        "Description": "46,xx difference of sex development-anorectal anomalies syndrome",
+        "TitleCaseName": "46,xx Difference of Sex Development-Anorectal Anomalies Syndrome",
+        "Slug": "46xx_difference_of_sex_development_anorectal_anomalies_syndrome",
+        "MiFts": 14.525826,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20619,
+        "Symbol": "46X067",
+        "Description": "46,xx disorder of gonadal development",
+        "TitleCaseName": "46,xx Disorder of Gonadal Development",
+        "Slug": "46xx_disorder_of_gonadal_development",
+        "MiFts": 3.6209366,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17102,
+        "Symbol": "46X040",
+        "Description": "46,xx disorder of sex development-anorectal anomalies syndrome",
+        "TitleCaseName": "46,xx Disorder of Sex Development-Anorectal Anomalies Syndrome",
+        "Slug": "46xx_disorder_of_sex_development_anorectal_anomalies_syndrome",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17103,
+        "Symbol": "46X041",
+        "Description": "46,xx disorder of sex development-skeletal anomalies syndrome",
+        "TitleCaseName": "46,xx Disorder of Sex Development-Skeletal Anomalies Syndrome",
+        "Slug": "46xx_disorder_of_sex_development_skeletal_anomalies_syndrome",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17104,
+        "Symbol": "46X043",
+        "Description": "46,xx ovarian dysgenesis-short stature syndrome",
+        "TitleCaseName": "46,xx Ovarian Dysgenesis-Short Stature Syndrome",
+        "Slug": "46xx_ovarian_dysgenesis_short_stature_syndrome",
+        "MiFts": 19.783587,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17105,
+        "Symbol": "46X033",
+        "Description": "46,xx ovotesticular disorder of sex development",
+        "TitleCaseName": "46,xx Ovotesticular Disorder of Sex Development",
+        "Slug": "46xx_ovotesticular_disorder_of_sex_development",
+        "MiFts": 10.204505,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 11703,
+        "Symbol": "46X081",
+        "Description": "46,xx sex reversal",
+        "TitleCaseName": "46,xx Sex Reversal",
+        "Slug": "46xx_sex_reversal",
+        "MiFts": 36.125748,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3812,
+        "Symbol": "46X052",
+        "Description": "46,xx sex reversal 1",
+        "TitleCaseName": "46,xx Sex Reversal 1",
+        "Slug": "46xx_sex_reversal_1_2",
+        "MiFts": 52.120472,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3211,
+        "Symbol": "46X048",
+        "Description": "46,xx sex reversal 2",
+        "TitleCaseName": "46,xx Sex Reversal 2",
+        "Slug": "46xx_sex_reversal_2_2",
+        "MiFts": 25.728956,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3425,
+        "Symbol": "46X050",
+        "Description": "46,xx sex reversal 3",
+        "TitleCaseName": "46,xx Sex Reversal 3",
+        "Slug": "46xx_sex_reversal_3_2",
+        "MiFts": 21.252197,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8208,
+        "Symbol": "46X059",
+        "Description": "46,xx sex reversal 4",
+        "TitleCaseName": "46,xx Sex Reversal 4",
+        "Slug": "46xx_sex_reversal_4",
+        "MiFts": 24.27921,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 8942,
+        "Symbol": "46X080",
+        "Description": "46,xx sex reversal 5",
+        "TitleCaseName": "46,xx Sex Reversal 5",
+        "Slug": "46xx_sex_reversal_5",
+        "MiFts": 23.27847,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 5802,
+        "Symbol": "46X054",
+        "Description": "46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs",
+        "TitleCaseName": "46,xx Sex Reversal with Dysgenesis of Kidneys, Adrenals, and Lungs",
+        "Slug": "46xx_sex_reversal_with_dysgenesis_of_kidneys_adrenals_and_lungs",
+        "MiFts": 29.991144,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17106,
+        "Symbol": "46X084",
+        "Description": "46,xy complete gonadal dysgenesis",
+        "TitleCaseName": "46,xy Complete Gonadal Dysgenesis",
+        "Slug": "46xy_complete_gonadal_dysgenesis",
+        "MiFts": 40.98853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20610,
+        "Symbol": "46X089",
+        "Description": "46,xy difference of sex development due to a cholesterol synthesis defect",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to a Cholesterol Synthesis Defect",
+        "Slug": "46xy_difference_of_sex_development_due_to_a_cholesterol_synthesis_defect",
+        "MiFts": 5.877851,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21795,
+        "Symbol": "46X103",
+        "Description": "46,xy difference of sex development due to a defect in testosterone metabolism by peripheral tissue",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to a Defect in Testosterone Metabolism by Peripheral Tissue",
+        "Slug": "46xy_difference_of_sex_development_due_to_a_defect_in_testosterone_metabolism_by_peripheral_tissue",
+        "MiFts": 7.2786207,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21668,
+        "Symbol": "46X100",
+        "Description": "46,xy difference of sex development due to a testosterone synthesis defect",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to a Testosterone Synthesis Defect",
+        "Slug": "46xy_difference_of_sex_development_due_to_a_testosterone_synthesis_defect",
+        "MiFts": 5.877851,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21667,
+        "Symbol": "46X099",
+        "Description": "46,xy difference of sex development due to adrenal and testicular steroidogenesis defect",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to Adrenal and Testicular Steroidogenesis Defect",
+        "Slug": "46xy_difference_of_sex_development_due_to_adrenal_and_testicular_steroidogenesis_defect",
+        "MiFts": 5.877851,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20612,
+        "Symbol": "46X090",
+        "Description": "46,xy difference of sex development due to impaired androgen production",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to Impaired Androgen Production",
+        "Slug": "46xy_difference_of_sex_development_due_to_impaired_androgen_production",
+        "MiFts": 7.2786207,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21666,
+        "Symbol": "46X098",
+        "Description": "46,xy difference of sex development due to testicular steroidogenesis defect",
+        "TitleCaseName": "46,xy Difference of Sex Development Due to Testicular Steroidogenesis Defect",
+        "Slug": "46xy_difference_of_sex_development_due_to_testicular_steroidogenesis_defect",
+        "MiFts": 5.877851,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 7
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20615,
+        "Symbol": "46X091",
+        "Description": "46,xy difference of sex development induced by maternal exposure to endocrine disruptors",
+        "TitleCaseName": "46,xy Difference of Sex Development Induced by Maternal Exposure to Endocrine Disruptors",
+        "Slug": "46xy_difference_of_sex_development_induced_by_maternal_exposure_to_endocrine_disruptors",
+        "MiFts": 5.021706,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20617,
+        "Symbol": "46X092",
+        "Description": "46,xy difference of sex development of endocrine origin",
+        "TitleCaseName": "46,xy Difference of Sex Development of Endocrine Origin",
+        "Slug": "46xy_difference_of_sex_development_of_endocrine_origin",
+        "MiFts": 5.7220907,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20609,
+        "Symbol": "46X088",
+        "Description": "46,xy difference of sex development of gynecological interest",
+        "TitleCaseName": "46,xy Difference of Sex Development of Gynecological Interest",
+        "Slug": "46xy_difference_of_sex_development_of_gynecological_interest",
+        "MiFts": 5.021706,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 21147,
+        "Symbol": "46X097",
+        "Description": "46,xy difference of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect",
+        "TitleCaseName": "46,xy Difference of Sexual Development Due to Dihydrotestosterone Backdoor Pathway Biosynthesis Defect",
+        "Slug": "46xy_difference_of_sexual_development_due_to_dihydrotestosterone_backdoor_pathway_biosynthesis_defect",
+        "MiFts": 4.3213215,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20616,
+        "Symbol": "46X065",
+        "Description": "46,xy disorder of gonadal development",
+        "TitleCaseName": "46,xy Disorder of Gonadal Development",
+        "Slug": "46xy_disorder_of_gonadal_development",
+        "MiFts": 5.021706,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17107,
+        "Symbol": "46X085",
+        "Description": "46,xy disorder of sex development",
+        "TitleCaseName": "46,xy Disorder of Sex Development",
+        "Slug": "46xy_disorder_of_sex_development",
+        "MiFts": 42.872086,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17108,
+        "Symbol": "46X105",
+        "Description": "46,xy disorder of sex development-adrenal insufficiency due to cyp11a1 deficiency",
+        "TitleCaseName": "46,xy Disorder of Sex Development-Adrenal Insufficiency Due to Cyp11a1 Deficiency",
+        "Slug": "46xy_disorder_of_sex_development_adrenal_insufficiency_due_to_cyp11a1_deficiency_2",
+        "MiFts": 4.2023087,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 4822,
+        "Symbol": "46X083",
+        "Description": "46,xy gonadal dysgenesis with minifascicular neuropathy",
+        "TitleCaseName": "46,xy Gonadal Dysgenesis with Minifascicular Neuropathy",
+        "Slug": "46xy_gonadal_dysgenesis_with_minifascicular_neuropathy",
+        "MiFts": 23.699942,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17109,
+        "Symbol": "46X039",
+        "Description": "46,xy gonadal dysgenesis-motor and sensory neuropathy syndrome",
+        "TitleCaseName": "46,xy Gonadal Dysgenesis-Motor and Sensory Neuropathy Syndrome",
+        "Slug": "46xy_gonadal_dysgenesis_motor_and_sensory_neuropathy_syndrome",
+        "MiFts": 25.929655,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20618,
+        "Symbol": "46X093",
+        "Description": "46,xy ovotesticular difference of sex development",
+        "TitleCaseName": "46,xy Ovotesticular Difference of Sex Development",
+        "Slug": "46xy_ovotesticular_difference_of_sex_development",
+        "MiFts": 17.7086,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17110,
+        "Symbol": "46X015",
+        "Description": "46,xy ovotesticular disorder of sex development",
+        "TitleCaseName": "46,xy Ovotesticular Disorder of Sex Development",
+        "Slug": "46xy_ovotesticular_disorder_of_sex_development",
+        "MiFts": 7.9297056,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17111,
+        "Symbol": "46X012",
+        "Description": "46,xy partial gonadal dysgenesis",
+        "TitleCaseName": "46,xy Partial Gonadal Dysgenesis",
+        "Slug": "46xy_partial_gonadal_dysgenesis",
+        "MiFts": 44.864716,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 13184,
+        "Symbol": "46X082",
+        "Description": "46,xy sex reversal",
+        "TitleCaseName": "46,xy Sex Reversal",
+        "Slug": "46xy_sex_reversal",
+        "MiFts": 47.3021,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3811,
+        "Symbol": "46X051",
+        "Description": "46,xy sex reversal 1",
+        "TitleCaseName": "46,xy Sex Reversal 1",
+        "Slug": "46xy_sex_reversal_1_2",
+        "MiFts": 47.643795,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7776,
+        "Symbol": "46X058",
+        "Description": "46,xy sex reversal 10",
+        "TitleCaseName": "46,xy Sex Reversal 10",
+        "Slug": "46xy_sex_reversal_10",
+        "MiFts": 33.52856,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3101,
+        "Symbol": "46X079",
+        "Description": "46,xy sex reversal 11",
+        "TitleCaseName": "46,xy Sex Reversal 11",
+        "Slug": "46xy_sex_reversal_11",
+        "MiFts": 38.836857,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 3219,
+        "Symbol": "46X049",
+        "Description": "46,xy sex reversal 2",
+        "TitleCaseName": "46,xy Sex Reversal 2",
+        "Slug": "46xy_sex_reversal_2",
+        "MiFts": 53.333916,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6180,
+        "Symbol": "46X055",
+        "Description": "46,xy sex reversal 3",
+        "TitleCaseName": "46,xy Sex Reversal 3",
+        "Slug": "46xy_sex_reversal_3_2",
+        "MiFts": 55.47452,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 951,
+        "Symbol": "46X046",
+        "Description": "46,xy sex reversal 4",
+        "TitleCaseName": "46,xy Sex Reversal 4",
+        "Slug": "46xy_sex_reversal_4_2",
+        "MiFts": 33.53339,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6235,
+        "Symbol": "46X056",
+        "Description": "46,xy sex reversal 5",
+        "TitleCaseName": "46,xy Sex Reversal 5",
+        "Slug": "46xy_sex_reversal_5_2",
+        "MiFts": 24.643705,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6539,
+        "Symbol": "46X017",
+        "Description": "46,xy sex reversal 6",
+        "TitleCaseName": "46,xy Sex Reversal 6",
+        "Slug": "46xy_sex_reversal_6",
+        "MiFts": 40.084736,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2311,
+        "Symbol": "46X047",
+        "Description": "46,xy sex reversal 7",
+        "TitleCaseName": "46,xy Sex Reversal 7",
+        "Slug": "46xy_sex_reversal_7_2",
+        "MiFts": 45.028694,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 6792,
+        "Symbol": "46X057",
+        "Description": "46,xy sex reversal 8",
+        "TitleCaseName": "46,xy Sex Reversal 8",
+        "Slug": "46xy_sex_reversal_8_2",
+        "MiFts": 38.618362,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 7623,
+        "Symbol": "46X030",
+        "Description": "46,xy sex reversal 9",
+        "TitleCaseName": "46,xy Sex Reversal 9",
+        "Slug": "46xy_sex_reversal_9",
+        "MiFts": 46.554554,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": 16
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17112,
+        "Symbol": "47X001",
+        "Description": "47,xyy syndrome",
+        "TitleCaseName": "47,xyy Syndrome",
+        "Slug": "47xyy_syndrome",
+        "MiFts": 36.376064,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17113,
+        "Symbol": "48X002",
+        "Description": "48,xxxy syndrome",
+        "TitleCaseName": "48,xxxy Syndrome",
+        "Slug": "48xxxy_syndrome",
+        "MiFts": 32.00429,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17114,
+        "Symbol": "48X003",
+        "Description": "48,xxyy syndrome",
+        "TitleCaseName": "48,xxyy Syndrome",
+        "Slug": "48xxyy_syndrome",
+        "MiFts": 34.143555,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17115,
+        "Symbol": "48X004",
+        "Description": "48,xyyy syndrome",
+        "TitleCaseName": "48,xyyy Syndrome",
+        "Slug": "48xyyy_syndrome",
+        "MiFts": 29.988762,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17116,
+        "Symbol": "49X002",
+        "Description": "49,xxxxy syndrome",
+        "TitleCaseName": "49,xxxxy Syndrome",
+        "Slug": "49xxxxy_syndrome",
+        "MiFts": 35.320847,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17117,
+        "Symbol": "49X003",
+        "Description": "49,xxxyy syndrome",
+        "TitleCaseName": "49,xxxyy Syndrome",
+        "Slug": "49xxxyy_syndrome",
+        "MiFts": 16.826115,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17118,
+        "Symbol": "49X004",
+        "Description": "49,xyyyy syndrome",
+        "TitleCaseName": "49,xyyyy Syndrome",
+        "Slug": "49xyyyy_syndrome",
+        "MiFts": 26.62199,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17101,
+        "Symbol": "4HY001",
+        "Description": "4-hydroxyphenylacetic aciduria",
+        "TitleCaseName": "4-Hydroxyphenylacetic Aciduria",
+        "Slug": "4_hydroxyphenylacetic_aciduria",
+        "MiFts": 2.1011543,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17119,
+        "Symbol": "4P1001",
+        "Description": "4p16.3 microduplication syndrome",
+        "TitleCaseName": "4p16.3 Microduplication Syndrome",
+        "Slug": "4p163_microduplication_syndrome",
+        "MiFts": 14.0330305,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17120,
+        "Symbol": "4Q2002",
+        "Description": "4q25 proximal deletion syndrome",
+        "TitleCaseName": "4q25 Proximal Deletion Syndrome",
+        "Slug": "4q25_proximal_deletion_syndrome",
+        "MiFts": 9.330476,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": 1,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10031,
+        "Symbol": "4TR001",
+        "Description": "4-tert-butylphenol allergic contact dermatitis",
+        "TitleCaseName": "4-Tert-Butylphenol Allergic Contact Dermatitis",
+        "Slug": "4_tert_butylphenol_allergic_contact_dermatitis",
+        "MiFts": 5.603078,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 10026,
+        "Symbol": "4VN001",
+        "Description": "4-vinylcyclohexene dioxide respiratory allergy",
+        "TitleCaseName": "4-Vinylcyclohexene Dioxide Respiratory Allergy",
+        "Slug": "4_vinylcyclohexene_dioxide_respiratory_allergy",
+        "MiFts": 3.9116225,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22672,
+        "Symbol": "510001",
+        "Description": "5,10-methenyltetrahydrofolate synthetase deficiency",
+        "TitleCaseName": "5,10-Methenyltetrahydrofolate Synthetase Deficiency",
+        "Slug": "510_methenyltetrahydrofolate_synthetase_deficiency",
+        "MiFts": 1.4007695,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 20448,
+        "Symbol": "5FL002",
+        "Description": "5-fluorouracil poisoning",
+        "TitleCaseName": "5-Fluorouracil Poisoning",
+        "Slug": "5_fluorouracil_poisoning",
+        "MiFts": 7.704232,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17121,
+        "Symbol": "5NC001",
+        "Description": "5-nucleotidase syndrome",
+        "TitleCaseName": "5-Nucleotidase Syndrome",
+        "Slug": "5_nucleotidase_syndrome",
+        "MiFts": 2.801539,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 2824,
+        "Symbol": "5XP001",
+        "Description": "5-oxoprolinase deficiency",
+        "TitleCaseName": "5-Oxoprolinase Deficiency",
+        "Slug": "5_oxoprolinase_deficiency",
+        "MiFts": 33.585697,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 22671,
+        "Symbol": "5QD001",
+        "Description": "5q deletion syndrome",
+        "TitleCaseName": "5q Deletion Syndrome",
+        "Slug": "5q_deletion_syndrome",
+        "MiFts": 9.740174,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17122,
+        "Symbol": "5Q1001",
+        "Description": "5q14.3 microdeletion syndrome",
+        "TitleCaseName": "5q14.3 Microdeletion Syndrome",
+        "Slug": "5q143_microdeletion_syndrome",
+        "MiFts": 23.858427,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19450,
+        "Symbol": "5Q3002",
+        "Description": "5q31.3 microdeletion syndrome",
+        "TitleCaseName": "5q31.3 Microdeletion Syndrome",
+        "Slug": "5q313_microdeletion_syndrome",
+        "MiFts": 23.107697,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17123,
+        "Symbol": "5Q3001",
+        "Description": "5q35 microduplication syndrome",
+        "TitleCaseName": "5q35 Microduplication Syndrome",
+        "Slug": "5q35_microduplication_syndrome",
+        "MiFts": 17.778738,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17124,
+        "Symbol": "6P2001",
+        "Description": "6p22 microdeletion syndrome",
+        "TitleCaseName": "6p22 Microdeletion Syndrome",
+        "Slug": "6p22_microdeletion_syndrome",
+        "MiFts": 16.218943,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 9109,
+        "Symbol": "6PH001",
+        "Description": "6-phosphogluconate dehydrogenase deficiency",
+        "TitleCaseName": "6-Phosphogluconate Dehydrogenase Deficiency",
+        "Slug": "6_phosphogluconate_dehydrogenase_deficiency",
+        "MiFts": 22.491447,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 1251,
+        "Symbol": "6PH002",
+        "Description": "6-phosphogluconolactonase deficiency",
+        "TitleCaseName": "6-Phosphogluconolactonase Deficiency",
+        "Slug": "6_phosphogluconolactonase_deficiency",
+        "MiFts": 9.265263,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17125,
+        "Symbol": "6QT002",
+        "Description": "6q terminal deletion syndrome",
+        "TitleCaseName": "6q Terminal Deletion Syndrome",
+        "Slug": "6q_terminal_deletion_syndrome",
+        "MiFts": 22.454866,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17126,
+        "Symbol": "6Q1002",
+        "Description": "6q16 microdeletion syndrome",
+        "TitleCaseName": "6q16 Microdeletion Syndrome",
+        "Slug": "6q16_microdeletion_syndrome",
+        "MiFts": 17.940153,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17127,
+        "Symbol": "7P2001",
+        "Description": "7p22.1 microduplication syndrome",
+        "TitleCaseName": "7p22.1 Microduplication Syndrome",
+        "Slug": "7p221_microduplication_syndrome",
+        "MiFts": 20.248573,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17128,
+        "Symbol": "7Q3001",
+        "Description": "7q31 microdeletion syndrome",
+        "TitleCaseName": "7q31 Microdeletion Syndrome",
+        "Slug": "7q31_microdeletion_syndrome",
+        "MiFts": 18.3463,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17129,
+        "Symbol": "8PN001",
+        "Description": "8p inverted duplication/deletion syndrome",
+        "TitleCaseName": "8p Inverted Duplication/deletion Syndrome",
+        "Slug": "8p_inverted_duplication_deletion_syndrome",
+        "MiFts": 24.383463,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 19451,
+        "Symbol": "8P1002",
+        "Description": "8p11 myeloproliferative syndrome",
+        "TitleCaseName": "8p11 Myeloproliferative Syndrome",
+        "Slug": "8p11_myeloproliferative_syndrome",
+        "MiFts": 20.689365,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17130,
+        "Symbol": "8P1001",
+        "Description": "8p11.2 deletion syndrome",
+        "TitleCaseName": "8p11.2 Deletion Syndrome",
+        "Slug": "8p112_deletion_syndrome",
+        "MiFts": 19.474012,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17131,
+        "Symbol": "8P2002",
+        "Description": "8p23.1 duplication syndrome",
+        "TitleCaseName": "8p23.1 Duplication Syndrome",
+        "Slug": "8p231_duplication_syndrome",
+        "MiFts": 22.543383,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17132,
+        "Symbol": "8P2003",
+        "Description": "8p23.1 microdeletion syndrome",
+        "TitleCaseName": "8p23.1 Microdeletion Syndrome",
+        "Slug": "8p231_microdeletion_syndrome",
+        "MiFts": 20.26342,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17133,
+        "Symbol": "8Q1001",
+        "Description": "8q12 microduplication syndrome",
+        "TitleCaseName": "8q12 Microduplication Syndrome",
+        "Slug": "8q12_microduplication_syndrome",
+        "MiFts": 16.310358,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17134,
+        "Symbol": "9P1001",
+        "Description": "9p13 microdeletion syndrome",
+        "TitleCaseName": "9p13 Microdeletion Syndrome",
+        "Slug": "9p13_microdeletion_syndrome",
+        "MiFts": 16.527716,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17135,
+        "Symbol": "9Q2003",
+        "Description": "9q21.13 microdeletion syndrome",
+        "TitleCaseName": "9q21.13 Microdeletion Syndrome",
+        "Slug": "9q2113_microdeletion_syndrome",
+        "MiFts": 17.186853,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17136,
+        "Symbol": "9Q3001",
+        "Description": "9q31.1q31.3 microdeletion syndrome",
+        "TitleCaseName": "9q31.1q31.3 Microdeletion Syndrome",
+        "Slug": "9q311q313_microdeletion_syndrome",
+        "MiFts": 15.045525,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "MaladyId": 17137,
+        "Symbol": "9Q3002",
+        "Description": "9q33.3q34.11 microdeletion syndrome",
+        "TitleCaseName": "9q33.3q34.11 Microdeletion Syndrome",
+        "Slug": "9q333q3411_microdeletion_syndrome",
+        "MiFts": 22.550325,
+        "Score": 0.0,
+        "Parent": false,
+        "Childs": null,
+        "NumSiblings": null
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 180,
+  "recordsFiltered": 180,
+  "searchMatches": 0,
+  "error": null
+}
