@@ -1,0 +1,989 @@
+{
+  "data": [
+    {
+      "Data": {
+        "Description": "jaberi-elahi syndrome",
+        "TitleCaseName": "Jaberi-Elahi Syndrome",
+        "Slug": "jaberi_elahi_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jaccoud's syndrome",
+        "TitleCaseName": "Jaccoud's Syndrome",
+        "Slug": "jaccouds_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jackson-weiss syndrome",
+        "TitleCaseName": "Jackson-Weiss Syndrome",
+        "Slug": "jackson_weiss_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jacobsen syndrome",
+        "TitleCaseName": "Jacobsen Syndrome",
+        "Slug": "jacobsen_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jalili syndrome",
+        "TitleCaseName": "Jalili Syndrome",
+        "Slug": "jalili_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jansen-de vries syndrome",
+        "TitleCaseName": "Jansen-De Vries Syndrome",
+        "Slug": "jansen_de_vries_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "janus kinase-3 deficiency",
+        "TitleCaseName": "Janus Kinase-3 Deficiency",
+        "Slug": "janus_kinase_3_deficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "japanese encephalitis",
+        "TitleCaseName": "Japanese Encephalitis",
+        "Slug": "japanese_encephalitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "japanese spotted fever",
+        "TitleCaseName": "Japanese Spotted Fever",
+        "Slug": "japanese_spotted_fever"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jaundice, familial obstructive, of infancy",
+        "TitleCaseName": "Jaundice, Familial Obstructive, of Infancy",
+        "Slug": "jaundice_familial_obstructive_of_infancy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jaw cancer",
+        "TitleCaseName": "Jaw Cancer",
+        "Slug": "jaw_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jawad syndrome",
+        "TitleCaseName": "Jawad Syndrome",
+        "Slug": "jawad_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jeffries-lakhani neurodevelopmental syndrome",
+        "TitleCaseName": "Jeffries-Lakhani Neurodevelopmental Syndrome",
+        "Slug": "jeffries_lakhani_neurodevelopmental_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal adenocarcinoma",
+        "TitleCaseName": "Jejunal Adenocarcinoma",
+        "Slug": "jejunal_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal atresia",
+        "TitleCaseName": "Jejunal Atresia",
+        "Slug": "jejunal_atresia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal atresia with renal adysplasia",
+        "TitleCaseName": "Jejunal Atresia with Renal Adysplasia",
+        "Slug": "jejunal_atresia_with_renal_adysplasia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal cancer",
+        "TitleCaseName": "Jejunal Cancer",
+        "Slug": "jejunal_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal neoplasm",
+        "TitleCaseName": "Jejunal Neoplasm",
+        "Slug": "jejunal_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal neuroendocrine tumor",
+        "TitleCaseName": "Jejunal Neuroendocrine Tumor",
+        "Slug": "jejunal_neuroendocrine_tumor"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunal somatostatinoma",
+        "TitleCaseName": "Jejunal Somatostatinoma",
+        "Slug": "jejunal_somatostatinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jejunoileitis",
+        "TitleCaseName": "Jejunoileitis",
+        "Slug": "jejunoileitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jervell and lange-nielsen syndrome 1",
+        "TitleCaseName": "Jervell and Lange-Nielsen Syndrome 1",
+        "Slug": "jervell_and_lange_nielsen_syndrome_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jervell and lange-nielsen syndrome 2",
+        "TitleCaseName": "Jervell and Lange-Nielsen Syndrome 2",
+        "Slug": "jervell_and_lange_nielsen_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jervell-lange nielsen syndrome",
+        "TitleCaseName": "Jervell-Lange Nielsen Syndrome",
+        "Slug": "jervell_lange_nielsen_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jessner lymphocytic infiltration of the skin",
+        "TitleCaseName": "Jessner Lymphocytic Infiltration of the Skin",
+        "Slug": "jessner_lymphocytic_infiltration_of_the_skin"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jeune syndrome situs inversus",
+        "TitleCaseName": "Jeune Syndrome Situs Inversus",
+        "Slug": "jeune_syndrome_situs_inversus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jewett-marshall bladder cancer",
+        "TitleCaseName": "Jewett-Marshall Bladder Cancer",
+        "Slug": "jewett_marshall_bladder_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "johanson-blizzard syndrome",
+        "TitleCaseName": "Johanson-Blizzard Syndrome",
+        "Slug": "johanson_blizzard_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "johnson neuroectodermal syndrome",
+        "TitleCaseName": "Johnson Neuroectodermal Syndrome",
+        "Slug": "johnson_neuroectodermal_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joint contractures, osteochondromas, and b-cell lymphoma",
+        "TitleCaseName": "Joint Contractures, Osteochondromas, and B-Cell Lymphoma",
+        "Slug": "joint_contractures_osteochondromas_and_b_cell_lymphoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joint laxity, familial",
+        "TitleCaseName": "Joint Laxity, Familial",
+        "Slug": "joint_laxity_familial"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joint laxity, short stature, and myopia",
+        "TitleCaseName": "Joint Laxity, Short Stature, and Myopia",
+        "Slug": "joint_laxity_short_stature_and_myopia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jones hersh yusk syndrome",
+        "TitleCaseName": "Jones Hersh Yusk Syndrome",
+        "Slug": "jones_hersh_yusk_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 1",
+        "TitleCaseName": "Joubert Syndrome 1",
+        "Slug": "joubert_syndrome_1_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 10",
+        "TitleCaseName": "Joubert Syndrome 10",
+        "Slug": "joubert_syndrome_10"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 13",
+        "TitleCaseName": "Joubert Syndrome 13",
+        "Slug": "joubert_syndrome_13"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 14",
+        "TitleCaseName": "Joubert Syndrome 14",
+        "Slug": "joubert_syndrome_14"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 15",
+        "TitleCaseName": "Joubert Syndrome 15",
+        "Slug": "joubert_syndrome_15"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 16",
+        "TitleCaseName": "Joubert Syndrome 16",
+        "Slug": "joubert_syndrome_16"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 17",
+        "TitleCaseName": "Joubert Syndrome 17",
+        "Slug": "joubert_syndrome_17"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 18",
+        "TitleCaseName": "Joubert Syndrome 18",
+        "Slug": "joubert_syndrome_18"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 2",
+        "TitleCaseName": "Joubert Syndrome 2",
+        "Slug": "joubert_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 20",
+        "TitleCaseName": "Joubert Syndrome 20",
+        "Slug": "joubert_syndrome_20"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 21",
+        "TitleCaseName": "Joubert Syndrome 21",
+        "Slug": "joubert_syndrome_21"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 22",
+        "TitleCaseName": "Joubert Syndrome 22",
+        "Slug": "joubert_syndrome_22"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 23",
+        "TitleCaseName": "Joubert Syndrome 23",
+        "Slug": "joubert_syndrome_23"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 24",
+        "TitleCaseName": "Joubert Syndrome 24",
+        "Slug": "joubert_syndrome_24"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 25",
+        "TitleCaseName": "Joubert Syndrome 25",
+        "Slug": "joubert_syndrome_25"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 26",
+        "TitleCaseName": "Joubert Syndrome 26",
+        "Slug": "joubert_syndrome_26"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 27",
+        "TitleCaseName": "Joubert Syndrome 27",
+        "Slug": "joubert_syndrome_27"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 28",
+        "TitleCaseName": "Joubert Syndrome 28",
+        "Slug": "joubert_syndrome_28"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 29",
+        "TitleCaseName": "Joubert Syndrome 29",
+        "Slug": "joubert_syndrome_29"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 3",
+        "TitleCaseName": "Joubert Syndrome 3",
+        "Slug": "joubert_syndrome_3_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 30",
+        "TitleCaseName": "Joubert Syndrome 30",
+        "Slug": "joubert_syndrome_30"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 31",
+        "TitleCaseName": "Joubert Syndrome 31",
+        "Slug": "joubert_syndrome_31"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 32",
+        "TitleCaseName": "Joubert Syndrome 32",
+        "Slug": "joubert_syndrome_32"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 33",
+        "TitleCaseName": "Joubert Syndrome 33",
+        "Slug": "joubert_syndrome_33"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 35",
+        "TitleCaseName": "Joubert Syndrome 35",
+        "Slug": "joubert_syndrome_35"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 36",
+        "TitleCaseName": "Joubert Syndrome 36",
+        "Slug": "joubert_syndrome_36"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 37",
+        "TitleCaseName": "Joubert Syndrome 37",
+        "Slug": "joubert_syndrome_37"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 38",
+        "TitleCaseName": "Joubert Syndrome 38",
+        "Slug": "joubert_syndrome_38"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 39",
+        "TitleCaseName": "Joubert Syndrome 39",
+        "Slug": "joubert_syndrome_39"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 4",
+        "TitleCaseName": "Joubert Syndrome 4",
+        "Slug": "joubert_syndrome_4"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 40",
+        "TitleCaseName": "Joubert Syndrome 40",
+        "Slug": "joubert_syndrome_40"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 5",
+        "TitleCaseName": "Joubert Syndrome 5",
+        "Slug": "joubert_syndrome_5"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 6",
+        "TitleCaseName": "Joubert Syndrome 6",
+        "Slug": "joubert_syndrome_6"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 7",
+        "TitleCaseName": "Joubert Syndrome 7",
+        "Slug": "joubert_syndrome_7"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 8",
+        "TitleCaseName": "Joubert Syndrome 8",
+        "Slug": "joubert_syndrome_8"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome 9",
+        "TitleCaseName": "Joubert Syndrome 9",
+        "Slug": "joubert_syndrome_9"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome with jeune asphyxiating thoracic dystrophy",
+        "TitleCaseName": "Joubert Syndrome with Jeune Asphyxiating Thoracic Dystrophy",
+        "Slug": "joubert_syndrome_with_jeune_asphyxiating_thoracic_dystrophy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome with ocular defect",
+        "TitleCaseName": "Joubert Syndrome with Ocular Defect",
+        "Slug": "joubert_syndrome_with_ocular_defect"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "joubert syndrome with renal defect",
+        "TitleCaseName": "Joubert Syndrome with Renal Defect",
+        "Slug": "joubert_syndrome_with_renal_defect"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juberg-hayward syndrome",
+        "TitleCaseName": "Juberg-Hayward Syndrome",
+        "Slug": "juberg_hayward_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "judge misch wright syndrome",
+        "TitleCaseName": "Judge Misch Wright Syndrome",
+        "Slug": "judge_misch_wright_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jugular foramen meningioma",
+        "TitleCaseName": "Jugular Foramen Meningioma",
+        "Slug": "jugular_foramen_meningioma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jujeno-ileal duplication",
+        "TitleCaseName": "Jujeno-Ileal Duplication",
+        "Slug": "jujeno_ileal_duplication"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jumping frenchmen of maine",
+        "TitleCaseName": "Jumping Frenchmen of Maine",
+        "Slug": "jumping_frenchmen_of_maine"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "junctional epidermolysis bullosa",
+        "TitleCaseName": "Junctional Epidermolysis Bullosa",
+        "Slug": "junctional_epidermolysis_bullosa"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "junctional epidermolysis bullosa non-herlitz type",
+        "TitleCaseName": "Junctional Epidermolysis Bullosa Non-Herlitz Type",
+        "Slug": "junctional_epidermolysis_bullosa_non_herlitz_type_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "jung syndrome",
+        "TitleCaseName": "Jung Syndrome",
+        "Slug": "jung_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile absence epilepsy",
+        "TitleCaseName": "Juvenile Absence Epilepsy",
+        "Slug": "juvenile_absence_epilepsy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile amyotrophic lateral sclerosis",
+        "TitleCaseName": "Juvenile Amyotrophic Lateral Sclerosis",
+        "Slug": "juvenile_amyotrophic_lateral_sclerosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile ankylosing spondylitis",
+        "TitleCaseName": "Juvenile Ankylosing Spondylitis",
+        "Slug": "juvenile_ankylosing_spondylitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile arthritis",
+        "TitleCaseName": "Juvenile Arthritis",
+        "Slug": "juvenile_arthritis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile cataract-microcornea-renal glucosuria syndrome",
+        "TitleCaseName": "Juvenile Cataract-Microcornea-Renal Glucosuria Syndrome",
+        "Slug": "juvenile_cataract_microcornea_renal_glucosuria_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile dermatitis herpetiformis",
+        "TitleCaseName": "Juvenile Dermatitis Herpetiformis",
+        "Slug": "juvenile_dermatitis_herpetiformis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile glaucoma",
+        "TitleCaseName": "Juvenile Glaucoma",
+        "Slug": "juvenile_glaucoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile huntington disease",
+        "TitleCaseName": "Juvenile Huntington Disease",
+        "Slug": "juvenile_huntington_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile idiopathic inflammatory myopathy",
+        "TitleCaseName": "Juvenile Idiopathic Inflammatory Myopathy",
+        "Slug": "juvenile_idiopathic_inflammatory_myopathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile myasthenia gravis",
+        "TitleCaseName": "Juvenile Myasthenia Gravis",
+        "Slug": "juvenile_myasthenia_gravis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile myelomonocytic leukemia",
+        "TitleCaseName": "Juvenile Myelomonocytic Leukemia",
+        "Slug": "juvenile_myelomonocytic_leukemia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile nasopharyngeal angiofibroma",
+        "TitleCaseName": "Juvenile Nasopharyngeal Angiofibroma",
+        "Slug": "juvenile_nasopharyngeal_angiofibroma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile nephronophthisis",
+        "TitleCaseName": "Juvenile Nephronophthisis",
+        "Slug": "juvenile_nephronophthisis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile ossifying fibroma",
+        "TitleCaseName": "Juvenile Ossifying Fibroma",
+        "Slug": "juvenile_ossifying_fibroma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile overlap myositis",
+        "TitleCaseName": "Juvenile Overlap Myositis",
+        "Slug": "juvenile_overlap_myositis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile pilocytic astrocytoma",
+        "TitleCaseName": "Juvenile Pilocytic Astrocytoma",
+        "Slug": "juvenile_pilocytic_astrocytoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile polymyositis",
+        "TitleCaseName": "Juvenile Polymyositis",
+        "Slug": "juvenile_polymyositis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile polyposis of infancy",
+        "TitleCaseName": "Juvenile Polyposis of Infancy",
+        "Slug": "juvenile_polyposis_of_infancy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile polyposis syndrome",
+        "TitleCaseName": "Juvenile Polyposis Syndrome",
+        "Slug": "juvenile_polyposis_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome",
+        "TitleCaseName": "Juvenile Polyposis/hereditary Hemorrhagic Telangiectasia Syndrome",
+        "Slug": "juvenile_polyposis_hereditary_hemorrhagic_telangiectasia_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile primary osteoporosis",
+        "TitleCaseName": "Juvenile Primary Osteoporosis",
+        "Slug": "juvenile_primary_osteoporosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile rheumatoid arthritis",
+        "TitleCaseName": "Juvenile Rheumatoid Arthritis",
+        "Slug": "juvenile_rheumatoid_arthritis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile temporal arteritis",
+        "TitleCaseName": "Juvenile Temporal Arteritis",
+        "Slug": "juvenile_temporal_arteritis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile type testicular granulosa cell tumor",
+        "TitleCaseName": "Juvenile Type Testicular Granulosa Cell Tumor",
+        "Slug": "juvenile_type_testicular_granulosa_cell_tumor"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile xanthogranuloma",
+        "TitleCaseName": "Juvenile Xanthogranuloma",
+        "Slug": "juvenile_xanthogranuloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juvenile-onset parkinson's disease",
+        "TitleCaseName": "Juvenile-Onset Parkinson's Disease",
+        "Slug": "juvenile_onset_parkinsons_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juxtacortical chondroma",
+        "TitleCaseName": "Juxtacortical Chondroma",
+        "Slug": "juxtacortical_chondroma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juxtacortical chondrosarcoma",
+        "TitleCaseName": "Juxtacortical Chondrosarcoma",
+        "Slug": "juxtacortical_chondrosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "juxtaposition of the atrial appendages",
+        "TitleCaseName": "Juxtaposition of the Atrial Appendages",
+        "Slug": "juxtaposition_of_the_atrial_appendages"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 109,
+  "recordsFiltered": 109,
+  "searchMatches": 0,
+  "error": null
+}

@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "Data": {
+        "Description": "zaki syndrome",
+        "TitleCaseName": "Zaki Syndrome",
+        "Slug": "zaki_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zap70-related combined immunodeficiency",
+        "TitleCaseName": "Zap70-Related Combined Immunodeficiency",
+        "Slug": "zap70_related_combined_immunodeficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zap70-related severe combined immunodeficiency",
+        "TitleCaseName": "Zap70-Related Severe Combined Immunodeficiency",
+        "Slug": "zap70_related_severe_combined_immunodeficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zebra body myopathy",
+        "TitleCaseName": "Zebra Body Myopathy",
+        "Slug": "zebra_body_myopathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zebrafish allergy",
+        "TitleCaseName": "Zebrafish Allergy",
+        "Slug": "zebrafish_allergy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zechi-ceide syndrome",
+        "TitleCaseName": "Zechi-Ceide Syndrome",
+        "Slug": "zechi_ceide_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zellweger spectrum disorder",
+        "TitleCaseName": "Zellweger Spectrum Disorder",
+        "Slug": "zellweger_spectrum_disorder"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zellweger syndrome",
+        "TitleCaseName": "Zellweger Syndrome",
+        "Slug": "zellweger_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zellweger-like syndrome without peroxisomal anomalies",
+        "TitleCaseName": "Zellweger-Like Syndrome Without Peroxisomal Anomalies",
+        "Slug": "zellweger_like_syndrome_without_peroxisomal_anomalies"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zerres rietschel majewski syndrome",
+        "TitleCaseName": "Zerres Rietschel Majewski Syndrome",
+        "Slug": "zerres_rietschel_majewski_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ziegler-huang syndrome",
+        "TitleCaseName": "Ziegler-Huang Syndrome",
+        "Slug": "ziegler_huang_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zika fever",
+        "TitleCaseName": "Zika Fever",
+        "Slug": "zika_fever"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zika virus congenital syndrome",
+        "TitleCaseName": "Zika Virus Congenital Syndrome",
+        "Slug": "zika_virus_congenital_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zimmermann-laband syndrome 1",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 1",
+        "Slug": "zimmermann_laband_syndrome_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zimmermann-laband syndrome 2",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 2",
+        "Slug": "zimmermann_laband_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zimmermann-laband syndrome 3",
+        "TitleCaseName": "Zimmermann-Laband Syndrome 3",
+        "Slug": "zimmermann_laband_syndrome_3"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zinc deficiency, transient neonatal",
+        "TitleCaseName": "Zinc Deficiency, Transient Neonatal",
+        "Slug": "zinc_deficiency_transient_neonatal"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zinc, elevated plasma",
+        "TitleCaseName": "Zinc, Elevated Plasma",
+        "Slug": "zinc_elevated_plasma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zinc-responsive necrolytic acral erythema",
+        "TitleCaseName": "Zinc-Responsive Necrolytic Acral Erythema",
+        "Slug": "zinc_responsive_necrolytic_acral_erythema"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zollinger-ellison syndrome",
+        "TitleCaseName": "Zollinger-Ellison Syndrome",
+        "Slug": "zollinger_ellison_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zttk syndrome",
+        "TitleCaseName": "Zttk Syndrome",
+        "Slug": "zttk_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zw10 interactor, antisense",
+        "TitleCaseName": "Zw10 Interactor, Antisense",
+        "Slug": "zw10_interactor_antisense"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zygodactyly 1",
+        "TitleCaseName": "Zygodactyly 1",
+        "Slug": "zygodactyly_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zygodactyly type 3",
+        "TitleCaseName": "Zygodactyly Type 3",
+        "Slug": "zygodactyly_type_3"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "zygodactyly type 4",
+        "TitleCaseName": "Zygodactyly Type 4",
+        "Slug": "zygodactyly_type_4"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 25,
+  "recordsFiltered": 25,
+  "searchMatches": 0,
+  "error": null
+}

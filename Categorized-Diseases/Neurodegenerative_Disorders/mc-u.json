@@ -1,0 +1,2150 @@
+{
+  "data": [
+    {
+      "Data": {
+        "Description": "ubiquitin-activating enzyme, y-linked",
+        "TitleCaseName": "Ubiquitin-Activating Enzyme, Y-Linked",
+        "Slug": "ubiquitin_activating_enzyme_y_linked"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "udd distal myopathy - tibial muscular dystrophy",
+        "TitleCaseName": "Udd Distal Myopathy - Tibial Muscular Dystrophy",
+        "Slug": "udd_distal_myopathy_tibial_muscular_dystrophy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulcer of anus and rectum",
+        "TitleCaseName": "Ulcer of Anus and Rectum",
+        "Slug": "ulcer_of_anus_and_rectum"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulcer of lower limbs",
+        "TitleCaseName": "Ulcer of Lower Limbs",
+        "Slug": "ulcer_of_lower_limbs"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulceration of vulva",
+        "TitleCaseName": "Ulceration of Vulva",
+        "Slug": "ulceration_of_vulva"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulcerative blepharitis",
+        "TitleCaseName": "Ulcerative Blepharitis",
+        "Slug": "ulcerative_blepharitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulcerative colitis",
+        "TitleCaseName": "Ulcerative Colitis",
+        "Slug": "ulcerative_colitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulcerative stomatitis",
+        "TitleCaseName": "Ulcerative Stomatitis",
+        "Slug": "ulcerative_stomatitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulceroglandular tularemia",
+        "TitleCaseName": "Ulceroglandular Tularemia",
+        "Slug": "ulceroglandular_tularemia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulerythema ophryogenesis",
+        "TitleCaseName": "Ulerythema Ophryogenesis",
+        "Slug": "ulerythema_ophryogenesis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ullrich congenital muscular dystrophy 1a",
+        "TitleCaseName": "Ullrich Congenital Muscular Dystrophy 1a",
+        "Slug": "ullrich_congenital_muscular_dystrophy_1a"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ullrich congenital muscular dystrophy 1b",
+        "TitleCaseName": "Ullrich Congenital Muscular Dystrophy 1b",
+        "Slug": "ullrich_congenital_muscular_dystrophy_1b"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ullrich congenital muscular dystrophy 1c",
+        "TitleCaseName": "Ullrich Congenital Muscular Dystrophy 1c",
+        "Slug": "ullrich_congenital_muscular_dystrophy_1c"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ullrich congenital muscular dystrophy 2",
+        "TitleCaseName": "Ullrich Congenital Muscular Dystrophy 2",
+        "Slug": "ullrich_congenital_muscular_dystrophy_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulna and fibula, absence of, with severe limb deficiency",
+        "TitleCaseName": "Ulna and Fibula, Absence of, with Severe Limb Deficiency",
+        "Slug": "ulna_and_fibula_absence_of_with_severe_limb_deficiency_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulna and fibula, hypoplasia of",
+        "TitleCaseName": "Ulna and Fibula, Hypoplasia of",
+        "Slug": "ulna_and_fibula_hypoplasia_of"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulna hypoplasia-intellectual disability syndrome",
+        "TitleCaseName": "Ulna Hypoplasia-Intellectual Disability Syndrome",
+        "Slug": "ulna_hypoplasia_intellectual_disability_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulna metaphyseal dysplasia syndrome",
+        "TitleCaseName": "Ulna Metaphyseal Dysplasia Syndrome",
+        "Slug": "ulna_metaphyseal_dysplasia_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar agenesis and endocardial fibroelastosis",
+        "TitleCaseName": "Ulnar Agenesis and Endocardial Fibroelastosis",
+        "Slug": "ulnar_agenesis_and_endocardial_fibroelastosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar hemimelia",
+        "TitleCaseName": "Ulnar Hemimelia",
+        "Slug": "ulnar_hemimelia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar hypoplasia",
+        "TitleCaseName": "Ulnar Hypoplasia",
+        "Slug": "ulnar_hypoplasia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar hypoplasia with impaired intellectual development",
+        "TitleCaseName": "Ulnar Hypoplasia with Impaired Intellectual Development",
+        "Slug": "ulnar_hypoplasia_with_impaired_intellectual_development"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar hypoplasia with lobster-claw deformity of feet",
+        "TitleCaseName": "Ulnar Hypoplasia with Lobster-Claw Deformity of Feet",
+        "Slug": "ulnar_hypoplasia_with_lobster_claw_deformity_of_feet"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar nerve lesion",
+        "TitleCaseName": "Ulnar Nerve Lesion",
+        "Slug": "ulnar_nerve_lesion"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar neuropathy",
+        "TitleCaseName": "Ulnar Neuropathy",
+        "Slug": "ulnar_neuropathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar ray dysgenesis with postaxial polydactyly and renal cystic dysplasia",
+        "TitleCaseName": "Ulnar Ray Dysgenesis with Postaxial Polydactyly and Renal Cystic Dysplasia",
+        "Slug": "ulnar_ray_dysgenesis_with_postaxial_polydactyly_and_renal_cystic_dysplasia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar/fibula ray defect-brachydactyly syndrome",
+        "TitleCaseName": "Ulnar/fibula Ray Defect-Brachydactyly Syndrome",
+        "Slug": "ulnar_fibula_ray_defect_brachydactyly_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar/fibular ray defect and brachydactyly",
+        "TitleCaseName": "Ulnar/fibular Ray Defect and Brachydactyly",
+        "Slug": "ulnar_fibular_ray_defect_and_brachydactyly"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ulnar-mammary syndrome",
+        "TitleCaseName": "Ulnar-Mammary Syndrome",
+        "Slug": "ulnar_mammary_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "umbilical cord ulceration-intestinal atresia syndrome",
+        "TitleCaseName": "Umbilical Cord Ulceration-Intestinal Atresia Syndrome",
+        "Slug": "umbilical_cord_ulceration_intestinal_atresia_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "umbilical hernia",
+        "TitleCaseName": "Umbilical Hernia",
+        "Slug": "umbilical_hernia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "umbilicus, familial flat",
+        "TitleCaseName": "Umbilicus, Familial Flat",
+        "Slug": "umbilicus_familial_flat"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "umod-related autosomal dominant tubulointerstitial kidney disease",
+        "TitleCaseName": "Umod-Related Autosomal Dominant Tubulointerstitial Kidney Disease",
+        "Slug": "umod_related_autosomal_dominant_tubulointerstitial_kidney_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unc80 deficiency",
+        "TitleCaseName": "Unc80 Deficiency",
+        "Slug": "unc80_deficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified acute myeloid leukemia",
+        "TitleCaseName": "Unclassified Acute Myeloid Leukemia",
+        "Slug": "unclassified_acute_myeloid_leukemia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified autoinflammatory syndrome",
+        "TitleCaseName": "Unclassified Autoinflammatory Syndrome",
+        "Slug": "unclassified_autoinflammatory_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified autoinflammatory syndrome of childhood",
+        "TitleCaseName": "Unclassified Autoinflammatory Syndrome of Childhood",
+        "Slug": "unclassified_autoinflammatory_syndrome_of_childhood"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified cardiomyopathy",
+        "TitleCaseName": "Unclassified Cardiomyopathy",
+        "Slug": "unclassified_cardiomyopathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified genetic skin disorder",
+        "TitleCaseName": "Unclassified Genetic Skin Disorder",
+        "Slug": "unclassified_genetic_skin_disorder"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified intestinal pseudoobstruction",
+        "TitleCaseName": "Unclassified Intestinal Pseudoobstruction",
+        "Slug": "unclassified_intestinal_pseudoobstruction"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified myelodysplastic syndrome",
+        "TitleCaseName": "Unclassified Myelodysplastic Syndrome",
+        "Slug": "unclassified_myelodysplastic_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified myelodysplastic/myeloproliferative disease",
+        "TitleCaseName": "Unclassified Myelodysplastic/myeloproliferative Disease",
+        "Slug": "unclassified_myelodysplastic_myeloproliferative_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unclassified vasculitis",
+        "TitleCaseName": "Unclassified Vasculitis",
+        "Slug": "unclassified_vasculitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uncombable hair syndrome 1",
+        "TitleCaseName": "Uncombable Hair Syndrome 1",
+        "Slug": "uncombable_hair_syndrome_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uncombable hair syndrome 2",
+        "TitleCaseName": "Uncombable Hair Syndrome 2",
+        "Slug": "uncombable_hair_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uncombable hair syndrome 3",
+        "TitleCaseName": "Uncombable Hair Syndrome 3",
+        "Slug": "uncombable_hair_syndrome_3"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uncombable hair, retinal pigmentary dystrophy, dental anomalies, and brachydactyly",
+        "TitleCaseName": "Uncombable Hair, Retinal Pigmentary Dystrophy, Dental Anomalies, and Brachydactyly",
+        "Slug": "uncombable_hair_retinal_pigmentary_dystrophy_dental_anomalies_and_brachydactyly"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undetermined colitis",
+        "TitleCaseName": "Undetermined Colitis",
+        "Slug": "undetermined_colitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated carcinoma of esophagus",
+        "TitleCaseName": "Undifferentiated Carcinoma of Esophagus",
+        "Slug": "undifferentiated_carcinoma_of_esophagus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated carcinoma of liver and intrahepatic biliary tract",
+        "TitleCaseName": "Undifferentiated Carcinoma of Liver and Intrahepatic Biliary Tract",
+        "Slug": "undifferentiated_carcinoma_of_liver_and_intrahepatic_biliary_tract"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated carcinoma of stomach",
+        "TitleCaseName": "Undifferentiated Carcinoma of Stomach",
+        "Slug": "undifferentiated_carcinoma_of_stomach"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated carcinoma of the corpus uteri",
+        "TitleCaseName": "Undifferentiated Carcinoma of the Corpus Uteri",
+        "Slug": "undifferentiated_carcinoma_of_the_corpus_uteri"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated carcinoma with osteoclast-like giant cells of pancreas",
+        "TitleCaseName": "Undifferentiated Carcinoma with Osteoclast-Like Giant Cells of Pancreas",
+        "Slug": "undifferentiated_carcinoma_with_osteoclast_like_giant_cells_of_pancreas"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated connective tissue syndrome",
+        "TitleCaseName": "Undifferentiated Connective Tissue Syndrome",
+        "Slug": "undifferentiated_connective_tissue_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated embryonal sarcoma of the liver",
+        "TitleCaseName": "Undifferentiated Embryonal Sarcoma of the Liver",
+        "Slug": "undifferentiated_embryonal_sarcoma_of_the_liver"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undifferentiated pleomorphic sarcoma",
+        "TitleCaseName": "Undifferentiated Pleomorphic Sarcoma",
+        "Slug": "undifferentiated_pleomorphic_sarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "undritz anomaly",
+        "TitleCaseName": "Undritz Anomaly",
+        "Slug": "undritz_anomaly"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unexplained long-lasting fever/inflammatory syndrome",
+        "TitleCaseName": "Unexplained Long-Lasting Fever/inflammatory Syndrome",
+        "Slug": "unexplained_long_lasting_fever_inflammatory_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unexplained periodic fever syndrome",
+        "TitleCaseName": "Unexplained Periodic Fever Syndrome",
+        "Slug": "unexplained_periodic_fever_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unexplained periodic fever syndrome of childhood",
+        "TitleCaseName": "Unexplained Periodic Fever Syndrome of Childhood",
+        "Slug": "unexplained_periodic_fever_syndrome_of_childhood"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unicentric castleman disease",
+        "TitleCaseName": "Unicentric Castleman Disease",
+        "Slug": "unicentric_castleman_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unicervical bicornuate uterus",
+        "TitleCaseName": "Unicervical Bicornuate Uterus",
+        "Slug": "unicervical_bicornuate_uterus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral aplasia of the mullerian ducts",
+        "TitleCaseName": "Unilateral Aplasia of the Mullerian Ducts",
+        "Slug": "unilateral_aplasia_of_the_mullerian_ducts"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral congenital megacalycosis",
+        "TitleCaseName": "Unilateral Congenital Megacalycosis",
+        "Slug": "unilateral_congenital_megacalycosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral focal polymicrogyria",
+        "TitleCaseName": "Unilateral Focal Polymicrogyria",
+        "Slug": "unilateral_focal_polymicrogyria"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral hemispheric polymicrogyria",
+        "TitleCaseName": "Unilateral Hemispheric Polymicrogyria",
+        "Slug": "unilateral_hemispheric_polymicrogyria"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral hyperactive labyrinth",
+        "TitleCaseName": "Unilateral Hyperactive Labyrinth",
+        "Slug": "unilateral_hyperactive_labyrinth"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral hypoactive labyrinth",
+        "TitleCaseName": "Unilateral Hypoactive Labyrinth",
+        "Slug": "unilateral_hypoactive_labyrinth"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral multicystic dysplastic kidney",
+        "TitleCaseName": "Unilateral Multicystic Dysplastic Kidney",
+        "Slug": "unilateral_multicystic_dysplastic_kidney"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral ocular duplication",
+        "TitleCaseName": "Unilateral Ocular Duplication",
+        "Slug": "unilateral_ocular_duplication"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral polymicrogyria",
+        "TitleCaseName": "Unilateral Polymicrogyria",
+        "Slug": "unilateral_polymicrogyria"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unilateral retinoblastoma",
+        "TitleCaseName": "Unilateral Retinoblastoma",
+        "Slug": "unilateral_retinoblastoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unique green phenomenon",
+        "TitleCaseName": "Unique Green Phenomenon",
+        "Slug": "unique_green_phenomenon"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "univentricular cardiopathy",
+        "TitleCaseName": "Univentricular Cardiopathy",
+        "Slug": "univentricular_cardiopathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "univentricular heart",
+        "TitleCaseName": "Univentricular Heart",
+        "Slug": "univentricular_heart"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unspecified juvenile idiopathic arthritis",
+        "TitleCaseName": "Unspecified Juvenile Idiopathic Arthritis",
+        "Slug": "unspecified_juvenile_idiopathic_arthritis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unspecified mitochondrial disorder",
+        "TitleCaseName": "Unspecified Mitochondrial Disorder",
+        "Slug": "unspecified_mitochondrial_disorder"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unstable hemoglobin disease",
+        "TitleCaseName": "Unstable Hemoglobin Disease",
+        "Slug": "unstable_hemoglobin_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "unverricht-lundborg syndrome",
+        "TitleCaseName": "Unverricht-Lundborg Syndrome",
+        "Slug": "unverricht_lundborg_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upington disease",
+        "TitleCaseName": "Upington Disease",
+        "Slug": "upington_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper clivus meningioma",
+        "TitleCaseName": "Upper Clivus Meningioma",
+        "Slug": "upper_clivus_meningioma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper gum cancer",
+        "TitleCaseName": "Upper Gum Cancer",
+        "Slug": "upper_gum_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper limb defect-eye and ear abnormalities syndrome",
+        "TitleCaseName": "Upper Limb Defect-Eye and Ear Abnormalities Syndrome",
+        "Slug": "upper_limb_defect_eye_and_ear_abnormalities_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper limb hypertrophy",
+        "TitleCaseName": "Upper Limb Hypertrophy",
+        "Slug": "upper_limb_hypertrophy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper lip cancer",
+        "TitleCaseName": "Upper Lip Cancer",
+        "Slug": "upper_lip_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper respiratory tract disease",
+        "TitleCaseName": "Upper Respiratory Tract Disease",
+        "Slug": "upper_respiratory_tract_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "upper tract urothelial carcinoma",
+        "TitleCaseName": "Upper Tract Urothelial Carcinoma",
+        "Slug": "upper_tract_urothelial_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urachal cyst",
+        "TitleCaseName": "Urachal Cyst",
+        "Slug": "urachal_cyst"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urachal diverticulum",
+        "TitleCaseName": "Urachal Diverticulum",
+        "Slug": "urachal_diverticulum"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urachal sinus",
+        "TitleCaseName": "Urachal Sinus",
+        "Slug": "urachal_sinus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urachus cancer",
+        "TitleCaseName": "Urachus Cancer",
+        "Slug": "urachus_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urate-binding globulin, decrease in",
+        "TitleCaseName": "Urate-Binding Globulin, Decrease in",
+        "Slug": "urate_binding_globulin_decrease_in"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urea cycle disorder",
+        "TitleCaseName": "Urea Cycle Disorder",
+        "Slug": "urea_cycle_disorder"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uremia",
+        "TitleCaseName": "Uremia",
+        "Slug": "uremia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uremic neuropathy",
+        "TitleCaseName": "Uremic Neuropathy",
+        "Slug": "uremic_neuropathy"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uremic pruritus",
+        "TitleCaseName": "Uremic Pruritus",
+        "Slug": "uremic_pruritus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter adenocarcinoma",
+        "TitleCaseName": "Ureter Adenocarcinoma",
+        "Slug": "ureter_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter inverted papilloma",
+        "TitleCaseName": "Ureter Inverted Papilloma",
+        "Slug": "ureter_inverted_papilloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter leiomyoma",
+        "TitleCaseName": "Ureter Leiomyoma",
+        "Slug": "ureter_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter small cell carcinoma",
+        "TitleCaseName": "Ureter Small Cell Carcinoma",
+        "Slug": "ureter_small_cell_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter squamous cell carcinoma",
+        "TitleCaseName": "Ureter Squamous Cell Carcinoma",
+        "Slug": "ureter_squamous_cell_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter transitional cell carcinoma",
+        "TitleCaseName": "Ureter Transitional Cell Carcinoma",
+        "Slug": "ureter_transitional_cell_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter tuberculosis",
+        "TitleCaseName": "Ureter Tuberculosis",
+        "Slug": "ureter_tuberculosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter urothelial papilloma",
+        "TitleCaseName": "Ureter Urothelial Papilloma",
+        "Slug": "ureter_urothelial_papilloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter, bifid or double",
+        "TitleCaseName": "Ureter, Bifid or Double",
+        "Slug": "ureter_bifid_or_double"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureter, cancer of",
+        "TitleCaseName": "Ureter, Cancer of",
+        "Slug": "ureter_cancer_of"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureteral benign neoplasm",
+        "TitleCaseName": "Ureteral Benign Neoplasm",
+        "Slug": "ureteral_benign_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureteral disease",
+        "TitleCaseName": "Ureteral Disease",
+        "Slug": "ureteral_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureteral lymphoma",
+        "TitleCaseName": "Ureteral Lymphoma",
+        "Slug": "ureteral_lymphoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureteral obstruction",
+        "TitleCaseName": "Ureteral Obstruction",
+        "Slug": "ureteral_obstruction"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureteric orifice cancer",
+        "TitleCaseName": "Ureteric Orifice Cancer",
+        "Slug": "ureteric_orifice_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureterocele",
+        "TitleCaseName": "Ureterocele",
+        "Slug": "ureterocele"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "ureterolithiasis",
+        "TitleCaseName": "Ureterolithiasis",
+        "Slug": "ureterolithiasis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra adenocarcinoma",
+        "TitleCaseName": "Urethra Adenocarcinoma",
+        "Slug": "urethra_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra cancer",
+        "TitleCaseName": "Urethra Cancer",
+        "Slug": "urethra_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra clear cell adenocarcinoma",
+        "TitleCaseName": "Urethra Clear Cell Adenocarcinoma",
+        "Slug": "urethra_clear_cell_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra inverted papilloma",
+        "TitleCaseName": "Urethra Inverted Papilloma",
+        "Slug": "urethra_inverted_papilloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra leiomyoma",
+        "TitleCaseName": "Urethra Leiomyoma",
+        "Slug": "urethra_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra squamous cell carcinoma",
+        "TitleCaseName": "Urethra Squamous Cell Carcinoma",
+        "Slug": "urethra_squamous_cell_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethra transitional cell carcinoma",
+        "TitleCaseName": "Urethra Transitional Cell Carcinoma",
+        "Slug": "urethra_transitional_cell_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral benign neoplasm",
+        "TitleCaseName": "Urethral Benign Neoplasm",
+        "Slug": "urethral_benign_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral calculus",
+        "TitleCaseName": "Urethral Calculus",
+        "Slug": "urethral_calculus"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral diverticulum",
+        "TitleCaseName": "Urethral Diverticulum",
+        "Slug": "urethral_diverticulum"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral false passage",
+        "TitleCaseName": "Urethral False Passage",
+        "Slug": "urethral_false_passage"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral gland abscess",
+        "TitleCaseName": "Urethral Gland Abscess",
+        "Slug": "urethral_gland_abscess"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral intrinsic sphincter deficiency",
+        "TitleCaseName": "Urethral Intrinsic Sphincter Deficiency",
+        "Slug": "urethral_intrinsic_sphincter_deficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral obstruction sequence",
+        "TitleCaseName": "Urethral Obstruction Sequence",
+        "Slug": "urethral_obstruction_sequence"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral stricture",
+        "TitleCaseName": "Urethral Stricture",
+        "Slug": "urethral_stricture"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral syndrome",
+        "TitleCaseName": "Urethral Syndrome",
+        "Slug": "urethral_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral urothelial papilloma",
+        "TitleCaseName": "Urethral Urothelial Papilloma",
+        "Slug": "urethral_urothelial_papilloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral verrucous carcinoma",
+        "TitleCaseName": "Urethral Verrucous Carcinoma",
+        "Slug": "urethral_verrucous_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethral villous adenoma",
+        "TitleCaseName": "Urethral Villous Adenoma",
+        "Slug": "urethral_villous_adenoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urethritis",
+        "TitleCaseName": "Urethritis",
+        "Slug": "urethritis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uric acid concentration, serum, quantitative trait locus 1",
+        "TitleCaseName": "Uric Acid Concentration, Serum, Quantitative Trait Locus 1",
+        "Slug": "uric_acid_concentration_serum_quantitative_trait_locus_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uric acid concentration, serum, quantitative trait locus 4",
+        "TitleCaseName": "Uric Acid Concentration, Serum, Quantitative Trait Locus 4",
+        "Slug": "uric_acid_concentration_serum_quantitative_trait_locus_4"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uric acid concentration, serum, quantitative trait locus 5",
+        "TitleCaseName": "Uric Acid Concentration, Serum, Quantitative Trait Locus 5",
+        "Slug": "uric_acid_concentration_serum_quantitative_trait_locus_5"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uric acid concentration, serum, quantitative trait locus 6",
+        "TitleCaseName": "Uric Acid Concentration, Serum, Quantitative Trait Locus 6",
+        "Slug": "uric_acid_concentration_serum_quantitative_trait_locus_6"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uridine-cytidineuria",
+        "TitleCaseName": "Uridine-Cytidineuria",
+        "Slug": "uridine_cytidineuria"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary bladder anterior wall cancer",
+        "TitleCaseName": "Urinary Bladder Anterior Wall Cancer",
+        "Slug": "urinary_bladder_anterior_wall_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary bladder inverted papilloma",
+        "TitleCaseName": "Urinary Bladder Inverted Papilloma",
+        "Slug": "urinary_bladder_inverted_papilloma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary bladder posterior wall cancer",
+        "TitleCaseName": "Urinary Bladder Posterior Wall Cancer",
+        "Slug": "urinary_bladder_posterior_wall_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary bladder small cell neuroendocrine carcinoma",
+        "TitleCaseName": "Urinary Bladder Small Cell Neuroendocrine Carcinoma",
+        "Slug": "urinary_bladder_small_cell_neuroendocrine_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary bladder villous adenoma",
+        "TitleCaseName": "Urinary Bladder Villous Adenoma",
+        "Slug": "urinary_bladder_villous_adenoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary schistosomiasis",
+        "TitleCaseName": "Urinary Schistosomiasis",
+        "Slug": "urinary_schistosomiasis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary system disease",
+        "TitleCaseName": "Urinary System Disease",
+        "Slug": "urinary_system_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary tract infection",
+        "TitleCaseName": "Urinary Tract Infection",
+        "Slug": "urinary_tract_infection"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary tract infections, recurrent",
+        "TitleCaseName": "Urinary Tract Infections, Recurrent",
+        "Slug": "urinary_tract_infections_recurrent"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary tract non-invasive transitional cell neoplasm",
+        "TitleCaseName": "Urinary Tract Non-Invasive Transitional Cell Neoplasm",
+        "Slug": "urinary_tract_non_invasive_transitional_cell_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary tract obstruction",
+        "TitleCaseName": "Urinary Tract Obstruction",
+        "Slug": "urinary_tract_obstruction"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urinary tract papillary transitional cell benign neoplasm",
+        "TitleCaseName": "Urinary Tract Papillary Transitional Cell Benign Neoplasm",
+        "Slug": "urinary_tract_papillary_transitional_cell_benign_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urocanase deficiency",
+        "TitleCaseName": "Urocanase Deficiency",
+        "Slug": "urocanase_deficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urofacial syndrome 1",
+        "TitleCaseName": "Urofacial Syndrome 1",
+        "Slug": "urofacial_syndrome_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urofacial syndrome 2",
+        "TitleCaseName": "Urofacial Syndrome 2",
+        "Slug": "urofacial_syndrome_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urogenital tract malformation",
+        "TitleCaseName": "Urogenital Tract Malformation",
+        "Slug": "urogenital_tract_malformation"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urogenital tuberculosis",
+        "TitleCaseName": "Urogenital Tuberculosis",
+        "Slug": "urogenital_tuberculosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urolithiasis",
+        "TitleCaseName": "Urolithiasis",
+        "Slug": "urolithiasis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urolithiasis, uric acid, autosomal dominant",
+        "TitleCaseName": "Urolithiasis, Uric Acid, Autosomal Dominant",
+        "Slug": "urolithiasis_uric_acid_autosomal_dominant"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urticaria",
+        "TitleCaseName": "Urticaria",
+        "Slug": "urticaria"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urticaria, aquagenic",
+        "TitleCaseName": "Urticaria, Aquagenic",
+        "Slug": "urticaria_aquagenic"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "urticaria, familial localized heat",
+        "TitleCaseName": "Urticaria, Familial Localized Heat",
+        "Slug": "urticaria_familial_localized_heat"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uruguay faciocardiomusculoskeletal syndrome",
+        "TitleCaseName": "Uruguay Faciocardiomusculoskeletal Syndrome",
+        "Slug": "uruguay_faciocardiomusculoskeletal_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome",
+        "TitleCaseName": "Usher Syndrome",
+        "Slug": "usher_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome type 2",
+        "TitleCaseName": "Usher Syndrome Type 2",
+        "Slug": "usher_syndrome_type_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type 1m",
+        "TitleCaseName": "Usher Syndrome, Type 1m",
+        "Slug": "usher_syndrome_type_1m"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type i",
+        "TitleCaseName": "Usher Syndrome, Type I",
+        "Slug": "usher_syndrome_type_i_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type ic",
+        "TitleCaseName": "Usher Syndrome, Type Ic",
+        "Slug": "usher_syndrome_type_ic"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type id",
+        "TitleCaseName": "Usher Syndrome, Type Id",
+        "Slug": "usher_syndrome_type_id"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type if",
+        "TitleCaseName": "Usher Syndrome, Type if",
+        "Slug": "usher_syndrome_type_if"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type ig",
+        "TitleCaseName": "Usher Syndrome, Type Ig",
+        "Slug": "usher_syndrome_type_ig"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type ih",
+        "TitleCaseName": "Usher Syndrome, Type Ih",
+        "Slug": "usher_syndrome_type_ih"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iia",
+        "TitleCaseName": "Usher Syndrome, Type Iia",
+        "Slug": "usher_syndrome_type_iia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iic",
+        "TitleCaseName": "Usher Syndrome, Type Iic",
+        "Slug": "usher_syndrome_type_iic"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iid",
+        "TitleCaseName": "Usher Syndrome, Type Iid",
+        "Slug": "usher_syndrome_type_iid"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iiia",
+        "TitleCaseName": "Usher Syndrome, Type Iiia",
+        "Slug": "usher_syndrome_type_iiia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iiib",
+        "TitleCaseName": "Usher Syndrome, Type Iiib",
+        "Slug": "usher_syndrome_type_iiib"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type ij",
+        "TitleCaseName": "Usher Syndrome, Type Ij",
+        "Slug": "usher_syndrome_type_ij"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type ik",
+        "TitleCaseName": "Usher Syndrome, Type Ik",
+        "Slug": "usher_syndrome_type_ik"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usher syndrome, type iv",
+        "TitleCaseName": "Usher Syndrome, Type Iv",
+        "Slug": "usher_syndrome_type_iv"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usmani-riazuddin syndrome, autosomal dominant",
+        "TitleCaseName": "Usmani-Riazuddin Syndrome, Autosomal Dominant",
+        "Slug": "usmani_riazuddin_syndrome_autosomal_dominant"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usmani-riazuddin syndrome, autosomal recessive",
+        "TitleCaseName": "Usmani-Riazuddin Syndrome, Autosomal Recessive",
+        "Slug": "usmani_riazuddin_syndrome_autosomal_recessive"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "usp18 deficiency",
+        "TitleCaseName": "Usp18 Deficiency",
+        "Slug": "usp18_deficiency"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine adnexa cancer",
+        "TitleCaseName": "Uterine Adnexa Cancer",
+        "Slug": "uterine_adnexa_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine anomalies",
+        "TitleCaseName": "Uterine Anomalies",
+        "Slug": "uterine_anomalies"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine benign neoplasm",
+        "TitleCaseName": "Uterine Benign Neoplasm",
+        "Slug": "uterine_benign_neoplasm"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine body mixed cancer",
+        "TitleCaseName": "Uterine Body Mixed Cancer",
+        "Slug": "uterine_body_mixed_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine carcinosarcoma",
+        "TitleCaseName": "Uterine Carcinosarcoma",
+        "Slug": "uterine_carcinosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine cervical aplasia and agenesis",
+        "TitleCaseName": "Uterine Cervical Aplasia and Agenesis",
+        "Slug": "uterine_cervical_aplasia_and_agenesis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine cervix leukoplakia",
+        "TitleCaseName": "Uterine Cervix Leukoplakia",
+        "Slug": "uterine_cervix_leukoplakia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus adenocarcinofibroma",
+        "TitleCaseName": "Uterine Corpus Adenocarcinofibroma",
+        "Slug": "uterine_corpus_adenocarcinofibroma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus adenofibroma",
+        "TitleCaseName": "Uterine Corpus Adenofibroma",
+        "Slug": "uterine_corpus_adenofibroma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus adenomatoid tumor",
+        "TitleCaseName": "Uterine Corpus Adenomatoid Tumor",
+        "Slug": "uterine_corpus_adenomatoid_tumor"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus adenosarcoma",
+        "TitleCaseName": "Uterine Corpus Adenosarcoma",
+        "Slug": "uterine_corpus_adenosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus apoplectic leiomyoma",
+        "TitleCaseName": "Uterine Corpus Apoplectic Leiomyoma",
+        "Slug": "uterine_corpus_apoplectic_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus atypical polypoid adenomyoma",
+        "TitleCaseName": "Uterine Corpus Atypical Polypoid Adenomyoma",
+        "Slug": "uterine_corpus_atypical_polypoid_adenomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus bizarre leiomyoma",
+        "TitleCaseName": "Uterine Corpus Bizarre Leiomyoma",
+        "Slug": "uterine_corpus_bizarre_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus cancer",
+        "TitleCaseName": "Uterine Corpus Cancer",
+        "Slug": "uterine_corpus_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus cellular leiomyoma",
+        "TitleCaseName": "Uterine Corpus Cellular Leiomyoma",
+        "Slug": "uterine_corpus_cellular_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus choriocarcinoma",
+        "TitleCaseName": "Uterine Corpus Choriocarcinoma",
+        "Slug": "uterine_corpus_choriocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus diffuse leiomyomatosis",
+        "TitleCaseName": "Uterine Corpus Diffuse Leiomyomatosis",
+        "Slug": "uterine_corpus_diffuse_leiomyomatosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus dissecting leiomyoma",
+        "TitleCaseName": "Uterine Corpus Dissecting Leiomyoma",
+        "Slug": "uterine_corpus_dissecting_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus endometrial carcinoma",
+        "TitleCaseName": "Uterine Corpus Endometrial Carcinoma",
+        "Slug": "uterine_corpus_endometrial_carcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus endometrial stromal sarcoma",
+        "TitleCaseName": "Uterine Corpus Endometrial Stromal Sarcoma",
+        "Slug": "uterine_corpus_endometrial_stromal_sarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus epithelioid leiomyoma",
+        "TitleCaseName": "Uterine Corpus Epithelioid Leiomyoma",
+        "Slug": "uterine_corpus_epithelioid_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus epithelioid leiomyosarcoma",
+        "TitleCaseName": "Uterine Corpus Epithelioid Leiomyosarcoma",
+        "Slug": "uterine_corpus_epithelioid_leiomyosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus leiomyomatosis",
+        "TitleCaseName": "Uterine Corpus Leiomyomatosis",
+        "Slug": "uterine_corpus_leiomyomatosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus lipoleiomyoma",
+        "TitleCaseName": "Uterine Corpus Lipoleiomyoma",
+        "Slug": "uterine_corpus_lipoleiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus myxoid leiomyoma",
+        "TitleCaseName": "Uterine Corpus Myxoid Leiomyoma",
+        "Slug": "uterine_corpus_myxoid_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus myxoid leiomyosarcoma",
+        "TitleCaseName": "Uterine Corpus Myxoid Leiomyosarcoma",
+        "Slug": "uterine_corpus_myxoid_leiomyosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine corpus sarcoma",
+        "TitleCaseName": "Uterine Corpus Sarcoma",
+        "Slug": "uterine_corpus_sarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine hypoplasia",
+        "TitleCaseName": "Uterine Hypoplasia",
+        "Slug": "uterine_hypoplasia"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine inflammatory disease",
+        "TitleCaseName": "Uterine Inflammatory Disease",
+        "Slug": "uterine_inflammatory_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine inversion",
+        "TitleCaseName": "Uterine Inversion",
+        "Slug": "uterine_inversion"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament adenocarcinoma",
+        "TitleCaseName": "Uterine Ligament Adenocarcinoma",
+        "Slug": "uterine_ligament_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament cancer",
+        "TitleCaseName": "Uterine Ligament Cancer",
+        "Slug": "uterine_ligament_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament clear cell adenocarcinoma",
+        "TitleCaseName": "Uterine Ligament Clear Cell Adenocarcinoma",
+        "Slug": "uterine_ligament_clear_cell_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament endometrioid adenocarcinoma",
+        "TitleCaseName": "Uterine Ligament Endometrioid Adenocarcinoma",
+        "Slug": "uterine_ligament_endometrioid_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament mucinous adenocarcinoma",
+        "TitleCaseName": "Uterine Ligament Mucinous Adenocarcinoma",
+        "Slug": "uterine_ligament_mucinous_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament papillary cystadenoma associated with von hippel-lindau disease",
+        "TitleCaseName": "Uterine Ligament Papillary Cystadenoma Associated with Von Hippel-Lindau Disease",
+        "Slug": "uterine_ligament_papillary_cystadenoma_associated_with_von_hippel_lindau_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterine ligament serous adenocarcinoma",
+        "TitleCaseName": "Uterine Ligament Serous Adenocarcinoma",
+        "Slug": "uterine_ligament_serous_adenocarcinoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterovaginal malformation",
+        "TitleCaseName": "Uterovaginal Malformation",
+        "Slug": "uterovaginal_malformation"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus bicornis bicollis with partial vaginal septum and unilateral hematocolpos with ipsilateral renal agenesis",
+        "TitleCaseName": "Uterus Bicornis Bicollis with Partial Vaginal Septum and Unilateral Hematocolpos with Ipsilateral Renal Agenesis",
+        "Slug": "uterus_bicornis_bicollis_with_partial_vaginal_septum_and_unilateral_hematocolpos_with_ipsilateral_renal_agenesis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus carcinoma in situ",
+        "TitleCaseName": "Uterus Carcinoma in Situ",
+        "Slug": "uterus_carcinoma_in_situ"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus interstitial leiomyoma",
+        "TitleCaseName": "Uterus Interstitial Leiomyoma",
+        "Slug": "uterus_interstitial_leiomyoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus intravascular leiomyomatosis",
+        "TitleCaseName": "Uterus Intravascular Leiomyomatosis",
+        "Slug": "uterus_intravascular_leiomyomatosis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus leiomyosarcoma",
+        "TitleCaseName": "Uterus Leiomyosarcoma",
+        "Slug": "uterus_leiomyosarcoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uterus perivascular epithelioid cell tumor",
+        "TitleCaseName": "Uterus Perivascular Epithelioid Cell Tumor",
+        "Slug": "uterus_perivascular_epithelioid_cell_tumor"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uveal coloboma-cleft lip and palate-intellectual disability",
+        "TitleCaseName": "Uveal Coloboma-Cleft Lip and Palate-Intellectual Disability",
+        "Slug": "uveal_coloboma_cleft_lip_and_palate_intellectual_disability_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uveal disease",
+        "TitleCaseName": "Uveal Disease",
+        "Slug": "uveal_disease"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uveal epithelioid cell melanoma",
+        "TitleCaseName": "Uveal Epithelioid Cell Melanoma",
+        "Slug": "uveal_epithelioid_cell_melanoma"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uveitis",
+        "TitleCaseName": "Uveitis",
+        "Slug": "uveitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uveoparotid fever",
+        "TitleCaseName": "Uveoparotid Fever",
+        "Slug": "uveoparotid_fever"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uv-sensitive syndrome",
+        "TitleCaseName": "Uv-Sensitive Syndrome",
+        "Slug": "uv_sensitive_syndrome"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uv-sensitive syndrome 1",
+        "TitleCaseName": "Uv-Sensitive Syndrome 1",
+        "Slug": "uv_sensitive_syndrome_1"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uv-sensitive syndrome 2",
+        "TitleCaseName": "Uv-Sensitive Syndrome 2",
+        "Slug": "uv_sensitive_syndrome_2_2"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uv-sensitive syndrome 3",
+        "TitleCaseName": "Uv-Sensitive Syndrome 3",
+        "Slug": "uv_sensitive_syndrome_3"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uvula cancer",
+        "TitleCaseName": "Uvula Cancer",
+        "Slug": "uvula_cancer"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uvula, bifid",
+        "TitleCaseName": "Uvula, Bifid",
+        "Slug": "uvula_bifid"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    },
+    {
+      "Data": {
+        "Description": "uvulitis",
+        "TitleCaseName": "Uvulitis",
+        "Slug": "uvulitis"
+      },
+      "MatchesSearch": false,
+      "RequiresExpansion": false
+    }
+  ],
+  "recordsTotal": 238,
+  "recordsFiltered": 238,
+  "searchMatches": 0,
+  "error": null
+}
