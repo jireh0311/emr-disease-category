@@ -1,0 +1,258 @@
+{
+    "data": [
+        {
+            "Data": {
+                "Description": "zaki syndrome",
+                "TitleCaseName": "Zaki Syndrome",
+                "Slug": "zaki_syndrome",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zap70-related combined immunodeficiency",
+                "TitleCaseName": "Zap70-Related Combined Immunodeficiency",
+                "Slug": "zap70_related_combined_immunodeficiency",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zap70-related severe combined immunodeficiency",
+                "TitleCaseName": "Zap70-Related Severe Combined Immunodeficiency",
+                "Slug": "zap70_related_severe_combined_immunodeficiency",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zebra body myopathy",
+                "TitleCaseName": "Zebra Body Myopathy",
+                "Slug": "zebra_body_myopathy",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zebrafish allergy",
+                "TitleCaseName": "Zebrafish Allergy",
+                "Slug": "zebrafish_allergy",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zechi-ceide syndrome",
+                "TitleCaseName": "Zechi-Ceide Syndrome",
+                "Slug": "zechi_ceide_syndrome_2",
+                "Category": "Neurological Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zellweger spectrum disorder",
+                "TitleCaseName": "Zellweger Spectrum Disorder",
+                "Slug": "zellweger_spectrum_disorder",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zellweger syndrome",
+                "TitleCaseName": "Zellweger Syndrome",
+                "Slug": "zellweger_syndrome",
+                "Category": "Genetic Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zellweger-like syndrome without peroxisomal anomalies",
+                "TitleCaseName": "Zellweger-Like Syndrome Without Peroxisomal Anomalies",
+                "Slug": "zellweger_like_syndrome_without_peroxisomal_anomalies",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zerres rietschel majewski syndrome",
+                "TitleCaseName": "Zerres Rietschel Majewski Syndrome",
+                "Slug": "zerres_rietschel_majewski_syndrome",
+                "Category": "Neurological Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "ziegler-huang syndrome",
+                "TitleCaseName": "Ziegler-Huang Syndrome",
+                "Slug": "ziegler_huang_syndrome",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zika fever",
+                "TitleCaseName": "Zika Fever",
+                "Slug": "zika_fever",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zika virus congenital syndrome",
+                "TitleCaseName": "Zika Virus Congenital Syndrome",
+                "Slug": "zika_virus_congenital_syndrome",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zimmermann-laband syndrome 1",
+                "TitleCaseName": "Zimmermann-Laband Syndrome 1",
+                "Slug": "zimmermann_laband_syndrome_1",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zimmermann-laband syndrome 2",
+                "TitleCaseName": "Zimmermann-Laband Syndrome 2",
+                "Slug": "zimmermann_laband_syndrome_2",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zimmermann-laband syndrome 3",
+                "TitleCaseName": "Zimmermann-Laband Syndrome 3",
+                "Slug": "zimmermann_laband_syndrome_3",
+                "Category": "Autoimmune Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zinc deficiency, transient neonatal",
+                "TitleCaseName": "Zinc Deficiency, Transient Neonatal",
+                "Slug": "zinc_deficiency_transient_neonatal",
+                "Category": "Genetic Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zinc, elevated plasma",
+                "TitleCaseName": "Zinc, Elevated Plasma",
+                "Slug": "zinc_elevated_plasma",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zinc-responsive necrolytic acral erythema",
+                "TitleCaseName": "Zinc-Responsive Necrolytic Acral Erythema",
+                "Slug": "zinc_responsive_necrolytic_acral_erythema",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zollinger-ellison syndrome",
+                "TitleCaseName": "Zollinger-Ellison Syndrome",
+                "Slug": "zollinger_ellison_syndrome",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zttk syndrome",
+                "TitleCaseName": "Zttk Syndrome",
+                "Slug": "zttk_syndrome",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zw10 interactor, antisense",
+                "TitleCaseName": "Zw10 Interactor, Antisense",
+                "Slug": "zw10_interactor_antisense",
+                "Category": "Genetic Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zygodactyly 1",
+                "TitleCaseName": "Zygodactyly 1",
+                "Slug": "zygodactyly_1",
+                "Category": "Infectious Disease"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zygodactyly type 3",
+                "TitleCaseName": "Zygodactyly Type 3",
+                "Slug": "zygodactyly_type_3",
+                "Category": "Other"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        },
+        {
+            "Data": {
+                "Description": "zygodactyly type 4",
+                "TitleCaseName": "Zygodactyly Type 4",
+                "Slug": "zygodactyly_type_4",
+                "Category": "Genetic Disorder"
+            },
+            "MatchesSearch": false,
+            "RequiresExpansion": false
+        }
+    ],
+    "recordsTotal": 25,
+    "recordsFiltered": 25,
+    "searchMatches": 0,
+    "error": null
+}
